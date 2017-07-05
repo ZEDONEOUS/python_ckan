@@ -3,15 +3,19 @@
 import json
 import time
 from ckanapi import RemoteCKAN
+from termcolor import colored
 
 
 class LocalCKAN():
-    """docstring for LocalCKAN."""
     def __init__(self, query_point):
+        self.local_instance = query_point
         self.query_point = RemoteCKAN(query_point)
 
     def fetch_package_list(self, limit = 0):
-        return self.format_json_output(self.query_point.action.package_list(limit = limit))
+        package_list = self.query_point.action.package_list(limit = limit)
+        package_list_name = self.format_instance_name(self.local_instance)
+        self.create_json_file(package_list, "package_list_" + package_list_name)
+        return self.format_json_output(package_list)
 
     def fetch_package_list_with_resources(self, limit = 0, offset = 0):
         out_temp = ""
@@ -35,10 +39,9 @@ class LocalCKAN():
         while local_offset < package_list_length:
             package_metadata["result"] = package_metadata["result"] + json.loads(self.fetch_package_list_with_resources(limit, local_offset))
             local_offset = local_offset + 1000
-            print "local_offset: ", local_offset
-            print "package_list_length: ", package_list_length
-            self.create_json_file(package_metadata, "temp_files" + str(local_offset))
-        print len(package_metadata["result"])
+            print colored("paquetes analizados: "+ str(local_offset), "green")
+            print colored("numero total de paquetes: "+ str(package_list_length), "green")
+
         for i in xrange(0, len(package_metadata["result"])):
             temp_obj = {}
             if "title" in package_metadata["result"][i]:
@@ -128,23 +131,47 @@ class LocalCKAN():
 
             metadata["packages"].append(temp_obj)
 
-        self.create_json_file(metadata, "metadata_datahub")
+        package_list_name = self.format_instance_name(self.local_instance)
+        self.create_json_file(metadata, "metadata_" + package_list_name)
 
     def format_json_output(self, data):
         return json.dumps(data, indent = 4, sort_keys = True)
 
     def create_json_file(self, data, name):
-        #json_data = json.loads(data)
         with open(name + ".json", "w") as outfile:
             json.dump(data, outfile, indent = 4, sort_keys = True)
 
+    def format_instance_name(self, name):
+        temp_name = name.replace("https://", "")
+        temp_name = temp_name.replace("http://", "")
+        temp_name = temp_name.replace(".", "_")
+        temp_name = temp_name.replace("/", "")
+        return temp_name
+
 
 def main():
-    last_time = time.time()
-    ckan_query = LocalCKAN("https://datahub.io/")
-    package_list = ckan_query.fetch_package_list()
-    ckan_query.process_package_list_with_resources(-1)
-    print "Tiempo que tardo la recoleccion de datos:", (time.time() - last_time), "segundos"
+    instances_list = [
+        "https://datahub.io/",
+        "https://africaopendata.org/",
+        "http://data.ottawa.ca/",
+        "https://data.gov.uk/",
+        "https://iatiregistry.org/",
+        "http://data.zagreb.hr/",
+        "http://drdsi.jrc.ec.europa.eu/",
+        "http://dartportal.leeds.ac.uk",
+        "http://data.gov.ro",
+        "http://opendata.caceres.es"
+    ]
+    for instance in instances_list:
+        print " "
+        print colored(instance, "blue")
+        last_time = time.time()
+        ckan_query = LocalCKAN(instance)
+        print colored("---------------------------------------", "blue")
+        print colored("Obteniendo package list de: " + instance, "yellow")
+        ckan_query.fetch_package_list()
+        ckan_query.process_package_list_with_resources(-1)
+        print "Tiempo que tardo la recoleccion de datos para " + instance + ": ", (time.time() - last_time), "segundos"
 
 if __name__ == '__main__':
     main()

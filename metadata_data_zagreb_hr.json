@@ -1,0 +1,2088 @@
+{
+    "packages": [
+        {
+            "author": "", 
+            "license_title": "Creative Commons Attribution", 
+            "metadata_created": "2016-06-24T12:59:50.166152", 
+            "metadata_modified": "2017-03-23T13:08:29.477636", 
+            "organization_description": " ", 
+            "relationships_as_object": [], 
+            "relationships_as_subject": [], 
+            "resources": [
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": "2017-03-23T13:07:50.333708", 
+                    "name": "Nadzorne kamere GZ", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/c553a026-1ac6-47f7-b567-fbf6afc1b565/resource/d42d2195-16fa-4354-a59b-0cae326c60dc/download/kamere-1.xlsx"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "", 
+                    "last_modified": "2017-03-23T13:08:29.442308", 
+                    "name": "Nadzorne kamere GZ ", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/c553a026-1ac6-47f7-b567-fbf6afc1b565/resource/a22cc365-5ba7-46fd-ab55-0cefb21561cd/download/kamere-1.csv"
+                }
+            ], 
+            "revision_id": "a8d1af8a-205b-4330-b752-51819b894e03", 
+            "tags": [], 
+            "title": "Popis nadzornih kamera na podru\u010dju Grada Zagreba"
+        }, 
+        {
+            "author": "", 
+            "license_title": "Creative Commons Attribution", 
+            "metadata_created": "2016-06-07T11:04:15.311915", 
+            "metadata_modified": "2017-02-17T10:45:48.461725", 
+            "organization_description": " ", 
+            "relationships_as_object": [], 
+            "relationships_as_subject": [], 
+            "resources": [
+                {
+                    "format": "XLS", 
+                    "hash": "", 
+                    "last_modified": "2017-02-17T10:44:51.818403", 
+                    "name": "WiFi", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/a0f1cb3a-c85d-40b4-a0ad-e111de191ffc/resource/ef0d0851-1506-4fd4-a0c6-e6a2b3f908d7/download/pozicijebezpristtocaka2i.xls"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "", 
+                    "last_modified": "2017-02-17T10:45:48.422520", 
+                    "name": "WiFi", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/a0f1cb3a-c85d-40b4-a0ad-e111de191ffc/resource/3bca00b7-30d2-4179-a77e-a21f0069974f/download/pozicijebezpristtocaka2i.csv"
+                }
+            ], 
+            "revision_id": "625dda1c-bc05-46dc-baf9-d5ca64c14c40", 
+            "tags": [
+                {
+                    "tag_id": "9f4ba63b-4f18-4f14-8102-6c8302667c4b", 
+                    "tag_name": "WiFi"
+                }
+            ], 
+            "title": "Pozicije be\u017ei\u010dnih pristupnih to\u010dki Grada Zagreba"
+        }, 
+        {
+            "author": "", 
+            "license_title": "Creative Commons Attribution", 
+            "metadata_created": "2017-02-15T09:52:21.380296", 
+            "metadata_modified": "2017-02-15T10:00:50.900429", 
+            "organization_description": " ", 
+            "relationships_as_object": [], 
+            "relationships_as_subject": [], 
+            "resources": [
+                {
+                    "format": "PDF", 
+                    "hash": "", 
+                    "last_modified": "2017-02-15T09:53:11.047657", 
+                    "name": "Plan nabave 2017.", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/c7d7cf28-3863-422e-867f-f0ebdaa55f4a/resource/d40dd42f-9053-4e5c-8561-a12f0d0de35c/download/plan-nabave-za-2017.-od-07.02.2017..pdf"
+                }, 
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": "2017-02-15T09:53:26.527862", 
+                    "name": "Plan nabave 2017.", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/c7d7cf28-3863-422e-867f-f0ebdaa55f4a/resource/a6fbd945-caf8-4f29-8c52-52534126808d/download/plan-nabave-za-201703.02.2017..xlsx"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "", 
+                    "last_modified": "2017-02-15T09:53:40.129475", 
+                    "name": "Plan nabave 2017.", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/c7d7cf28-3863-422e-867f-f0ebdaa55f4a/resource/41be05dc-b9e2-4012-9391-ed53d3955730/download/plan-nabave-za-201703.02.2017..csv"
+                }
+            ], 
+            "revision_id": "5c46107f-e5b4-4cf3-b3e6-33aa8ccb6222", 
+            "tags": [], 
+            "title": "Plan nabave 2017"
+        }, 
+        {
+            "author": "", 
+            "license_title": "Creative Commons Attribution", 
+            "metadata_created": "2016-11-02T09:47:36.225417", 
+            "metadata_modified": "2017-01-05T08:05:06.996755", 
+            "organization_description": " ", 
+            "relationships_as_object": [], 
+            "relationships_as_subject": [], 
+            "resources": [
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": "2016-11-02T09:48:28.483153", 
+                    "name": "Izmjene i dopune plana nabave", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/134c9092-7093-41d3-9443-0ba0c9d26c7b/resource/104e0fdc-b88e-4c07-8e9b-b6b4ebf27b44/download/ii.-izmjene-i-dopune-plana-nabave.xlsx"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "", 
+                    "last_modified": "2016-11-02T09:48:42.536222", 
+                    "name": "Izmjene i dopune plana nabave", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/134c9092-7093-41d3-9443-0ba0c9d26c7b/resource/ad217511-11e5-4b52-b68d-632ac59c5c28/download/ii.-izmjene-i-dopune-plana-nabave.csv"
+                }, 
+                {
+                    "format": "PDF", 
+                    "hash": "", 
+                    "last_modified": "2016-11-02T09:48:58.274391", 
+                    "name": "Izmjene i dopune plana nabave", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/134c9092-7093-41d3-9443-0ba0c9d26c7b/resource/5377898a-76fa-4f96-9cdd-7976c43f2d04/download/ii.-izmjene-i-dopune-plana-nabave.pdf"
+                }, 
+                {
+                    "format": "PDF", 
+                    "hash": "", 
+                    "last_modified": "2017-01-05T08:03:08.305260", 
+                    "name": "Izmjene i dopune plana nabave", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/134c9092-7093-41d3-9443-0ba0c9d26c7b/resource/3a2d3343-7573-487d-a4bb-a2ac7711efd6/download/iii.-izmjene-i-dopune-plana-nabave-od-28.12.2016..pdf"
+                }, 
+                {
+                    "format": "XLS", 
+                    "hash": "", 
+                    "last_modified": "2017-01-05T08:03:50.581426", 
+                    "name": "Izmjene i dopune plana nabave", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/134c9092-7093-41d3-9443-0ba0c9d26c7b/resource/9e87a4a7-54d4-4c68-a5d8-f21dd09034d5/download/iii.-izmjene-i-dopune-28.12.2016.-.xls"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "", 
+                    "last_modified": "2017-01-05T08:05:06.950401", 
+                    "name": "Izmjene i dopune plana nabave", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/134c9092-7093-41d3-9443-0ba0c9d26c7b/resource/01f48957-6928-4cdf-8f53-c0111266addd/download/iii.-izmjene-i-dopune-28.12.2016.-.csv"
+                }
+            ], 
+            "revision_id": "1b1c0c7b-e8a2-428d-9bf1-6e6baa75e878", 
+            "tags": [], 
+            "title": "Plan nabave 2016"
+        }, 
+        {
+            "author": "", 
+            "license_title": "Creative Commons Attribution", 
+            "metadata_created": "2016-11-03T14:21:32.962587", 
+            "metadata_modified": "2016-11-03T14:24:15.186837", 
+            "organization_description": " ", 
+            "relationships_as_object": [], 
+            "relationships_as_subject": [], 
+            "resources": [
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": "2016-11-03T14:21:55.872444", 
+                    "name": "Izvje\u0161taj o obvezama za razdoblje za razdoblje 1. sije\u010dnja do 30. lipnja 2016. godine", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/439bdf8f-5073-442e-add5-e293e7bde085/resource/e7fad78c-1694-4707-8a51-987f26549b3e/download/obveze-06-2016.xlsx"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "", 
+                    "last_modified": "2016-11-03T14:22:05.561295", 
+                    "name": "Izvje\u0161taj o obvezama za razdoblje za razdoblje 1. sije\u010dnja do 30. lipnja 2016. godine", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/439bdf8f-5073-442e-add5-e293e7bde085/resource/6c6d7727-1459-49e2-aaf1-a855918ef6e1/download/obveze-06-2016.csv"
+                }, 
+                {
+                    "format": "PDF", 
+                    "hash": "", 
+                    "last_modified": "2016-11-03T14:22:15.624761", 
+                    "name": "Izvje\u0161taj o obvezama za razdoblje za razdoblje 1. sije\u010dnja do 30. lipnja 2016. godine", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/439bdf8f-5073-442e-add5-e293e7bde085/resource/93c3d167-3928-4349-bd7d-b37b311e4e1e/download/obveze-06-2016.pdf"
+                }, 
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": "2016-11-03T14:23:03.567783", 
+                    "name": "Izvje\u0161taj o prihodima i rashodima, primicima i izdacima za razdoblje 1. sije\u010dnja do 30. lipnja 2016. godine", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/439bdf8f-5073-442e-add5-e293e7bde085/resource/135d2736-2f9a-4035-8c11-d35304b285bc/download/pr-ras-06-2016.xlsx"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "", 
+                    "last_modified": "2016-11-03T14:23:15.779904", 
+                    "name": "Izvje\u0161taj o prihodima i rashodima, primicima i izdacima za razdoblje 1. sije\u010dnja do 30. lipnja 2016. godine", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/439bdf8f-5073-442e-add5-e293e7bde085/resource/505868aa-64f2-432a-9d71-0c4a031f0741/download/pr-ras-06-2016.csv"
+                }, 
+                {
+                    "format": "PDF", 
+                    "hash": "", 
+                    "last_modified": "2016-11-03T14:23:27.260784", 
+                    "name": "Izvje\u0161taj o prihodima i rashodima, primicima i izdacima za razdoblje 1. sije\u010dnja do 30. lipnja 2016. godine", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/439bdf8f-5073-442e-add5-e293e7bde085/resource/ea916080-f6ca-41b3-b9cf-ac259031eba1/download/pr-ras-06-2016.pdf"
+                }, 
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": "2016-11-03T14:23:52.494723", 
+                    "name": "Izvje\u0161taji prora\u010duna, prora\u010dunskih i izvanprora\u010dunskih korisnika za razdoblje: 1. sije\u010dnja do 30. lipnja 2016. godine", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/439bdf8f-5073-442e-add5-e293e7bde085/resource/dddf777e-5e8d-4f64-ab37-f9db6b16723c/download/referentna-stranica-06-2016.xlsx"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "", 
+                    "last_modified": "2016-11-03T14:24:02.557031", 
+                    "name": "Izvje\u0161taji prora\u010duna, prora\u010dunskih i izvanprora\u010dunskih korisnika za razdoblje: 1. sije\u010dnja do 30. lipnja 2016. godine", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/439bdf8f-5073-442e-add5-e293e7bde085/resource/2a52c1dd-d862-4cbe-9082-d5943a78608f/download/referentna-stranica-06-2016.csv"
+                }, 
+                {
+                    "format": "PDF", 
+                    "hash": "", 
+                    "last_modified": "2016-11-03T14:24:13.661870", 
+                    "name": "Izvje\u0161taji prora\u010duna, prora\u010dunskih i izvanprora\u010dunskih korisnika za razdoblje: 1. sije\u010dnja do 30. lipnja 2016. godine", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/439bdf8f-5073-442e-add5-e293e7bde085/resource/e5b5db8e-700a-410e-ae0f-1a3df05e70ce/download/referentna-stranica-06-2016.pdf"
+                }
+            ], 
+            "revision_id": "8ad5193b-0e52-495b-a788-3cf688832486", 
+            "tags": [], 
+            "title": "Financijski izvje\u0161taji za razdoblje od 01. sije\u010dnja do 30. lipnja 2016"
+        }, 
+        {
+            "author": "", 
+            "license_title": "Creative Commons Attribution", 
+            "metadata_created": "2016-11-03T14:13:48.162542", 
+            "metadata_modified": "2016-11-03T14:20:51.114526", 
+            "organization_description": " ", 
+            "relationships_as_object": [], 
+            "relationships_as_subject": [], 
+            "resources": [
+                {
+                    "format": "CSV", 
+                    "hash": "", 
+                    "last_modified": "2016-11-03T14:14:27.478200", 
+                    "name": "Bilanca, stanje na dan 31. prosinca 2015. godine", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/07b39e40-ce18-46a6-a342-93d76ede5762/resource/7926a1f7-bb76-4a47-b979-6582cb496a89/download/bilanca-12-2015.csv"
+                }, 
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": "2016-11-03T14:14:37.496508", 
+                    "name": "Bilanca, stanje na dan 31. prosinca 2015. godine", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/07b39e40-ce18-46a6-a342-93d76ede5762/resource/a417674c-b5d5-4b01-9964-8e24512c60db/download/bilanca-12-2015.xlsx"
+                }, 
+                {
+                    "format": "PDF", 
+                    "hash": "", 
+                    "last_modified": "2016-11-03T14:14:46.599179", 
+                    "name": "Bilanca, stanje na dan 31. prosinca 2015. godine", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/07b39e40-ce18-46a6-a342-93d76ede5762/resource/3a18812e-8a30-427e-8eed-c929495af5ef/download/bilanca-12-2015.pdf"
+                }, 
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": "2016-11-03T14:16:00.340369", 
+                    "name": "Izvje\u0161taj o obvezama za razdoblje 1. listopada do 31. prosinca 2015. godine", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/07b39e40-ce18-46a6-a342-93d76ede5762/resource/cefa337c-03e9-404a-860a-d3be7137e5a4/download/obveze-12-2015.xlsx"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "", 
+                    "last_modified": "2016-11-03T14:16:11.794840", 
+                    "name": "Izvje\u0161taj o obvezama za razdoblje 1. listopada do 31. prosinca 2015. godine", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/07b39e40-ce18-46a6-a342-93d76ede5762/resource/f664c4d4-c695-41c9-afa2-6179a859098a/download/obveze-12-2015.csv"
+                }, 
+                {
+                    "format": "PDF", 
+                    "hash": "", 
+                    "last_modified": "2016-11-03T14:16:22.248686", 
+                    "name": "Izvje\u0161taj o obvezama za razdoblje 1. listopada do 31. prosinca 2015. godine", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/07b39e40-ce18-46a6-a342-93d76ede5762/resource/185376e8-f939-43cd-b89f-2bd27fde5602/download/obveze-12-2015.pdf"
+                }, 
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": "2016-11-03T14:17:18.683727", 
+                    "name": "Izvje\u0161taj o prihodima i rashodima, primicima i izdacima za razdoblje 1. sije\u010dnja do 31. prosinca 2015. godine", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/07b39e40-ce18-46a6-a342-93d76ede5762/resource/fae9d254-50e3-4d9d-8fea-bb0249084a91/download/pr-ras-12-2015.xlsx"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "", 
+                    "last_modified": "2016-11-03T14:17:29.010859", 
+                    "name": "Izvje\u0161taj o prihodima i rashodima, primicima i izdacima za razdoblje 1. sije\u010dnja do 31. prosinca 2015. godine", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/07b39e40-ce18-46a6-a342-93d76ede5762/resource/a5260282-92f1-49c4-92f4-da40115012ff/download/pr-ras-12-2015.csv"
+                }, 
+                {
+                    "format": "PDF", 
+                    "hash": "", 
+                    "last_modified": "2016-11-03T14:17:41.390179", 
+                    "name": "Izvje\u0161taj o prihodima i rashodima, primicima i izdacima za razdoblje 1. sije\u010dnja do 31. prosinca 2015. godine", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/07b39e40-ce18-46a6-a342-93d76ede5762/resource/6239a8eb-639f-41f8-845b-ce9a970f5211/download/pr-ras-12-2015.pdf"
+                }, 
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": "2016-11-03T14:18:02.102170", 
+                    "name": "Izvje\u0161taj o promjenama u vrijednosti i obujmu imovine i obveza za razdoblje 1. sije\u010dnja do 31. prosinca 2015. godine", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/07b39e40-ce18-46a6-a342-93d76ede5762/resource/f129d64c-1e90-42a6-a41b-53e6556f3c70/download/p-vrio-12-2015.xlsx"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "", 
+                    "last_modified": "2016-11-03T14:18:11.719006", 
+                    "name": "Izvje\u0161taj o promjenama u vrijednosti i obujmu imovine i obveza za razdoblje 1. sije\u010dnja do 31. prosinca 2015. godine", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/07b39e40-ce18-46a6-a342-93d76ede5762/resource/06f05c34-954f-4cfa-b66c-a6590f5ad673/download/p-vrio-12-2015.csv"
+                }, 
+                {
+                    "format": "PDF", 
+                    "hash": "", 
+                    "last_modified": "2016-11-03T14:18:24.159277", 
+                    "name": "Izvje\u0161taj o promjenama u vrijednosti i obujmu imovine i obveza za razdoblje 1. sije\u010dnja do 31. prosinca 2015. godine", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/07b39e40-ce18-46a6-a342-93d76ede5762/resource/03ccf719-3f8f-4cc0-b540-253410c2676b/download/p-vrio-12-2015.pdf"
+                }, 
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": "2016-11-03T14:18:48.748226", 
+                    "name": "Izvje\u0161taj o rashodima prema funkcijskoj klasifikaciji za razdoblje 1. sije\u010dnja do 31. prosinca 2015. godine", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/07b39e40-ce18-46a6-a342-93d76ede5762/resource/2dc2e078-2530-47b6-9ba2-479cbee57113/download/ras-funkcijski-12-2015.xlsx"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "", 
+                    "last_modified": "2016-11-03T14:19:00.310480", 
+                    "name": "Izvje\u0161taj o rashodima prema funkcijskoj klasifikaciji za razdoblje 1. sije\u010dnja do 31. prosinca 2015. godine", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/07b39e40-ce18-46a6-a342-93d76ede5762/resource/04e283cf-b875-4402-bd08-30d5ca7422ed/download/ras-funkcijski-12-2015.csv"
+                }, 
+                {
+                    "format": "PDF", 
+                    "hash": "", 
+                    "last_modified": "2016-11-03T14:19:11.928343", 
+                    "name": "Izvje\u0161taj o rashodima prema funkcijskoj klasifikaciji za razdoblje 1. sije\u010dnja do 31. prosinca 2015. godine", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/07b39e40-ce18-46a6-a342-93d76ede5762/resource/6ab08972-4ec7-48e3-8121-83c18c8df30d/download/ras-funkcijski-12-2015.pdf"
+                }, 
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": "2016-11-03T14:19:34.189949", 
+                    "name": "Izvje\u0161taji prora\u010duna, prora\u010dunskih i izvanprora\u010dunskih korisnika za razdoblje: 1. sije\u010danj 2015. \u2013 31. prosinac 2015.", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/07b39e40-ce18-46a6-a342-93d76ede5762/resource/11979235-a624-48ac-be9b-35993393e3c5/download/referentna-stranica-12-2015.xlsx"
+                }, 
+                {
+                    "format": "PDF", 
+                    "hash": "", 
+                    "last_modified": "2016-11-03T14:19:53.805944", 
+                    "name": "Izvje\u0161taji prora\u010duna, prora\u010dunskih i izvanprora\u010dunskih korisnika za razdoblje: 1. sije\u010danj 2015. \u2013 31. prosinac 2015.", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/07b39e40-ce18-46a6-a342-93d76ede5762/resource/3c527d1d-a5b8-4039-a90f-05d30fa73d8a/download/referentna-stranica-12-2015.pdf"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "", 
+                    "last_modified": "2016-11-03T14:20:51.037985", 
+                    "name": "Izvje\u0161taji prora\u010duna, prora\u010dunskih i izvanprora\u010dunskih korisnika za razdoblje: 1. sije\u010danj 2015. \u2013 31. prosinac 2015.", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/07b39e40-ce18-46a6-a342-93d76ede5762/resource/9c1e58bc-f258-4d8a-92ea-18d200d0f056/download/referentna-stranica-12-2015.csv"
+                }
+            ], 
+            "revision_id": "6e290c40-21b9-46cd-bf1a-7358b9226c16", 
+            "tags": [
+                {
+                    "tag_id": "870a1640-e198-4997-9fa1-28bc19e853cc", 
+                    "tag_name": "financije"
+                }
+            ], 
+            "title": "Financijski izvje\u0161taji za razdoblje od 01. sije\u010dnja do 31. prosinca 2015"
+        }, 
+        {
+            "author": "", 
+            "license_title": "Creative Commons Attribution", 
+            "metadata_created": "2016-11-03T13:59:33.555084", 
+            "metadata_modified": "2016-11-03T14:10:05.934331", 
+            "organization_description": " ", 
+            "relationships_as_object": [], 
+            "relationships_as_subject": [], 
+            "resources": [
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": "2016-11-03T14:00:51.044619", 
+                    "name": "Bilanca, stanje na dan 31. prosinca 2014. godine", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/d7a65280-5551-4bda-a397-eac87e244053/resource/3a3e30d5-32d7-4b21-827e-a412a83fe49e/download/bilanca-12-2014.xlsx"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "", 
+                    "last_modified": "2016-11-03T14:01:12.196479", 
+                    "name": "Bilanca, stanje na dan 31. prosinca 2014. godine", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/d7a65280-5551-4bda-a397-eac87e244053/resource/65adc70c-b225-468f-8a73-bfe4eb7d3580/download/bilanca-12-2014.csv"
+                }, 
+                {
+                    "format": "PDF", 
+                    "hash": "", 
+                    "last_modified": "2016-11-03T14:01:26.427057", 
+                    "name": "Bilanca, stanje na dan 31. prosinca 2014. godine", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/d7a65280-5551-4bda-a397-eac87e244053/resource/ab02adb5-ca19-423c-b70f-20e8d61e8461/download/bilanca-12-2014.pdf"
+                }, 
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": "2016-11-03T14:02:58.459978", 
+                    "name": "Izvje\u0161taj o nov\u010danim tijekovima za razdoblje 1. sije\u010dnja do 31. prosinca 2014. godine", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/d7a65280-5551-4bda-a397-eac87e244053/resource/d47afe5f-3b6c-415a-bac0-bbf178a21d4b/download/nt-12-2014.xlsx"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "", 
+                    "last_modified": "2016-11-03T14:03:26.206623", 
+                    "name": "Izvje\u0161taj o nov\u010danim tijekovima za razdoblje 1. sije\u010dnja do 31. prosinca 2014. godine", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/d7a65280-5551-4bda-a397-eac87e244053/resource/b30ce930-7897-437b-8892-12dcfa90de2f/download/nt-12-2014.csv"
+                }, 
+                {
+                    "format": "PDF", 
+                    "hash": "", 
+                    "last_modified": "2016-11-03T14:03:45.475627", 
+                    "name": "Izvje\u0161taj o nov\u010danim tijekovima za razdoblje 1. sije\u010dnja do 31. prosinca 2014. godine", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/d7a65280-5551-4bda-a397-eac87e244053/resource/ff1e02fd-57ec-4e98-b792-865329c76d4e/download/nt-12-2014.pdf"
+                }, 
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": "2016-11-03T14:04:24.751399", 
+                    "name": "Izvje\u0161taj o obvezama za razdoblje 1. listopada do 31. prosinca 2014. godine", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/d7a65280-5551-4bda-a397-eac87e244053/resource/09a05dbe-6cdd-4a2b-b59c-2797eb4eb738/download/obveze-12-2014.xlsx"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "", 
+                    "last_modified": "2016-11-03T14:04:42.657876", 
+                    "name": "Izvje\u0161taj o obvezama za razdoblje 1. listopada do 31. prosinca 2014. godine", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/d7a65280-5551-4bda-a397-eac87e244053/resource/46ad0d84-e067-47bc-8b4f-de1e24230f40/download/obveze-12-2014.csv"
+                }, 
+                {
+                    "format": "PDF", 
+                    "hash": "", 
+                    "last_modified": "2016-11-03T14:05:02.245918", 
+                    "name": "Izvje\u0161taj o obvezama za razdoblje 1. listopada do 31. prosinca 2014. godine", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/d7a65280-5551-4bda-a397-eac87e244053/resource/92bd8521-57be-48a1-a711-ffd3585291a4/download/obveze-12-2014.pdf"
+                }, 
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": "2016-11-03T14:05:37.601761", 
+                    "name": "Izvje\u0161taj o prihodima i rashodima, primicima i izdacima za razdoblje 1. sije\u010dnja do 31. prosinca 2014. godine", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/d7a65280-5551-4bda-a397-eac87e244053/resource/ae80fe1f-e97c-4201-84d6-6c587d8fbeea/download/pr-ras-12-2014.xlsx"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "", 
+                    "last_modified": "2016-11-03T14:05:54.882496", 
+                    "name": "Izvje\u0161taj o prihodima i rashodima, primicima i izdacima za razdoblje 1. sije\u010dnja do 31. prosinca 2014. godine", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/d7a65280-5551-4bda-a397-eac87e244053/resource/fc391251-31d7-4ac7-a18b-38d717ee140c/download/pr-ras-12-2014.csv"
+                }, 
+                {
+                    "format": "PDF", 
+                    "hash": "", 
+                    "last_modified": "2016-11-03T14:06:12.807130", 
+                    "name": "Izvje\u0161taj o prihodima i rashodima, primicima i izdacima za razdoblje 1. sije\u010dnja do 31. prosinca 2014. godine", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/d7a65280-5551-4bda-a397-eac87e244053/resource/18f4e5ab-19e3-4aa6-a8ab-cfb40c18717c/download/pr-ras-12-2014.pdf"
+                }, 
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": "2016-11-03T14:06:49.763179", 
+                    "name": "Izvje\u0161taj o promjenama u vrijednosti i obujmu imovine i obveza za razdoblje 1. sije\u010dnja do 31. prosinca 2014. godine", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/d7a65280-5551-4bda-a397-eac87e244053/resource/bc32f38b-254a-4ef4-93a0-06fb08f025f6/download/p-vrio-12-2014.xlsx"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "", 
+                    "last_modified": "2016-11-03T14:07:08.761850", 
+                    "name": "Izvje\u0161taj o promjenama u vrijednosti i obujmu imovine i obveza za razdoblje 1. sije\u010dnja do 31. prosinca 2014. godine", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/d7a65280-5551-4bda-a397-eac87e244053/resource/3e99cb93-3868-4b3c-9b7b-8003a79f049d/download/p-vrio-12-2014.csv"
+                }, 
+                {
+                    "format": "PDF", 
+                    "hash": "", 
+                    "last_modified": "2016-11-03T14:07:34.266871", 
+                    "name": "Izvje\u0161taj o promjenama u vrijednosti i obujmu imovine i obveza za razdoblje 1. sije\u010dnja do 31. prosinca 2014. godine", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/d7a65280-5551-4bda-a397-eac87e244053/resource/34587a4f-5363-4844-8da0-a8a82add0549/download/p-vrio-12-2014.pdf"
+                }, 
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": "2016-11-03T14:08:13.410664", 
+                    "name": "Izvje\u0161taj o rashodima prema funkcijskoj klasifikaciji za razdoblje 1. sije\u010dnja do 31. prosinca 2014. godine", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/d7a65280-5551-4bda-a397-eac87e244053/resource/5c915340-8063-4170-9abc-fe0feedaada9/download/ras-funkcijski-12-2014.xlsx"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "", 
+                    "last_modified": "2016-11-03T14:08:30.672070", 
+                    "name": "Izvje\u0161taj o rashodima prema funkcijskoj klasifikaciji za razdoblje 1. sije\u010dnja do 31. prosinca 2014. godine", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/d7a65280-5551-4bda-a397-eac87e244053/resource/6a1c3791-82f8-464f-96a5-13e1703db169/download/ras-funkcijski-12-2014.csv"
+                }, 
+                {
+                    "format": "PDF", 
+                    "hash": "", 
+                    "last_modified": "2016-11-03T14:08:48.204592", 
+                    "name": "Izvje\u0161taj o rashodima prema funkcijskoj klasifikaciji za razdoblje 1. sije\u010dnja do 31. prosinca 2014. godine", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/d7a65280-5551-4bda-a397-eac87e244053/resource/549606dd-e1b0-44c9-ab30-391cdfc56f68/download/ras-funkcijski-12-2014.pdf"
+                }, 
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": "2016-11-03T14:09:27.790998", 
+                    "name": "Izvje\u0161taji prora\u010duna, prora\u010dunskih i izvanprora\u010dunskih korisnika za razdoblje: 1. sije\u010danj 2014. \u2013 31. prosinac 2014.", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/d7a65280-5551-4bda-a397-eac87e244053/resource/be774f26-a56d-4720-8600-54ff3aea3a61/download/referentna-stranica-12-2014.xlsx"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "", 
+                    "last_modified": "2016-11-03T14:09:46.966203", 
+                    "name": "Izvje\u0161taji prora\u010duna, prora\u010dunskih i izvanprora\u010dunskih korisnika za razdoblje: 1. sije\u010danj 2014. \u2013 31. prosinac 2014.", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/d7a65280-5551-4bda-a397-eac87e244053/resource/43d15054-6d63-41bc-bf4e-3d145c35ea01/download/referentna-stranica-12-2014.csv"
+                }, 
+                {
+                    "format": "PDF", 
+                    "hash": "", 
+                    "last_modified": "2016-11-03T14:10:05.867674", 
+                    "name": "Izvje\u0161taji prora\u010duna, prora\u010dunskih i izvanprora\u010dunskih korisnika za razdoblje: 1. sije\u010danj 2014. \u2013 31. prosinac 2014.", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/d7a65280-5551-4bda-a397-eac87e244053/resource/328004fc-ab65-49cf-83ce-2cc911d3ca01/download/referentna-stranica-12-2014.pdf"
+                }
+            ], 
+            "revision_id": "1e773fb6-ede4-4431-9177-354605a16c52", 
+            "tags": [], 
+            "title": "Financijski izvje\u0161taji za razdoblje od 01. sije\u010dnja do 31. prosinca 2014"
+        }, 
+        {
+            "author": "", 
+            "license_title": "Creative Commons Attribution", 
+            "metadata_created": "2016-10-17T07:32:58.455668", 
+            "metadata_modified": "2016-11-03T09:17:09.890611", 
+            "organization_description": " ", 
+            "relationships_as_object": [], 
+            "relationships_as_subject": [], 
+            "resources": [
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": "2016-10-17T07:33:29.351776", 
+                    "name": "Lokacije Zelenih otoka ", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/0b532fd6-fa24-4f90-8c5e-698b5cbe94b7/resource/366af554-54c4-406a-8dd7-332db206b5ef/download/zeleniotoci.xlsx"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "", 
+                    "last_modified": "2016-11-03T09:17:09.853054", 
+                    "name": "Lokacije Zelenih otoka ", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/0b532fd6-fa24-4f90-8c5e-698b5cbe94b7/resource/5d15eae4-6aa7-426c-b02c-a8fdb3d61a74/download/zeleniotoci.csv"
+                }
+            ], 
+            "revision_id": "c1b36258-5d8b-4e83-a29b-15136b1cd135", 
+            "tags": [
+                {
+                    "tag_id": "8ab85de8-7c06-40b2-ba04-e51dc5c3c43c", 
+                    "tag_name": "zeleni otok"
+                }
+            ], 
+            "title": "Lokacije zelenih otoka"
+        }, 
+        {
+            "author": "", 
+            "license_title": "Creative Commons Attribution", 
+            "metadata_created": "2016-11-02T09:10:07.012721", 
+            "metadata_modified": "2016-11-02T09:21:25.594474", 
+            "organization_description": " ", 
+            "relationships_as_object": [], 
+            "relationships_as_subject": [], 
+            "resources": [
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": "2016-11-02T09:15:56.448068", 
+                    "name": "Registar ugovora i okvirnih sporazuma (11.2014)", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/075c04d1-2355-4175-ab88-a010edb2e8a7/resource/2853f7e9-c08a-4f46-a133-58a1fd4a6746/download/reg2014.xlsx"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "", 
+                    "last_modified": "2016-11-02T09:16:17.809880", 
+                    "name": "Registar ugovora i okvirnih sporazuma (11.2014)", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/075c04d1-2355-4175-ab88-a010edb2e8a7/resource/a183b4cf-4ddb-4985-a028-4a29c985bfaf/download/reg2014.csv"
+                }, 
+                {
+                    "format": "PDF", 
+                    "hash": "", 
+                    "last_modified": "2016-11-02T09:16:43.073346", 
+                    "name": "Registar ugovora i okvirnih sporazuma (11.2014)", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/075c04d1-2355-4175-ab88-a010edb2e8a7/resource/4e87539f-b3ef-45df-9b94-4af69640ef0a/download/reg2014.pdf"
+                }, 
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": "2016-11-02T09:18:40.761576", 
+                    "name": "Registar ugovora i okvirnih sporazuma (03.2015)", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/075c04d1-2355-4175-ab88-a010edb2e8a7/resource/a599d3a8-c745-4b96-bd28-67d9dcec8716/download/reg2015.xlsx"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "", 
+                    "last_modified": "2016-11-02T09:19:12.361014", 
+                    "name": "Registar ugovora i okvirnih sporazuma (03.2015)", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/075c04d1-2355-4175-ab88-a010edb2e8a7/resource/980c11f9-8e9f-442f-870c-f47d2bc896ed/download/reg2015.csv"
+                }, 
+                {
+                    "format": "PDF", 
+                    "hash": "", 
+                    "last_modified": "2016-11-02T09:19:38.932658", 
+                    "name": "Registar ugovora i okvirnih sporazuma (03.2015)", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/075c04d1-2355-4175-ab88-a010edb2e8a7/resource/1f8e3a17-36c2-496c-a5e3-f336ba609c8b/download/reg2015.pdf"
+                }, 
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": "2016-11-02T09:20:39.704308", 
+                    "name": "Registar ugovora i okvirnih sporazuma (02.2016)", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/075c04d1-2355-4175-ab88-a010edb2e8a7/resource/9be65036-d2cb-44db-a93b-134631fc521d/download/registar2016.xlsx"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "", 
+                    "last_modified": "2016-11-02T09:20:58.967707", 
+                    "name": "Registar ugovora i okvirnih sporazuma (02.2016)", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/075c04d1-2355-4175-ab88-a010edb2e8a7/resource/481bb5f3-6ea7-4277-9e28-124c50249e67/download/registar2016.csv"
+                }, 
+                {
+                    "format": "PDF", 
+                    "hash": "", 
+                    "last_modified": "2016-11-02T09:21:25.326491", 
+                    "name": "Registar ugovora i okvirnih sporazuma (02.2016)", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/075c04d1-2355-4175-ab88-a010edb2e8a7/resource/2cd38a69-0f80-4b4b-9468-d244055707ba/download/registar2016.pdf"
+                }
+            ], 
+            "revision_id": "c3d76219-019f-4257-ae90-ad0af5c85ec2", 
+            "tags": [], 
+            "title": "Registar ugovora o javnoj nabavi i okvirnih sporazuma"
+        }, 
+        {
+            "author": "GU za poljoprivredu i \u0161umarstvo", 
+            "license_title": "Creative Commons Attribution", 
+            "metadata_created": "2016-08-03T12:46:18.995417", 
+            "metadata_modified": "2016-10-31T12:40:00.217338", 
+            "organization_description": " ", 
+            "relationships_as_object": [], 
+            "relationships_as_subject": [], 
+            "resources": [
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": "2016-08-03T12:46:56.320580", 
+                    "name": "Gradski vrtovi", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/314211e1-efb4-491b-9181-3ab0cb15744f/resource/b0243d30-c086-4057-b401-2f40030b11d9/download/vrtovi.xlsx"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "", 
+                    "last_modified": "2016-08-03T12:47:22.688338", 
+                    "name": "Gradski vrtovi", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/314211e1-efb4-491b-9181-3ab0cb15744f/resource/a9b656e8-309b-46b8-b64c-cc8462f2c72e/download/vrtovi.csv"
+                }, 
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": "2016-10-31T12:39:01.415196", 
+                    "name": "Gradski vrtovi", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/314211e1-efb4-491b-9181-3ab0cb15744f/resource/5d34df0c-be2b-46b8-a5b1-93d7c4537ab9/download/vrt.xlsx"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "", 
+                    "last_modified": "2016-10-31T12:39:36.799753", 
+                    "name": "Gradski vrtovi", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/314211e1-efb4-491b-9181-3ab0cb15744f/resource/9dc1282a-0927-41d4-b51a-01207b433ff3/download/vrt.csv"
+                }
+            ], 
+            "revision_id": "e3431e41-c957-4012-9a65-ebaa10d0b0ed", 
+            "tags": [], 
+            "title": "Gradski vrtovi Grada Zagreba"
+        }, 
+        {
+            "author": "", 
+            "license_title": "Creative Commons Attribution", 
+            "metadata_created": "2016-10-27T13:34:03.168340", 
+            "metadata_modified": "2016-10-27T13:36:14.966114", 
+            "organization_description": " ", 
+            "relationships_as_object": [], 
+            "relationships_as_subject": [], 
+            "resources": [
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": "2016-10-27T13:34:39.271633", 
+                    "name": "Prijavemz2013", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/db2f9d62-7d68-4948-bf30-5b764c610114/resource/542296b0-3c9c-493a-94fc-158823e0ba0e/download/mojzagreb2013.xlsx"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "", 
+                    "last_modified": "2016-10-27T13:34:58.328870", 
+                    "name": "Prijavemz2013", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/db2f9d62-7d68-4948-bf30-5b764c610114/resource/54579b23-1bf5-46dc-ab0a-d2e78295d8f3/download/mojzagreb2013.csv"
+                }, 
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": "2016-10-27T13:35:10.666862", 
+                    "name": "Prijavemz2014", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/db2f9d62-7d68-4948-bf30-5b764c610114/resource/4415f9f5-ffbe-41d8-a782-b932491d29d1/download/mojzagreb2014.xlsx"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "", 
+                    "last_modified": "2016-10-27T13:35:23.708390", 
+                    "name": "Prijavemz2014", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/db2f9d62-7d68-4948-bf30-5b764c610114/resource/0b8b1e19-6022-439e-96b4-89e58e1f4f5d/download/mojzagreb2014.csv"
+                }, 
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": "2016-10-27T13:35:35.472158", 
+                    "name": "Prijavemz2015", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/db2f9d62-7d68-4948-bf30-5b764c610114/resource/e8d0b082-7c0c-4ea7-914b-2f75f81282d2/download/mojzagreb2015.xlsx"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "", 
+                    "last_modified": "2016-10-27T13:35:48.552274", 
+                    "name": "Prijavemz2015", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/db2f9d62-7d68-4948-bf30-5b764c610114/resource/18238e6d-7a50-4b04-97a6-c0d3fd307149/download/mojzagreb2015.csv"
+                }, 
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": "2016-10-27T13:36:02.281598", 
+                    "name": "Prijavemz2016", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/db2f9d62-7d68-4948-bf30-5b764c610114/resource/257ce979-7e39-47bb-b921-035d1a71830a/download/mojzagreb2016.xlsx"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "", 
+                    "last_modified": "2016-10-27T13:36:13.965204", 
+                    "name": "Prijavemz2016", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/db2f9d62-7d68-4948-bf30-5b764c610114/resource/0967683b-fd07-4295-a106-41333b90e7b4/download/mojzagreb2016.csv"
+                }
+            ], 
+            "revision_id": "501012c2-d9d4-4dfa-a5fb-21d61adecf81", 
+            "tags": [], 
+            "title": "Nepravilnosti prijavljene od strane gra\u0111ana"
+        }, 
+        {
+            "author": "", 
+            "license_title": "Creative Commons Attribution", 
+            "metadata_created": "2016-10-27T13:08:45.397943", 
+            "metadata_modified": "2016-10-27T13:15:46.538217", 
+            "organization_description": " ", 
+            "relationships_as_object": [], 
+            "relationships_as_subject": [], 
+            "resources": [
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": "2016-10-27T13:09:42.890112", 
+                    "name": "Prijave2012", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/7aab351f-f1cb-4b4e-9e71-757519b4b84f/resource/5af0d355-54cb-4a83-82a0-949a9b527567/download/eprijave2012.xlsx"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "", 
+                    "last_modified": "2016-10-27T13:09:56.073899", 
+                    "name": "Prijave2012", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/7aab351f-f1cb-4b4e-9e71-757519b4b84f/resource/8930c991-655a-4a5c-8a89-9b1d234749e7/download/eprijave2012.csv"
+                }, 
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": "2016-10-27T13:12:14.245532", 
+                    "name": "Prijave2013", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/7aab351f-f1cb-4b4e-9e71-757519b4b84f/resource/b2da5cf4-0abb-48e3-ac1b-47bb8d267b7f/download/eprijave2013.xlsx"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "", 
+                    "last_modified": "2016-10-27T13:12:55.688217", 
+                    "name": "Prijave2013", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/7aab351f-f1cb-4b4e-9e71-757519b4b84f/resource/653d5e18-4e4c-4e57-9864-3518a6cf80cb/download/eprijave2013.csv"
+                }, 
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": "2016-10-27T13:13:43.526093", 
+                    "name": "Prijave2014", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/7aab351f-f1cb-4b4e-9e71-757519b4b84f/resource/7c78602c-ccd5-431f-ad1a-3342383d2b85/download/eprijave2014.xlsx"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "", 
+                    "last_modified": "2016-10-27T13:14:05.166935", 
+                    "name": "Prijave2014", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/7aab351f-f1cb-4b4e-9e71-757519b4b84f/resource/4e423e39-1b9b-4265-b916-bb007bba6634/download/eprijave2014.csv"
+                }, 
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": "2016-10-27T13:14:31.805834", 
+                    "name": "Prijave2015", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/7aab351f-f1cb-4b4e-9e71-757519b4b84f/resource/fa49cce6-1def-48d2-ad9f-782cd7d3264b/download/eprijave2015.xlsx"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "", 
+                    "last_modified": "2016-10-27T13:14:58.348176", 
+                    "name": "Prijave2015", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/7aab351f-f1cb-4b4e-9e71-757519b4b84f/resource/96476d77-89e1-46e3-9912-b3f690b0e91f/download/eprijave2015.csv"
+                }, 
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": "2016-10-27T13:15:26.104527", 
+                    "name": "Prijave2016", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/7aab351f-f1cb-4b4e-9e71-757519b4b84f/resource/60dc672c-ee7f-4bac-a75b-c3efeee32af4/download/eprijave2016.xlsx"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "", 
+                    "last_modified": "2016-10-27T13:15:46.481768", 
+                    "name": "Prijave2016", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/7aab351f-f1cb-4b4e-9e71-757519b4b84f/resource/ee0362d7-8f61-4f49-84b0-1e2d659d7637/download/eprijave2016.csv"
+                }
+            ], 
+            "revision_id": "20cae2d3-799a-4bdb-80a1-7668a53512b9", 
+            "tags": [], 
+            "title": "Prijave nepravilnosti komunalnih redara"
+        }, 
+        {
+            "author": "", 
+            "license_title": "Creative Commons Attribution", 
+            "metadata_created": "2016-10-17T07:30:16.265619", 
+            "metadata_modified": "2016-10-17T07:31:59.547013", 
+            "organization_description": " ", 
+            "relationships_as_object": [], 
+            "relationships_as_subject": [], 
+            "resources": [
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": "2016-10-17T07:30:38.199225", 
+                    "name": "Recikla\u017ena dvori\u0161ta Grada Zagreba", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/95d26a36-31ed-4c20-9a24-5640da82a1ac/resource/d580a16e-05e1-4324-9167-9fddd44e763c/download/reciklaznadvorista.xlsx"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "", 
+                    "last_modified": "2016-10-17T07:31:59.517278", 
+                    "name": "Recikla\u017ena dvori\u0161ta Grada Zagreba", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/95d26a36-31ed-4c20-9a24-5640da82a1ac/resource/96d07dcc-43f2-430e-8f36-d6249b7eb679/download/reciklaznadvorista.csv"
+                }
+            ], 
+            "revision_id": "8948cf4c-778b-4fb0-9e34-126da65c4d68", 
+            "tags": [], 
+            "title": "Recikla\u017ena dvori\u0161ta Grada Zagreba"
+        }, 
+        {
+            "author": "Ured Gradona\u010delnika", 
+            "license_title": "Creative Commons Attribution", 
+            "metadata_created": "2016-08-01T07:38:36.215322", 
+            "metadata_modified": "2016-08-03T12:49:29.606170", 
+            "organization_description": " ", 
+            "relationships_as_object": [], 
+            "relationships_as_subject": [], 
+            "resources": [
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": "2016-08-01T07:39:10.936502", 
+                    "name": "Medalje GZ 2016", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/0b4e4a05-3e3d-44f6-8a31-b090141779c8/resource/c27b3ed6-5ac1-44e3-8229-0de854cdd937/download/medalje2016.xlsx"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "", 
+                    "last_modified": "2016-08-01T07:59:37.767247", 
+                    "name": "Medalje GZ 2016", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/0b4e4a05-3e3d-44f6-8a31-b090141779c8/resource/7a8a3abc-5c33-4f1b-9fea-9c05eed4afca/download/medalje2016.csv"
+                }
+            ], 
+            "revision_id": "137092c4-4854-4d00-a97d-863cce561b69", 
+            "tags": [], 
+            "title": "Popis dobitnika Medalje Grada Zagreba"
+        }, 
+        {
+            "author": "", 
+            "license_title": "Creative Commons Attribution", 
+            "metadata_created": "2016-05-31T11:07:42.938447", 
+            "metadata_modified": "2016-06-30T11:26:31.422443", 
+            "organization_description": " ", 
+            "relationships_as_object": [], 
+            "relationships_as_subject": [], 
+            "resources": [
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": "2016-05-31T11:08:15.319304", 
+                    "name": "Broj obrtnika GZ", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/58aefbfb-6ff4-4b71-bb3b-0cd87d15d0e0/resource/cf9ce52c-f7d2-440c-8324-ab2343d60f6e/download/brojobrtnikagzg.xlsx"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "", 
+                    "last_modified": "2016-06-30T11:26:31.362489", 
+                    "name": "Broj obrtnika GZ ", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/58aefbfb-6ff4-4b71-bb3b-0cd87d15d0e0/resource/c243d9ea-0372-4e8f-8e5e-8036c7ae11b0/download/brojobrtnikagzg.csv"
+                }
+            ], 
+            "revision_id": "a50e8695-1912-4979-ab41-6652efdbd37e", 
+            "tags": [], 
+            "title": "Broj obrtnika"
+        }, 
+        {
+            "author": "", 
+            "license_title": "Creative Commons Attribution", 
+            "metadata_created": "2016-05-31T11:19:23.863457", 
+            "metadata_modified": "2016-06-30T11:25:26.352244", 
+            "organization_description": " ", 
+            "relationships_as_object": [], 
+            "relationships_as_subject": [], 
+            "resources": [
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": "2016-05-31T11:19:44.419893", 
+                    "name": "Dimnja\u010darske koncesije", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/513ecc41-78b8-47b8-8727-adfe0df14c7b/resource/60ad52d1-9bab-4913-b81c-77a12daec53a/download/dimnjacark.xlsx"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "", 
+                    "last_modified": "2016-06-30T11:25:15.652905", 
+                    "name": "Dimnja\u010darske koncesije ", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/513ecc41-78b8-47b8-8727-adfe0df14c7b/resource/50d16a78-9efa-410b-a191-a55f74996c26/download/dimnjacark.csv"
+                }
+            ], 
+            "revision_id": "5dbd63f8-3053-44e0-beb0-0a284729fb5c", 
+            "tags": [
+                {
+                    "tag_id": "af293d7d-b5d9-458a-bfe5-ee70896fd356", 
+                    "tag_name": "dimnja\u010dar"
+                }, 
+                {
+                    "tag_id": "c2eec99a-16bf-4c46-ac21-6023204f58cd", 
+                    "tag_name": "koncesije"
+                }
+            ], 
+            "title": "Dimnja\u010darske koncesije"
+        }, 
+        {
+            "author": "", 
+            "license_title": "Creative Commons Attribution", 
+            "metadata_created": "2016-05-31T11:31:16.772886", 
+            "metadata_modified": "2016-06-30T11:23:58.624624", 
+            "organization_description": " ", 
+            "relationships_as_object": [], 
+            "relationships_as_subject": [], 
+            "resources": [
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": "2016-06-30T11:23:29.787211", 
+                    "name": "Domovi zdravlja", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/e44fa65f-81f7-4fed-b4e7-d2944e85b35e/resource/6272d179-2b1d-47b6-a10f-7dfe11e910c6/download/domovizdravljaz.xlsx"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "", 
+                    "last_modified": "2016-06-30T11:23:58.595251", 
+                    "name": "Domovi zdravlja", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/e44fa65f-81f7-4fed-b4e7-d2944e85b35e/resource/0a8cd026-6d1e-4b36-a947-3b207ddf0f58/download/domovizdravljaz.csv"
+                }
+            ], 
+            "revision_id": "1bb50650-5188-4de7-b7c7-ffa96ed9050f", 
+            "tags": [
+                {
+                    "tag_id": "1be3f996-1714-4208-b51b-4c4a9e148a9e", 
+                    "tag_name": "zdravstvo"
+                }
+            ], 
+            "title": "Domovi zdravlja"
+        }, 
+        {
+            "author": "", 
+            "license_title": "Creative Commons Attribution", 
+            "metadata_created": "2016-05-31T11:34:50.566066", 
+            "metadata_modified": "2016-06-30T11:20:51.670154", 
+            "organization_description": " ", 
+            "relationships_as_object": [], 
+            "relationships_as_subject": [], 
+            "resources": [
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": "2016-05-31T11:35:05.251212", 
+                    "name": "Gradske \u010detvrti", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/e8e7152c-a148-4b4a-bffe-74a968930e9d/resource/9d8ab6c5-b763-490a-a886-b0e2724c6f0d/download/gradskecetvrtii.xlsx"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "", 
+                    "last_modified": "2016-06-30T11:20:51.611870", 
+                    "name": "Gradske \u010detvrti ", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/e8e7152c-a148-4b4a-bffe-74a968930e9d/resource/8cc476e1-ded4-49d7-8ff3-89399e408032/download/gradskecetvrtii.csv"
+                }
+            ], 
+            "revision_id": "b058e2a7-cac4-443a-bc50-d4acd78c08d0", 
+            "tags": [], 
+            "title": "\u010cetvrti Grada Zagreba"
+        }, 
+        {
+            "author": "", 
+            "license_title": "Creative Commons Attribution", 
+            "metadata_created": "2016-05-31T12:30:09.941573", 
+            "metadata_modified": "2016-06-30T11:19:08.297657", 
+            "organization_description": " ", 
+            "relationships_as_object": [], 
+            "relationships_as_subject": [], 
+            "resources": [
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": "2016-05-31T12:30:26.966375", 
+                    "name": "2013", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/79abdda1-6873-43dc-8a8f-d2fc70e88a7e/resource/a287cf1e-f4b3-42aa-8242-f0bb4cc54252/download/intervencije2013s.xlsx"
+                }, 
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": "2016-05-31T12:30:41.003069", 
+                    "name": "2014", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/79abdda1-6873-43dc-8a8f-d2fc70e88a7e/resource/28b0be05-8fbc-4b13-9767-320b108d6811/download/intervencije2014s.xlsx"
+                }, 
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": "2016-05-31T12:30:51.044868", 
+                    "name": "2015", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/79abdda1-6873-43dc-8a8f-d2fc70e88a7e/resource/ec0519e5-1d6f-4178-927a-d44c228447b0/download/intervencije2015s.xlsx"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "", 
+                    "last_modified": "2016-06-30T11:18:23.082947", 
+                    "name": "2013", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/79abdda1-6873-43dc-8a8f-d2fc70e88a7e/resource/7dafcaaa-5bf1-446e-8f19-18686d5d69de/download/intervencije2013s.csv"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "", 
+                    "last_modified": "2016-06-30T11:18:41.669018", 
+                    "name": "2014", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/79abdda1-6873-43dc-8a8f-d2fc70e88a7e/resource/c6b01a4f-c78f-47e8-9d04-2a4de0126029/download/intervencije2014s.csv"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "", 
+                    "last_modified": "2016-06-30T11:19:08.247366", 
+                    "name": "2015", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/79abdda1-6873-43dc-8a8f-d2fc70e88a7e/resource/c978f97a-f0da-4efd-8376-4b50deb2b01a/download/intervencije2015s.csv"
+                }
+            ], 
+            "revision_id": "3fe3fdf0-971f-48ad-b8d8-5072d84dc01f", 
+            "tags": [], 
+            "title": "Hitne intervencije na podru\u010dju Grada Zagreba"
+        }, 
+        {
+            "author": "", 
+            "license_title": "Creative Commons Attribution", 
+            "metadata_created": "2016-05-31T10:57:48.312218", 
+            "metadata_modified": "2016-06-30T11:15:19.460394", 
+            "organization_description": " ", 
+            "relationships_as_object": [], 
+            "relationships_as_subject": [], 
+            "resources": [
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": "2016-06-30T11:14:44.305722", 
+                    "name": "Zdravstvene ustanove", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/0b8172ca-6f8a-4006-8dbb-2cbc228c7ea7/resource/b96fc373-1c50-401a-8e70-b705605259ef/download/bolnicez.xlsx"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "", 
+                    "last_modified": "2016-06-30T11:15:19.390134", 
+                    "name": "Zdravstvene ustanove ", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/0b8172ca-6f8a-4006-8dbb-2cbc228c7ea7/resource/9a955b5f-b948-47d8-994e-3f8fa2bf86d4/download/bolnicez.csv"
+                }
+            ], 
+            "revision_id": "48f05975-9e31-4f80-b664-200a6e0c0f62", 
+            "tags": [
+                {
+                    "tag_id": "b9fa03d6-a503-4260-ac1c-98db7f9c0034", 
+                    "tag_name": "bolnice"
+                }, 
+                {
+                    "tag_id": "1be3f996-1714-4208-b51b-4c4a9e148a9e", 
+                    "tag_name": "zdravstvo"
+                }
+            ], 
+            "title": "Zdravstvene ustanove"
+        }, 
+        {
+            "author": "", 
+            "license_title": "Creative Commons Attribution", 
+            "metadata_created": "2016-05-31T12:35:04.322507", 
+            "metadata_modified": "2016-06-30T11:12:29.097665", 
+            "organization_description": " ", 
+            "relationships_as_object": [], 
+            "relationships_as_subject": [], 
+            "resources": [
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": "2016-06-30T11:12:29.059924", 
+                    "name": "Knji\u017enice", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/3613113f-e1a2-44c8-9525-f98abae57b09/resource/85a61aa0-a909-4828-a839-262d2166e565/download/knjizniceo.xlsx"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "", 
+                    "last_modified": "2016-06-30T11:08:33.230305", 
+                    "name": "Knji\u017enice", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/3613113f-e1a2-44c8-9525-f98abae57b09/resource/ec7fd628-a1fa-43fc-8367-ea44778b3f38/download/knjizniceo.csv"
+                }
+            ], 
+            "revision_id": "5beaac67-e975-4b14-8888-c41c0bed055d", 
+            "tags": [], 
+            "title": "Knji\u017enice Grada Zagreba"
+        }, 
+        {
+            "author": "", 
+            "license_title": "Creative Commons Attribution", 
+            "metadata_created": "2016-05-31T12:38:29.171316", 
+            "metadata_modified": "2016-06-30T11:04:10.655330", 
+            "organization_description": " ", 
+            "relationships_as_object": [], 
+            "relationships_as_subject": [], 
+            "resources": [
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": "2016-05-31T12:38:43.306803", 
+                    "name": "2015", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/9d88ed76-c6b3-4530-8e81-7c670611a6d8/resource/0a47b0a4-0770-492e-81c3-7942c2b89b4e/download/listadrustvpodp.xlsx"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "", 
+                    "last_modified": "2016-06-30T11:04:10.604879", 
+                    "name": "2015", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/9d88ed76-c6b3-4530-8e81-7c670611a6d8/resource/05859a2e-8bce-47b5-b720-a377b5aac9ee/download/listadrustvpodp.csv"
+                }
+            ], 
+            "revision_id": "bec1fb47-9ac6-46fc-bf32-0f98d04423b5", 
+            "tags": [
+                {
+                    "tag_id": "557b9488-6ca8-47eb-9da7-06cb26a5f475", 
+                    "tag_name": "potpore"
+                }
+            ], 
+            "title": "Potpore dru\u0161tvenog poduzetni\u0161tva"
+        }, 
+        {
+            "author": "", 
+            "license_title": "Creative Commons Attribution", 
+            "metadata_created": "2016-05-31T12:43:53.547572", 
+            "metadata_modified": "2016-06-30T10:58:00.190550", 
+            "organization_description": " ", 
+            "relationships_as_object": [], 
+            "relationships_as_subject": [], 
+            "resources": [
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": "2016-05-31T12:44:05.213418", 
+                    "name": "2015", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/e7c1b1a3-009c-4ab5-886a-47dd369bfebd/resource/4a771f66-83e0-4096-9f30-0c70882b7d89/download/listainternacpodp.xlsx"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "", 
+                    "last_modified": "2016-06-30T10:58:00.150058", 
+                    "name": "2015", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/e7c1b1a3-009c-4ab5-886a-47dd369bfebd/resource/4c0c6ad9-e1ec-411f-8e02-8d63efa6c6d8/download/listainternacpodp.csv"
+                }
+            ], 
+            "revision_id": "2891e8c4-5c5f-44c4-90e9-528ebf54e4de", 
+            "tags": [
+                {
+                    "tag_id": "557b9488-6ca8-47eb-9da7-06cb26a5f475", 
+                    "tag_name": "potpore"
+                }
+            ], 
+            "title": "Potpore za internacionaliziranje poslovanja malih i srednjih poduzetnika"
+        }, 
+        {
+            "author": "", 
+            "license_title": "Creative Commons Attribution", 
+            "metadata_created": "2016-05-31T12:45:41.697634", 
+            "metadata_modified": "2016-06-30T10:56:48.179129", 
+            "organization_description": " ", 
+            "relationships_as_object": [], 
+            "relationships_as_subject": [], 
+            "resources": [
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": "2016-05-31T12:45:55.616307", 
+                    "name": "Mjesni odbori", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/4dc300c3-ab50-454d-98d1-47cd739b1132/resource/fe5ce3ca-9e84-4634-8f65-88c2a2181d99/download/mjesniodborii.xlsx"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "", 
+                    "last_modified": "2016-06-30T10:56:48.144077", 
+                    "name": "Mjesni odbori", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/4dc300c3-ab50-454d-98d1-47cd739b1132/resource/de825f7b-9d87-4159-9500-475651e0acb3/download/mjesniodborii.csv"
+                }
+            ], 
+            "revision_id": "c505343c-ce59-4479-937e-a3a9d8aaa262", 
+            "tags": [], 
+            "title": "Mjesni odbori"
+        }, 
+        {
+            "author": "", 
+            "license_title": "Creative Commons Attribution", 
+            "metadata_created": "2016-05-31T12:49:36.185487", 
+            "metadata_modified": "2016-06-30T10:54:02.919536", 
+            "organization_description": " ", 
+            "relationships_as_object": [], 
+            "relationships_as_subject": [], 
+            "resources": [
+                {
+                    "format": "XLS", 
+                    "hash": "", 
+                    "last_modified": "2016-05-31T12:51:29.641462", 
+                    "name": "Nacionalne manjine", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/0946ccde-2413-4c58-9035-6de3c9b38d27/resource/96beb472-6615-4a70-b51e-dbf58b5b1ee6/download/nmanjinea.xls"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "", 
+                    "last_modified": "2016-06-30T10:54:02.881165", 
+                    "name": "Nacionalne manjine ", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/0946ccde-2413-4c58-9035-6de3c9b38d27/resource/5e96ae70-aca5-473e-b573-b223ec039676/download/nmanjinea.csv"
+                }
+            ], 
+            "revision_id": "99e4b62a-991d-41d5-b0f6-a39b2a5c3272", 
+            "tags": [], 
+            "title": "Nacionalne manjine"
+        }, 
+        {
+            "author": "", 
+            "license_title": "Creative Commons Attribution", 
+            "metadata_created": "2016-05-31T12:53:24.659749", 
+            "metadata_modified": "2016-06-30T10:53:06.836552", 
+            "organization_description": " ", 
+            "relationships_as_object": [], 
+            "relationships_as_subject": [], 
+            "resources": [
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": "2016-05-31T12:53:42.312428", 
+                    "name": "Osnovne \u0161kole", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/981c50c5-bf3e-4010-a77e-8b4440154583/resource/deb86659-89f1-4fac-8bd3-30a7f3a46ce9/download/osnovneo.xlsx"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "", 
+                    "last_modified": "2016-06-30T10:53:06.797475", 
+                    "name": "Osnovne \u0161kole ", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/981c50c5-bf3e-4010-a77e-8b4440154583/resource/a896a509-93a7-4099-8c27-cc0ca5d262f1/download/osnovneo.csv"
+                }
+            ], 
+            "revision_id": "643a22c0-c729-4ba8-9c4e-15c93124629a", 
+            "tags": [
+                {
+                    "tag_id": "1ea5d0ea-4825-4603-ad89-93b6936a29d0", 
+                    "tag_name": "obrazovanje"
+                }, 
+                {
+                    "tag_id": "6592f36b-f646-475c-926d-bbcba297d619", 
+                    "tag_name": "\u0161kole"
+                }
+            ], 
+            "title": "Osnovne \u0161kole Grada Zagreba"
+        }, 
+        {
+            "author": "", 
+            "license_title": "Creative Commons Attribution", 
+            "metadata_created": "2016-06-07T11:53:39.992760", 
+            "metadata_modified": "2016-06-30T10:50:17.725667", 
+            "organization_description": " ", 
+            "relationships_as_object": [], 
+            "relationships_as_subject": [], 
+            "resources": [
+                {
+                    "format": "XLS", 
+                    "hash": "", 
+                    "last_modified": "2016-06-07T11:53:50.835553", 
+                    "name": "\u017dupe", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/705bfd86-025c-4d19-b260-bcc3c4a804a7/resource/6292d7ba-f02e-4189-a0b7-5bdc13bbdf9a/download/upe-zagrebaka-nadbiskupijaa.xls"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "", 
+                    "last_modified": "2016-06-30T10:50:17.686797", 
+                    "name": "\u017dupe", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/705bfd86-025c-4d19-b260-bcc3c4a804a7/resource/f0bba293-2578-4548-8fdb-b05c875db5c0/download/zupe-zagrebaka-nadbiskupijaa.csv"
+                }
+            ], 
+            "revision_id": "cee262bc-d88d-4f84-8d17-acf64e20dabc", 
+            "tags": [], 
+            "title": "Zagreba\u010dka nadbiskupija - teritorijalna struktura"
+        }, 
+        {
+            "author": "", 
+            "license_title": "Creative Commons Attribution", 
+            "metadata_created": "2016-06-07T11:50:58.434976", 
+            "metadata_modified": "2016-06-30T10:49:05.222458", 
+            "organization_description": " ", 
+            "relationships_as_object": [], 
+            "relationships_as_subject": [], 
+            "resources": [
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": "2016-06-07T11:51:13.788596", 
+                    "name": "ZGH - podru\u017enice", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/ecf49ebf-be3a-491c-b134-3fd075e2559e/resource/2acf2295-e6ea-4ccf-80a9-e46251d8a60a/download/zghpodruznice.xlsx"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "", 
+                    "last_modified": "2016-06-30T10:49:05.166160", 
+                    "name": "ZGH - podru\u017enice ", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/ecf49ebf-be3a-491c-b134-3fd075e2559e/resource/213625f9-4048-478f-a769-e3a561d10140/download/zghpodruznice.csv"
+                }
+            ], 
+            "revision_id": "fee6b191-061f-4e39-8b04-b3b7df0388d2", 
+            "tags": [], 
+            "title": "Podru\u017enice Zagreba\u010dkog Holdinga"
+        }, 
+        {
+            "author": "", 
+            "license_title": "Creative Commons Attribution", 
+            "metadata_created": "2016-06-07T11:49:46.184287", 
+            "metadata_modified": "2016-06-30T10:48:06.813496", 
+            "organization_description": " ", 
+            "relationships_as_object": [], 
+            "relationships_as_subject": [], 
+            "resources": [
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": "2016-06-07T11:49:56.877179", 
+                    "name": "Vrti\u0107i", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/65c23f8d-d333-4ec1-9a43-81876ad0a9fc/resource/4b54a3da-f217-4156-8bf4-b469fa142935/download/vrticio.xlsx"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "", 
+                    "last_modified": "2016-06-30T10:47:54.675120", 
+                    "name": "Vrti\u0107i ", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/65c23f8d-d333-4ec1-9a43-81876ad0a9fc/resource/0919ed9d-989e-449a-8457-5049b37c4a6c/download/vrticio.csv"
+                }
+            ], 
+            "revision_id": "020433c0-09fb-4b66-a258-06b23b255daf", 
+            "tags": [
+                {
+                    "tag_id": "1ea5d0ea-4825-4603-ad89-93b6936a29d0", 
+                    "tag_name": "obrazovanje"
+                }, 
+                {
+                    "tag_id": "26074ed0-854a-435b-b833-0604286eaec0", 
+                    "tag_name": "vrti\u0107i"
+                }
+            ], 
+            "title": "Pred\u0161kolske ustanove Grada Zagreba"
+        }, 
+        {
+            "author": "", 
+            "license_title": "Creative Commons Attribution", 
+            "metadata_created": "2016-06-07T11:28:14.314479", 
+            "metadata_modified": "2016-06-30T10:46:11.831895", 
+            "organization_description": " ", 
+            "relationships_as_object": [], 
+            "relationships_as_subject": [], 
+            "resources": [
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": "2016-06-07T11:28:40.956271", 
+                    "name": "ZGH - trgova\u010dka dru\u0161tva", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/27564018-e09a-4bfa-9526-eff9515bb5a4/resource/540ec37f-b00c-4246-b3ba-74a5e6bf37e9/download/trgovackadrustvazgha.xlsx"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "", 
+                    "last_modified": "2016-06-30T10:46:11.803043", 
+                    "name": "ZGH - trgova\u010dka dru\u0161tva ", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/27564018-e09a-4bfa-9526-eff9515bb5a4/resource/f3107809-624b-4218-a550-ae6aec31cf3f/download/trgovackadrustvazgha.csv"
+                }
+            ], 
+            "revision_id": "3c04f994-8ed2-400c-b9e2-7504feb891d3", 
+            "tags": [], 
+            "title": "Trgova\u010dka dru\u0161tva u vlasni\u0161tvu Zagreba\u010dkog Holdinga"
+        }, 
+        {
+            "author": "", 
+            "license_title": "Creative Commons Attribution", 
+            "metadata_created": "2016-06-07T11:47:15.797701", 
+            "metadata_modified": "2016-06-30T10:43:54.706890", 
+            "organization_description": " ", 
+            "relationships_as_object": [], 
+            "relationships_as_subject": [], 
+            "resources": [
+                {
+                    "format": "XLS", 
+                    "hash": "", 
+                    "last_modified": "2016-06-07T11:47:37.088963", 
+                    "name": "Vjerske zajednice", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/27246bd4-e02b-4037-8454-4fdd996c454a/resource/2347878a-cc99-4e53-9db7-2c9c06dd1bb6/download/vjerske-zajednicea.xls"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "", 
+                    "last_modified": "2016-06-30T10:43:54.667358", 
+                    "name": "Vjerske zajednice", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/27246bd4-e02b-4037-8454-4fdd996c454a/resource/78cee73d-ae99-40d4-873f-a04f3e817052/download/vjerske-zajednicea.csv"
+                }
+            ], 
+            "revision_id": "f94bdf8e-fee7-4b96-ba6c-fa073b5d8c1e", 
+            "tags": [], 
+            "title": "Adresar vjerskih zajednica Grada Zagreba"
+        }, 
+        {
+            "author": "", 
+            "license_title": "Creative Commons Attribution", 
+            "metadata_created": "2016-06-07T11:41:37.329780", 
+            "metadata_modified": "2016-06-30T10:42:29.820467", 
+            "organization_description": " ", 
+            "relationships_as_object": [], 
+            "relationships_as_subject": [], 
+            "resources": [
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": "2016-06-07T11:42:36.363848", 
+                    "name": "Objekti", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/7635807f-7db2-41fa-a7ed-29e2b2140f82/resource/80e509dd-d448-40a0-9697-71ea531e40c6/download/ugobnekatjtatvt.xlsx"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "", 
+                    "last_modified": "2016-06-30T10:41:43.098640", 
+                    "name": "Objekti", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/7635807f-7db2-41fa-a7ed-29e2b2140f82/resource/10f509c9-c84a-43d8-b535-37957b0b305b/download/ugobnekatjtatvt.csv"
+                }
+            ], 
+            "revision_id": "08c91b5e-4b29-4799-bab9-cc7d2c4ba5c8", 
+            "tags": [
+                {
+                    "tag_id": "b8b1ff78-2ab1-4572-bc0a-e106329d1a83", 
+                    "tag_name": "turizam"
+                }
+            ], 
+            "title": "Ugostiteljski objekti, nekategorizirani, turisti\u010dke agencije i vodi\u010di"
+        }, 
+        {
+            "author": "", 
+            "license_title": "Creative Commons Attribution", 
+            "metadata_created": "2016-06-07T11:36:13.591648", 
+            "metadata_modified": "2016-06-30T10:40:44.577522", 
+            "organization_description": " ", 
+            "relationships_as_object": [], 
+            "relationships_as_subject": [], 
+            "resources": [
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": "2016-06-07T11:36:28.119491", 
+                    "name": "U\u010deni\u010dki domovi", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/06f392d6-b775-43b6-83f5-f4e62bb10fbd/resource/997c73e3-4c23-4df6-b0e6-a27935d4ef77/download/ucdomo.xlsx"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "", 
+                    "last_modified": "2016-06-30T10:40:44.544005", 
+                    "name": "U\u010deni\u010dki domovi ", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/06f392d6-b775-43b6-83f5-f4e62bb10fbd/resource/ba7f2d52-c3ff-45c5-a27c-e417c7218af0/download/ucdomo.csv"
+                }
+            ], 
+            "revision_id": "8600d116-11cc-41da-b0a3-98d2e47b91fc", 
+            "tags": [], 
+            "title": "U\u010deni\u010dki domovi Grada Zagreba"
+        }, 
+        {
+            "author": "", 
+            "license_title": "Creative Commons Attribution", 
+            "metadata_created": "2016-06-07T11:23:31.454622", 
+            "metadata_modified": "2016-06-30T10:38:39.807561", 
+            "organization_description": " ", 
+            "relationships_as_object": [], 
+            "relationships_as_subject": [], 
+            "resources": [
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": "2016-06-07T11:23:47.515097", 
+                    "name": "Srednje \u0161kole", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/94561746-4f82-4882-9ef6-0c8d70ad1e61/resource/5c9ac9c9-e2f5-49f7-b2a7-53dd79a2b59a/download/srednjeo.xlsx"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "", 
+                    "last_modified": "2016-06-30T10:38:39.758841", 
+                    "name": "Srednje \u0161kole ", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/94561746-4f82-4882-9ef6-0c8d70ad1e61/resource/0bf233fd-dd56-4a94-a377-7282c809e55c/download/srednjeo.csv"
+                }
+            ], 
+            "revision_id": "49282b6a-7954-4fc1-bc98-457976afc78b", 
+            "tags": [
+                {
+                    "tag_id": "1ea5d0ea-4825-4603-ad89-93b6936a29d0", 
+                    "tag_name": "obrazovanje"
+                }, 
+                {
+                    "tag_id": "6592f36b-f646-475c-926d-bbcba297d619", 
+                    "tag_name": "\u0161kole"
+                }
+            ], 
+            "title": "Popis srednjih \u0161kola Grada Zagreba"
+        }, 
+        {
+            "author": "", 
+            "license_title": "Creative Commons Attribution", 
+            "metadata_created": "2016-06-07T10:59:12.733610", 
+            "metadata_modified": "2016-06-30T10:37:15.959492", 
+            "organization_description": " ", 
+            "relationships_as_object": [], 
+            "relationships_as_subject": [], 
+            "resources": [
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": "2016-06-07T10:59:28.742438", 
+                    "name": "Potpore za turizam GZ", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/a33eb579-ca42-41cc-bf8d-4d3ae50b0387/resource/1da724e9-6c0f-4c0b-a329-872dfd5c20c0/download/potporeturizamp.xlsx"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "", 
+                    "last_modified": "2016-06-30T10:37:15.919984", 
+                    "name": "Potpore za turizam GZ ", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/a33eb579-ca42-41cc-bf8d-4d3ae50b0387/resource/2b839226-e9b8-4833-8c59-87671733dd3e/download/potporeturizamp.csv"
+                }
+            ], 
+            "revision_id": "2f68e9d9-0c2d-4ee9-9f69-a41c62f5f4cc", 
+            "tags": [
+                {
+                    "tag_id": "557b9488-6ca8-47eb-9da7-06cb26a5f475", 
+                    "tag_name": "potpore"
+                }, 
+                {
+                    "tag_id": "b8b1ff78-2ab1-4572-bc0a-e106329d1a83", 
+                    "tag_name": "turizam"
+                }
+            ], 
+            "title": "Potpore za poticanje razvoja turizma u Gradu Zagrebu"
+        }, 
+        {
+            "author": "", 
+            "license_title": "Creative Commons Attribution", 
+            "metadata_created": "2016-06-07T11:26:51.100927", 
+            "metadata_modified": "2016-06-30T10:35:59.101114", 
+            "organization_description": " ", 
+            "relationships_as_object": [], 
+            "relationships_as_subject": [], 
+            "resources": [
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": "2016-06-07T11:27:12.622383", 
+                    "name": "Trgova\u010dka dru\u0161tva", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/3654e4e3-6f65-4219-a2ad-349f0d478937/resource/89989f1f-00a9-456e-981a-5314e60da9e7/download/trgovackadrustvagza.xlsx"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "", 
+                    "last_modified": "2016-06-30T10:35:59.058219", 
+                    "name": "Trgova\u010dka dru\u0161tva ", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/3654e4e3-6f65-4219-a2ad-349f0d478937/resource/086d7673-a7e8-4630-8f7a-3f5917b248c4/download/trgovackadrustvagza.csv"
+                }
+            ], 
+            "revision_id": "aa4871f0-d29f-4b51-8803-321241fa6ccf", 
+            "tags": [], 
+            "title": "Trgova\u010dka dru\u0161tva u vlasni\u0161tvu Grada Zagreba"
+        }, 
+        {
+            "author": "", 
+            "license_title": "Creative Commons Attribution", 
+            "metadata_created": "2016-06-07T11:25:36.377973", 
+            "metadata_modified": "2016-06-30T10:34:48.312852", 
+            "organization_description": " ", 
+            "relationships_as_object": [], 
+            "relationships_as_subject": [], 
+            "resources": [
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": "2016-06-07T11:25:52.214195", 
+                    "name": "Obrt - struktura", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/5f7fb47f-9a1a-40a4-ae61-3236f50b6f32/resource/513a4d98-7c12-4b39-ae5c-fea51e493454/download/strukturaobrtag.xlsx"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "", 
+                    "last_modified": "2016-06-30T10:34:48.273150", 
+                    "name": "Obrt - struktura ", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/5f7fb47f-9a1a-40a4-ae61-3236f50b6f32/resource/ce938f94-26ad-4cf8-8902-aceadb8b54d4/download/strukturaobrtag.csv"
+                }
+            ], 
+            "revision_id": "cd6a114b-c3bf-4ea4-9ffd-e6dc6b5f2514", 
+            "tags": [
+                {
+                    "tag_id": "bedafe32-5ebf-4bf0-8a41-df8958ebef72", 
+                    "tag_name": "gospodarstvo"
+                }
+            ], 
+            "title": "Struktura obrta Grada Zagreba"
+        }, 
+        {
+            "author": "", 
+            "license_title": "Creative Commons Attribution", 
+            "metadata_created": "2016-06-07T11:08:09.126818", 
+            "metadata_modified": "2016-06-30T10:32:34.495560", 
+            "organization_description": " ", 
+            "relationships_as_object": [], 
+            "relationships_as_subject": [], 
+            "resources": [
+                {
+                    "format": "XLS", 
+                    "hash": "", 
+                    "last_modified": "2016-06-07T11:08:41.598938", 
+                    "name": "Smje\u0161taji za odmor (2013.-2015.)", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/a5a94d2f-47ae-4fe7-8e47-bb2f2de7c29f/resource/9286636c-4e2f-4410-ae3b-243b780dd201/download/smjestajizaodmort.xls"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "", 
+                    "last_modified": "2016-06-30T10:32:34.453531", 
+                    "name": "Smje\u0161taji za odmor", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/a5a94d2f-47ae-4fe7-8e47-bb2f2de7c29f/resource/1962ea2e-8330-480f-a70a-8b9871012221/download/smjestajizaodmort.csv"
+                }
+            ], 
+            "revision_id": "e9a4ad62-f32b-46ee-aca0-2426ae665fe1", 
+            "tags": [
+                {
+                    "tag_id": "b8b1ff78-2ab1-4572-bc0a-e106329d1a83", 
+                    "tag_name": "turizam"
+                }
+            ], 
+            "title": "Broj smje\u0161tajnih objekata Grada Zagreba"
+        }, 
+        {
+            "author": "", 
+            "license_title": "Creative Commons Attribution", 
+            "metadata_created": "2016-06-07T11:05:31.329083", 
+            "metadata_modified": "2016-06-30T10:29:34.477216", 
+            "organization_description": " ", 
+            "relationships_as_object": [], 
+            "relationships_as_subject": [], 
+            "resources": [
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": "2016-06-07T11:05:48.769697", 
+                    "name": "Sportske djelatnosti", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/f675f97b-2ab4-4747-ab7e-f233cba9691f/resource/fa50ea5f-d948-4379-89f8-159dba84a3e8/download/registar-sportskih-djelatnosti.xlsx"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "", 
+                    "last_modified": "2016-06-30T10:29:16.631649", 
+                    "name": "Sportske djelatnosti I", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/f675f97b-2ab4-4747-ab7e-f233cba9691f/resource/32521065-99af-4c2a-b27e-a48d76e1768e/download/registarsdi.csv"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "", 
+                    "last_modified": "2016-06-30T10:29:34.434831", 
+                    "name": "Sportske djelatnosti II", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/f675f97b-2ab4-4747-ab7e-f233cba9691f/resource/935c43ac-5c56-4f51-9608-671f2ea25b22/download/registarsdii.csv"
+                }
+            ], 
+            "revision_id": "f2386c83-febe-4b51-8330-3be7b5052e4e", 
+            "tags": [
+                {
+                    "tag_id": "2f2afe41-aecc-45c6-bd70-aecdaf32411b", 
+                    "tag_name": "registar"
+                }, 
+                {
+                    "tag_id": "4137790c-9a23-4551-b278-a1cd23fe69b6", 
+                    "tag_name": "sport"
+                }
+            ], 
+            "title": "Registar sportskih objekata Grada Zagreba"
+        }, 
+        {
+            "author": "", 
+            "license_title": "Creative Commons Attribution", 
+            "metadata_created": "2016-06-07T11:02:17.968026", 
+            "metadata_modified": "2016-06-29T11:52:22.690543", 
+            "organization_description": " ", 
+            "relationships_as_object": [], 
+            "relationships_as_subject": [], 
+            "resources": [
+                {
+                    "format": "XLS", 
+                    "hash": "", 
+                    "last_modified": "2016-06-07T11:02:38.547292", 
+                    "name": "2014", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/ebc7adda-9ddc-45cc-90ae-cd4fe0669bc5/resource/c4b137ea-8439-40f1-a81d-e0867c0f38e3/download/potporeobrt14p.xls"
+                }, 
+                {
+                    "format": "XLS", 
+                    "hash": "", 
+                    "last_modified": "2016-06-07T11:03:19.335111", 
+                    "name": "2015", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/ebc7adda-9ddc-45cc-90ae-cd4fe0669bc5/resource/eb1d19a9-2acc-42ce-9239-d39f62a94364/download/potporeobrt15p.xls"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "", 
+                    "last_modified": "2016-06-29T11:51:59.467817", 
+                    "name": "2014", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/ebc7adda-9ddc-45cc-90ae-cd4fe0669bc5/resource/0aa56351-747d-4b5c-9eb7-21ed09a5836c/download/potporeobrt14p.csv"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "", 
+                    "last_modified": "2016-06-29T11:52:22.648720", 
+                    "name": "2015", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/ebc7adda-9ddc-45cc-90ae-cd4fe0669bc5/resource/a20e6ad8-b86c-41ef-b265-58b7ef61bcd0/download/potporeobrt15p.csv"
+                }
+            ], 
+            "revision_id": "58874232-8680-4e4c-bada-4b8bf462f96c", 
+            "tags": [
+                {
+                    "tag_id": "557b9488-6ca8-47eb-9da7-06cb26a5f475", 
+                    "tag_name": "potpore"
+                }
+            ], 
+            "title": "Lista za dodjelu potpora za o\u010duvanje i  razvoj obrtni\u010dke djelatnosti"
+        }, 
+        {
+            "author": "", 
+            "license_title": "Creative Commons Attribution", 
+            "metadata_created": "2016-06-07T10:51:58.985230", 
+            "metadata_modified": "2016-06-29T11:47:59.403434", 
+            "organization_description": " ", 
+            "relationships_as_object": [], 
+            "relationships_as_subject": [], 
+            "resources": [
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": "2016-06-07T10:52:28.308697", 
+                    "name": "2014", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/9a168793-ecc9-44e8-8525-01acc9fd8773/resource/3fec61fd-9ab3-40f0-b313-8785ac395187/download/potporeinovatori14p.xlsx"
+                }, 
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": "2016-06-07T10:54:22.423092", 
+                    "name": "2015", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/9a168793-ecc9-44e8-8525-01acc9fd8773/resource/ee6abd2e-15e4-4f9f-b245-5eaeef19c4b2/download/potporeinovatori15p.xlsx"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "", 
+                    "last_modified": "2016-06-29T11:47:38.646359", 
+                    "name": "2014", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/9a168793-ecc9-44e8-8525-01acc9fd8773/resource/f3bc6148-4123-46ff-835a-26cbbe226211/download/potporeinovatori14p.csv"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "", 
+                    "last_modified": "2016-06-29T11:47:59.364055", 
+                    "name": "2015", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/9a168793-ecc9-44e8-8525-01acc9fd8773/resource/4b42c6a2-ba0b-4e36-94fe-15621fb30436/download/potporeinovatori15p.csv"
+                }
+            ], 
+            "revision_id": "99b95c8a-c7cc-4435-9bb3-9a1590473f2e", 
+            "tags": [
+                {
+                    "tag_id": "557b9488-6ca8-47eb-9da7-06cb26a5f475", 
+                    "tag_name": "potpore"
+                }
+            ], 
+            "title": "Potpore inovatorima Grada Zagreba"
+        }, 
+        {
+            "author": "", 
+            "license_title": "Creative Commons Attribution", 
+            "metadata_created": "2016-06-28T08:49:18.581061", 
+            "metadata_modified": "2016-06-29T11:44:18.249535", 
+            "organization_description": " ", 
+            "relationships_as_object": [], 
+            "relationships_as_subject": [], 
+            "resources": [
+                {
+                    "format": "XLS", 
+                    "hash": "", 
+                    "last_modified": "2016-06-28T08:49:36.278192", 
+                    "name": "Autotaksi prijevoznici", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/1b34d5ae-a627-478f-a9b3-e5312d1731f4/resource/a807e78d-298c-4a04-b102-0f0ec3174b45/download/autak.xls"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "", 
+                    "last_modified": "2016-06-29T11:44:18.216431", 
+                    "name": "Autotaksi prijevoznici", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/1b34d5ae-a627-478f-a9b3-e5312d1731f4/resource/261c4150-7cb5-41c7-baa0-3cc86721a003/download/autak.csv"
+                }
+            ], 
+            "revision_id": "fd0bdaac-6afe-416a-9496-bda619b66185", 
+            "tags": [], 
+            "title": "Popis autoprijevoznika u Gradu Zagrebu"
+        }, 
+        {
+            "author": "", 
+            "license_title": "Creative Commons Attribution", 
+            "metadata_created": "2016-05-31T10:53:09.399808", 
+            "metadata_modified": "2016-06-29T11:42:16.308951", 
+            "organization_description": " ", 
+            "relationships_as_object": [], 
+            "relationships_as_subject": [], 
+            "resources": [
+                {
+                    "format": "XLS", 
+                    "hash": "", 
+                    "last_modified": "2016-05-31T10:53:26.243576", 
+                    "name": "Biciklisti\u010dke staze", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/1acf1a2b-7ae6-4f27-8c70-395867d65954/resource/40847b1f-baab-49c0-992e-fe92313c254a/download/biciklistickestazei.xls"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "", 
+                    "last_modified": "2016-06-29T11:42:16.277747", 
+                    "name": "Biciklisti\u010dke staze", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/1acf1a2b-7ae6-4f27-8c70-395867d65954/resource/5bb176bc-430d-4f32-a2ba-9c505fae6c29/download/biciklistickestazei.csv"
+                }
+            ], 
+            "revision_id": "de704715-cce4-497a-8e0f-398a9f1b2634", 
+            "tags": [
+                {
+                    "tag_id": "972e39ae-8ee0-4f0f-8bcd-e90f7add4dcb", 
+                    "tag_name": "bicikl"
+                }, 
+                {
+                    "tag_id": "9d023b9d-79fc-4907-935d-0a9ce4e7f118", 
+                    "tag_name": "staza"
+                }
+            ], 
+            "title": "Biciklisti\u010dke staze"
+        }, 
+        {
+            "author": "", 
+            "license_title": "Creative Commons Attribution", 
+            "metadata_created": "2016-06-07T11:34:16.232218", 
+            "metadata_modified": "2016-06-27T12:16:17.647080", 
+            "organization_description": " ", 
+            "relationships_as_object": [], 
+            "relationships_as_subject": [], 
+            "resources": [
+                {
+                    "format": "DOCX", 
+                    "hash": "", 
+                    "last_modified": "2016-06-07T11:34:34.073835", 
+                    "name": "2014", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/0177a2b4-31ec-45a4-a234-00fa989f07a3/resource/f47414da-946b-40f5-937a-115c0b452858/download/turizam-xii-2014t.docx"
+                }, 
+                {
+                    "format": "DOCX", 
+                    "hash": "", 
+                    "last_modified": "2016-06-07T11:35:04.889842", 
+                    "name": "2015", 
+                    "state": "active", 
+                    "url": "http://opendataportal8502.cloudapp.net/dataset/0177a2b4-31ec-45a4-a234-00fa989f07a3/resource/71575903-4993-4e81-958d-752be4a1baac/download/turizam-xii-2015t.docx"
+                }
+            ], 
+            "revision_id": "88807975-ace1-411f-bba6-676fdbf77582", 
+            "tags": [
+                {
+                    "tag_id": "b8b1ff78-2ab1-4572-bc0a-e106329d1a83", 
+                    "tag_name": "turizam"
+                }
+            ], 
+            "title": "Dolasci i no\u0107enja turista"
+        }
+    ]
+}
