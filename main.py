@@ -1,4 +1,4 @@
-#/usr/bin/python
+#!/usr/bin/python
 
 import json
 import time
@@ -14,7 +14,7 @@ class LocalCKAN():
     def fetch_package_list(self, limit = 0):
         package_list = self.query_point.action.package_list(limit = limit)
         package_list_name = self.format_instance_name(self.local_instance)
-        self.create_json_file(package_list, "package_list_" + package_list_name)
+        self.create_json_file(package_list, "package_list_" + package_list_name, "package_list")
         return self.format_json_output(package_list)
 
     def fetch_package_list_with_resources(self, limit = 0, offset = 0):
@@ -132,13 +132,13 @@ class LocalCKAN():
             metadata["packages"].append(temp_obj)
 
         package_list_name = self.format_instance_name(self.local_instance)
-        self.create_json_file(metadata, "metadata_" + package_list_name)
+        self.create_json_file(metadata, "metadata_" + package_list_name, "metadata")
 
     def format_json_output(self, data):
         return json.dumps(data, indent = 4, sort_keys = True)
 
-    def create_json_file(self, data, name):
-        with open(name + ".json", "w") as outfile:
+    def create_json_file(self, data, name, directory):
+        with open(directory + "/" + name + ".json", "w") as outfile:
             json.dump(data, outfile, indent = 4, sort_keys = True)
 
     def format_instance_name(self, name):
