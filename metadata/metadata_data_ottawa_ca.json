@@ -1,596 +1,371 @@
 {
     "packages": [
         {
-            "author": "Kyla Weir", 
+            "author": "Audrey Laidlaw", 
             "license_title": "Open Data License 2.0", 
-            "metadata_created": "2015-05-20T17:49:04.638706", 
-            "metadata_modified": "2017-07-04T12:43:33.429024", 
+            "metadata_created": "2015-05-20T17:49:16.355501", 
+            "metadata_modified": "2017-07-17T18:06:02.055551", 
             "organization_description": "", 
             "relationships_as_object": [], 
             "relationships_as_subject": [], 
             "resources": [
                 {
-                    "format": "XLS", 
-                    "hash": "md5:a3e0f325d2fa2484ab1b8f8d06d9bd80", 
-                    "last_modified": "2013-07-23T13:04:16", 
-                    "name": "January2013", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/c051cbfd-8bd8-4bb4-ab2b-60813eccfd06/download/january2013.xls"
-                }, 
-                {
-                    "format": "XLS", 
-                    "hash": "md5:f39afa4631f070cab39023f9f433aaf6", 
-                    "last_modified": "2013-07-23T13:02:18", 
-                    "name": "February2013", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/a30ad23d-3502-4fb7-9dad-62ba6330b288/download/february2013.xls"
-                }, 
-                {
-                    "format": "XLSX", 
-                    "hash": "md5:9440a6b7c0c345874331f623c58a632a", 
-                    "last_modified": "2013-07-23T13:02:40", 
-                    "name": "March2013", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/e7ae635b-6d01-4c98-abc2-7017b38ed16b/download/march2013.xlsx"
-                }, 
-                {
-                    "format": "XLSX", 
-                    "hash": "md5:933ead82f7ef0e0ad78135986ede595c", 
-                    "last_modified": "2013-07-23T13:03:00", 
-                    "name": "April2013", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/9e56d13f-2de9-4d3e-a241-68de77ea349d/download/april2013.xlsx"
-                }, 
-                {
-                    "format": "XLSX", 
-                    "hash": "md5:ac919a993f432eed2e186d89c83bc92a", 
-                    "last_modified": "2013-07-23T13:03:24", 
-                    "name": "May2013", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/37e8ca77-7370-4716-a92d-ec32bd1b999c/download/may2013.xlsx"
-                }, 
-                {
-                    "format": "XLS", 
-                    "hash": "md5:e3f59868dcc1e58ecd8ae7f788944648", 
-                    "last_modified": "2013-09-09T11:57:01", 
-                    "name": "June2013", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/95368439-f2ac-4e73-bda2-4dc653afd2c8/download/june2013.xls"
-                }, 
-                {
-                    "format": "XLS", 
-                    "hash": "md5:6c10fc8075566f6b8291c2af8b9ea5cf", 
-                    "last_modified": "2013-09-09T11:59:00", 
-                    "name": "July2013", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/8011072b-882d-4dfc-8cea-033900a206b7/download/july2013.xls"
-                }, 
-                {
-                    "format": "XLS", 
-                    "hash": "md5:d25e0b0c197a633eb1d02ce7d7b56d44", 
-                    "last_modified": "2013-09-09T12:04:54", 
-                    "name": "August2013", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/4b9ade88-3248-4365-9b77-98be48dce79c/download/august2013.xlsx"
-                }, 
-                {
-                    "format": "XLS", 
-                    "hash": "md5:407ce2ef50b4ba384d89a25913b9ce85", 
-                    "last_modified": "2013-10-02T10:33:57", 
-                    "name": "Sept2013", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/b4f522ca-3992-40fd-861e-84a8247ff33d/download/sept2013.xls"
-                }, 
-                {
-                    "format": "XLS", 
-                    "hash": "md5:d1082fda65cd96987f84a51c1294c729", 
-                    "last_modified": "2013-11-26T09:40:09", 
-                    "name": "Oct2013", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/96f75225-7a97-4985-934d-cc17ae376a97/download/oct2013.xls"
-                }, 
-                {
-                    "format": "XLS", 
-                    "hash": "md5:26ab152dd9bc17e63dc9b1657fe5f49d", 
-                    "last_modified": "2013-12-16T12:23:34", 
-                    "name": "Nov2013", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/81258240-1a83-4da1-a123-dffaa1942d12/download/nov2013.xls"
-                }, 
-                {
-                    "format": "XLS", 
-                    "hash": "md5:56d5e3df635e9ece7206313c0f81cbda", 
-                    "last_modified": "2014-01-21T09:25:51", 
-                    "name": "December2013", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/07d96a9a-5241-440e-ae93-db72b6ca6dbc/download/dec2013.xls"
-                }, 
-                {
-                    "format": "XLS", 
-                    "hash": "md5:0b9ea458ad7307ae39de04e288ca215a", 
-                    "last_modified": "2014-03-04T10:09:48", 
-                    "name": "Jan2014", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/1f77e0bc-5b56-48e6-abfc-d269313cbe81/download/jan2014.xls"
-                }, 
-                {
-                    "format": "XLS", 
-                    "hash": "md5:4bd184dd86436af7afeef4b53e230c45", 
-                    "last_modified": "2014-03-11T14:10:18", 
-                    "name": "Feb2014", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/ac65fb43-f2e0-4b26-a2cd-53164c266d85/download/feb2014.xls"
-                }, 
-                {
-                    "format": "XLS", 
-                    "hash": "md5:060e5ae7fd58d361adf39751d73e9f27", 
-                    "last_modified": "2014-04-11T14:31:21", 
-                    "name": "Mar2014", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/17e8b94f-88ef-4a9c-a8a4-36e338d12934/download/mar2014.xlsx"
-                }, 
-                {
-                    "format": "XLSX", 
-                    "hash": "md5:d55f3010c99f954f1d98390cb46486f8", 
-                    "last_modified": "2014-06-10T10:33:46", 
-                    "name": "April2014", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/43176f97-2b5d-4b55-b2e9-00d872e93cc0/download/apr2014.xlsx"
-                }, 
-                {
-                    "format": "XLSX", 
-                    "hash": "md5:530086856b6f3976a71bbe278c62bae5", 
-                    "last_modified": "2014-06-10T10:34:46", 
-                    "name": "May2014", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/6a75e4ba-5931-4746-b99e-e171994b8afb/download/may2014.xlsx"
-                }, 
-                {
-                    "format": "XLS", 
-                    "hash": "md5:325fca9963881aef76c5be377f57805c", 
-                    "last_modified": "2014-07-11T11:39:40", 
-                    "name": "June2014", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/a74c2a42-19fd-4bfd-a658-80a6d2dff1df/download/june2014.xls"
-                }, 
-                {
-                    "format": "XLSX", 
-                    "hash": "md5:8e4bc1071345253fe02bbde862f81944", 
-                    "last_modified": "2014-08-29T10:13:17", 
-                    "name": "July 2014", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/1a3536c4-eb73-4751-9f25-7d43502e3425/download/july2014.xlsx"
-                }, 
-                {
-                    "format": "XLSX", 
-                    "hash": "md5:3a88250853b26cd7126c827395976aa3", 
-                    "last_modified": "2014-09-16T10:45:58", 
-                    "name": "August 2014", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/88a67991-d1db-4de2-8b23-722b8b5c95d1/download/aug2014.xlsx"
-                }, 
-                {
-                    "format": "XLSX", 
-                    "hash": "md5:ad57c8d2fcf3e93b9e9afe5e73d655da", 
-                    "last_modified": "2014-10-10T10:32:15", 
-                    "name": "September 2014", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/2af58524-61a2-47d2-bdbd-bc366911c01e/download/sep2014.xlsx"
-                }, 
-                {
-                    "format": "XLS", 
-                    "hash": "md5:7eaf4647e7de6076544541545113f58c", 
-                    "last_modified": "2014-11-05T11:28:27", 
-                    "name": "October 2014", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/c81533b3-6aa2-45fa-b56c-43f44a5ef8e4/download/oct2014.xlsx"
-                }, 
-                {
-                    "format": "XLS", 
-                    "hash": "md5:0c815d2df8f7354558f29205c11d4cc6", 
-                    "last_modified": "2014-12-17T14:56:49", 
-                    "name": "November 2014", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/d76f647b-3e21-4ed3-a573-d4b20f6a24d0/download/nov2014.xlsx"
-                }, 
-                {
-                    "format": "XLS", 
-                    "hash": "md5:c9a01a6f3f7c93982d106908d48ec916", 
-                    "last_modified": "2015-01-09T10:45:20", 
-                    "name": "December 2014", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/92c58f1b-597a-4474-86b1-09a16a411ab4/download/dec2014.xlsx"
-                }, 
-                {
-                    "format": "XLS", 
-                    "hash": "md5:88fcee563b9d136d5aaa0683ae69f149", 
-                    "last_modified": "2015-02-23T10:24:05", 
-                    "name": "January2015", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/40408394-f45e-4330-942d-952fe94dd62e/download/jan2015.xlsx"
-                }, 
-                {
-                    "format": "XLSX", 
-                    "hash": "md5:e2c48be511a11eaeb852b926e68747fb", 
-                    "last_modified": "2015-03-23T12:26:06", 
-                    "name": "February 2015", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/b09500fc-2632-4d56-81a0-c42ab1a9c356/download/feb2015.xlsx"
-                }, 
-                {
-                    "format": "XLSX", 
-                    "hash": "md5:594efbd0c90f2fae725dc5cf676919c3", 
-                    "last_modified": "2015-04-09T09:38:38", 
-                    "name": "March 2015", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/0f05e285-02b4-4101-95b2-a7eb615e815e/download/mar2015.xlsx"
-                }, 
-                {
-                    "format": "XLSX", 
+                    "format": "TXT", 
                     "hash": "", 
                     "last_modified": null, 
-                    "name": "April 2015", 
+                    "name": "Course Availability", 
                     "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/4e2936bc-6ffb-4b47-8b3b-b64f5dfb1a93/download/apr2015.xlsx"
-                }, 
-                {
-                    "format": "XLSX", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "May 2015", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/7c333adf-b220-473d-a71e-c18fc88e762d/download/may2015.xlsx"
-                }, 
-                {
-                    "format": "XLSX", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "June 2015", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/56d92962-c293-4e6e-9ff8-49e5f07566c9/download/june2015.xlsx"
-                }, 
-                {
-                    "format": "XLSX", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "July 2015", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/eaa0768b-f7b0-482c-9911-984a615741f6/download/july2015.xlsx"
-                }, 
-                {
-                    "format": "XLSX", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "August 2015", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/55a0fd11-8ef2-46b4-8de7-c0c660b88a59/download/august2015.xlsx"
-                }, 
-                {
-                    "format": "XLSX", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "November2015xlsx", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/4d9e63fa-d847-45f6-9481-83f3123bb297/download/cusersweirkydesktopqa-reportsapplicationsopen-datanovember2015xlsx.xlsx"
+                    "url": "http://app06.ottawa.ca/online_services/opendata/classdata/available_courses.txt"
                 }, 
                 {
                     "format": "CSV", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "November2015csv", 
+                    "hash": "md5:f4b4bc05a623164db506032695a5b416", 
+                    "last_modified": "2014-03-11T11:01:04", 
+                    "name": "Recreation Facility Listing", 
                     "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/b28e3765-703b-4b30-a62d-2172e1615bdd/download/cusersweirkydesktopqa-reportsapplicationsopen-datanovember2015csv.csv"
+                    "url": "http://data.ottawa.ca/dataset/73cf58c2-1924-4c9d-bcaa-d6b303f53f41/resource/1b7f1270-6179-43ef-bda2-2f3eb233a4c6/download/facility-listing-march-2014.csv"
                 }, 
                 {
-                    "format": "CSV", 
+                    "format": "csv, shp, xml, kml, dwg", 
                     "hash": "", 
                     "last_modified": null, 
-                    "name": "September 2015", 
+                    "name": "City Facilities / Installations de la Ville", 
                     "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/95cf4eb1-f197-4bb5-9a64-9a239127916c/download/cusersweirkydesktopqa-reportsapplicationsopen-dataseptember2015csv.csv"
-                }, 
-                {
-                    "format": "XLSX", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "September 2015", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/be0e0653-02c5-4cbe-a18c-a3dab0294172/download/cusersweirkydesktopqa-reportsapplicationsopen-dataseptember2015xlsx.xlsx"
-                }, 
-                {
-                    "format": "CSV", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "December2015csv", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/023ab8d3-c6ab-4f6b-bbe5-ddc98a7bfe6f/download/cusersweirkydesktopqa-reportsapplicationsopen-datadecember2015csv.csv"
+                    "url": "http://data.ottawa.ca/dataset/city-facilities"
                 }, 
                 {
                     "format": "XLSX", 
                     "hash": "", 
                     "last_modified": null, 
-                    "name": "December2015xlsx", 
+                    "name": "Winter 2016 - 50+", 
                     "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/9d01971c-d873-4c72-b10a-4e7985d299d0/download/cusersweirkydesktopqa-reportsapplicationsopen-datadecember2015xlsl.xlsx"
-                }, 
-                {
-                    "format": "CSV", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "2015 csv", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/289066b3-8484-4635-9943-24f3f4329597/download/cusersweirkydesktopqa-reportsapplicationsopen-data2015-csv.csv"
+                    "url": "http://data.ottawa.ca/dataset/73cf58c2-1924-4c9d-bcaa-d6b303f53f41/resource/a73eb89d-d1cc-4cd8-a25f-2f82e048164f/download/winter-2016---50.xlsx"
                 }, 
                 {
                     "format": "XLSX", 
                     "hash": "", 
                     "last_modified": null, 
-                    "name": "2015 xlsx", 
+                    "name": "Winter 2016 - Adult", 
                     "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/96d8d4ed-5ef8-45ba-8165-f7a4610f2b68/download/cusersweirkydesktopqa-reportsapplicationsopen-datagoogle-analytics20142014csv.csv"
-                }, 
-                {
-                    "format": "CSV", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "October 2015csv", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/5e650bf9-ea66-4fcd-baf7-aca0ec78fe16/download/cusersweirkydesktopqa-reportsapplicationsopen-dataoctober2015csv.csv"
+                    "url": "http://data.ottawa.ca/dataset/73cf58c2-1924-4c9d-bcaa-d6b303f53f41/resource/211e6173-66be-4aa8-b5b5-49b4ecc48dd2/download/winter-2016---adult.xlsx"
                 }, 
                 {
                     "format": "XLSX", 
                     "hash": "", 
                     "last_modified": null, 
-                    "name": "October2015xlsx", 
+                    "name": "Winter 2016 - Children", 
                     "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/8e161dfd-d0c3-4e2d-ae51-f31fe37dadc4/download/cusersweirkydesktopqa-reportsapplicationsopen-dataoctober2015xlsx.xlsx"
+                    "url": "http://data.ottawa.ca/dataset/73cf58c2-1924-4c9d-bcaa-d6b303f53f41/resource/34289704-a82b-4c82-862a-a1472c96ed17/download/winter-2016---children.xlsx"
                 }, 
                 {
                     "format": "XLSX", 
                     "hash": "", 
                     "last_modified": null, 
-                    "name": "2014", 
+                    "name": "Winter 2016 - Preschool", 
                     "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/fedf3418-e3a7-48f9-8123-f0c4f1bfb2be/download/cusersweirkydesktopqa-reportsapplicationsopen-datagoogle-analytics20142014xlsx.xlsx"
+                    "url": "http://data.ottawa.ca/dataset/73cf58c2-1924-4c9d-bcaa-d6b303f53f41/resource/9d33ef5c-8ddd-4001-b37c-2e2c49713af0/download/winter-2016---preschool.xlsx"
                 }, 
                 {
                     "format": "XLSX", 
                     "hash": "", 
                     "last_modified": null, 
-                    "name": "January 2016", 
+                    "name": "Winter 2016 - Youth", 
                     "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/c81de083-bbb4-4efa-b4f9-e143290e5a36/download/cusersweirkydesktopqa-reportsapplicationsopen-datagoogle-analytics2016january2016xlsx.xlsx"
+                    "url": "http://data.ottawa.ca/dataset/73cf58c2-1924-4c9d-bcaa-d6b303f53f41/resource/2fc41d80-51b2-4f4e-abd5-46236917b986/download/winter-2016---youth.xlsx"
+                }, 
+                {
+                    "format": "XLS", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Winter 2015 - 50+", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/73cf58c2-1924-4c9d-bcaa-d6b303f53f41/resource/50ab3aff-96bd-436c-b244-32948b830579/download/2015-50-winter.xls"
                 }, 
                 {
                     "format": "XLSX", 
                     "hash": "", 
                     "last_modified": null, 
-                    "name": "February 2016", 
+                    "name": "Winter 2015 - Adult", 
                     "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/612961b7-e759-44a8-944d-521baf29c22b/download/cusersweirkydesktopqa-reportsapplicationsopen-datagoogle-analytics2016february-2016.xlsx"
+                    "url": "http://data.ottawa.ca/dataset/73cf58c2-1924-4c9d-bcaa-d6b303f53f41/resource/106cf707-74e4-43ae-ac48-6b7edfb49d8a/download/2015-adult-winter.xls"
+                }, 
+                {
+                    "format": "XLS", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Winter 2015 - children", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/73cf58c2-1924-4c9d-bcaa-d6b303f53f41/resource/0dbdc2c2-6d5a-402a-874c-be5de14686ff/download/2015-children-winter.xls"
+                }, 
+                {
+                    "format": "XLS", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Winter 2015 - preschool", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/73cf58c2-1924-4c9d-bcaa-d6b303f53f41/resource/b2d70a65-e3ac-41c2-99d0-c28b1ee6be5b/download/2015-preschool-winter.xls"
+                }, 
+                {
+                    "format": "XLS", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Winter 2015 - youth", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/73cf58c2-1924-4c9d-bcaa-d6b303f53f41/resource/7413d460-353e-42b8-9d58-45c9ea27b1e4/download/2015-youth-winter.xls"
                 }, 
                 {
                     "format": "XLSX", 
                     "hash": "", 
                     "last_modified": null, 
-                    "name": "March 2016", 
+                    "name": "Spring 2016 - 50+", 
                     "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/d4a5944b-091b-414b-99f8-f964573d377f/download/cusersweirkydesktopqa-reportsapplicationsopen-datagoogle-analytics2016march-2016.xlsx"
+                    "url": "http://data.ottawa.ca/dataset/73cf58c2-1924-4c9d-bcaa-d6b303f53f41/resource/f13bd240-a453-4cdf-8a8f-5a9276b3824a/download/spring201650.xlsx"
                 }, 
                 {
                     "format": "XLSX", 
                     "hash": "", 
                     "last_modified": null, 
-                    "name": "April 2016", 
+                    "name": "Spring 2016 - Adult", 
                     "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/1ea47982-ed98-4a2c-b96a-976ed53e261b/download/cusersweirkydesktopqa-reportsapplicationsopen-datagoogle-analytics2016april-2016.xlsx"
+                    "url": "http://data.ottawa.ca/dataset/73cf58c2-1924-4c9d-bcaa-d6b303f53f41/resource/fb1a510c-0a0a-410c-93cf-81c74aea6318/download/spring2016adult.xlsx"
                 }, 
                 {
                     "format": "XLSX", 
                     "hash": "", 
                     "last_modified": null, 
-                    "name": "May 2016", 
+                    "name": "Spring 2016 - Children", 
                     "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/308e515d-2803-4af6-9c05-c4452b209914/download/cusersweirkydesktopqa-reportsapplicationsopen-datagoogle-analytics2016may-2016.xlsx"
+                    "url": "http://data.ottawa.ca/dataset/73cf58c2-1924-4c9d-bcaa-d6b303f53f41/resource/815053b6-99e1-417e-a9e0-96197d32d36a/download/spring2016children.xlsx"
                 }, 
                 {
                     "format": "XLSX", 
                     "hash": "", 
                     "last_modified": null, 
-                    "name": "June2016", 
+                    "name": "Spring 2016 - Preschool", 
                     "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/7b8e4998-ca22-4d2f-9354-7226e749c086/download/cusersweirkydesktopdataopen-datagoogle-analytics2016june-2016.xlsx"
+                    "url": "http://data.ottawa.ca/dataset/73cf58c2-1924-4c9d-bcaa-d6b303f53f41/resource/b5a08a47-bd9f-4049-8bab-63543347d87c/download/spring2016preschool.xlsx"
                 }, 
                 {
                     "format": "XLSX", 
                     "hash": "", 
                     "last_modified": null, 
-                    "name": "July 2016", 
+                    "name": "Spring 2016 - Youth", 
                     "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/0f372b79-7af2-44cd-bbfe-d188d4ea137b/download/cusersweirkydesktopdataopen-datagoogle-analytics2016july-2016.xlsx"
+                    "url": "http://data.ottawa.ca/dataset/73cf58c2-1924-4c9d-bcaa-d6b303f53f41/resource/b60582e6-fa01-40c0-b83a-4e05b8c8c9ff/download/spring2016youth.xlsx"
                 }, 
                 {
                     "format": "XLSX", 
                     "hash": "", 
                     "last_modified": null, 
-                    "name": "August 2016", 
+                    "name": "Summer 2016 - 50+", 
                     "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/624074f1-386f-428e-b302-827fc6bd44fa/download/cusersweirkydesktopdataopen-datagoogle-analytics2016august-2016.xlsx"
+                    "url": "http://data.ottawa.ca/dataset/73cf58c2-1924-4c9d-bcaa-d6b303f53f41/resource/30bc780f-11bc-48bb-b6ee-83eaa4089634/download/summer201650.xlsx"
                 }, 
                 {
                     "format": "XLSX", 
                     "hash": "", 
                     "last_modified": null, 
-                    "name": "September 2016", 
+                    "name": "Summer 2016 - Adult", 
                     "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/a03c784a-ad09-412e-b404-6e2a6da5e921/download/cusersweirkydesktopdataopen-datagoogle-analytics2016september-2016.xlsx"
+                    "url": "http://data.ottawa.ca/dataset/73cf58c2-1924-4c9d-bcaa-d6b303f53f41/resource/3915b51c-4e06-4ce2-ba9c-4590df1ef56b/download/summer2016adult.xlsx"
                 }, 
                 {
                     "format": "XLSX", 
                     "hash": "", 
                     "last_modified": null, 
-                    "name": "October 2016", 
+                    "name": "Summer 2016 - Child", 
                     "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/e591a53f-4af8-4dfb-8a5d-196a0f14c64a/download/cusersweirkydesktopdataopen-datagoogle-analytics2016october-2016.xlsx"
+                    "url": "http://data.ottawa.ca/dataset/73cf58c2-1924-4c9d-bcaa-d6b303f53f41/resource/b43c3bf1-c35b-4fed-bbc9-e643a34a5a49/download/summer2016child.xlsx"
                 }, 
                 {
                     "format": "XLSX", 
                     "hash": "", 
                     "last_modified": null, 
-                    "name": "November 2016", 
+                    "name": "Summer 2016 - Preschool", 
                     "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/f9a376d1-6c6c-4458-9f8f-4c3f0d9c9626/download/cusersweirkydesktopdataopen-datagoogle-analytics2016november-2016.xlsx"
+                    "url": "http://data.ottawa.ca/dataset/73cf58c2-1924-4c9d-bcaa-d6b303f53f41/resource/15b96ee4-1fdd-4190-8242-1694691bfd70/download/summer2016preschool.xlsx"
                 }, 
                 {
                     "format": "XLSX", 
                     "hash": "", 
                     "last_modified": null, 
-                    "name": "December 2016", 
+                    "name": "Summer 2016 - Youth", 
                     "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/75113d62-13e3-4210-bd78-25bbd25e7186/download/cusersweirkydesktopdataopen-datagoogle-analytics2016december-2016.xlsx"
+                    "url": "http://data.ottawa.ca/dataset/73cf58c2-1924-4c9d-bcaa-d6b303f53f41/resource/e0518cd8-d0fc-4136-86a5-02357745e78d/download/summer2016youth.xlsx"
                 }, 
                 {
                     "format": "XLSX", 
                     "hash": "", 
                     "last_modified": null, 
-                    "name": "December 2016", 
+                    "name": "Fall 2016 Winter 2017", 
                     "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/be17a29e-800e-4c10-8659-b81e9d2d9f1a/download/cusersweirkydesktopdataopen-datagoogle-analytics2016december-2016.xlsx"
+                    "url": "http://data.ottawa.ca/dataset/73cf58c2-1924-4c9d-bcaa-d6b303f53f41/resource/b42c3875-6059-4b6b-ae16-e301b5d3fafa/download/recreationguidefall2016winter2017.xlsx"
                 }, 
                 {
-                    "format": "XLSX", 
+                    "format": "XLS", 
                     "hash": "", 
                     "last_modified": null, 
-                    "name": "December 2016", 
+                    "name": "March Break 2017 Adult ", 
                     "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/c4875179-ecbb-46c1-8197-0acbb93ed267/download/cusersweirkydesktopdataopen-datagoogle-analytics2016december-2016.xlsx"
+                    "url": "http://data.ottawa.ca/dataset/73cf58c2-1924-4c9d-bcaa-d6b303f53f41/resource/3328999b-c1a2-46c1-94b5-8608e46428b5/download/finalsmarch-break-2017-adult.xls"
                 }, 
                 {
-                    "format": "XLSX", 
+                    "format": "XLS", 
                     "hash": "", 
                     "last_modified": null, 
-                    "name": "January 2017", 
+                    "name": "March Break 2017 Children", 
                     "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/1e82abd1-1baf-4ec7-8b43-581295b6e108/download/cusersweirkydesktopdataopen-datagoogle-analytics2017january-2017.xlsx"
+                    "url": "http://data.ottawa.ca/dataset/73cf58c2-1924-4c9d-bcaa-d6b303f53f41/resource/9680b7fe-ca6e-41b3-8e82-c4fdb822d544/download/finalsmarch-break-2017-children.xlsx"
                 }, 
                 {
-                    "format": "XLSX", 
+                    "format": "XLS", 
                     "hash": "", 
                     "last_modified": null, 
-                    "name": "February 2017", 
+                    "name": "March Break 2017 Preschool", 
                     "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/43438c66-7407-4995-98ff-07561e1ff3f2/download/cusersweirkydesktopdataopen-datagoogle-analytics2017february.xlsx"
+                    "url": "http://data.ottawa.ca/dataset/73cf58c2-1924-4c9d-bcaa-d6b303f53f41/resource/e466fe39-40c0-461f-9ab3-af8449641a60/download/finalsmarch-break-2017-preschool.xlsx"
                 }, 
                 {
-                    "format": "XLSX", 
+                    "format": "XLS", 
                     "hash": "", 
                     "last_modified": null, 
-                    "name": "March 2017", 
+                    "name": "March Break 2017 Youth", 
                     "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/32af4efd-6fcb-41a6-b6d4-72b6d9d593d3/download/march-2017.xlsx"
+                    "url": "http://data.ottawa.ca/dataset/73cf58c2-1924-4c9d-bcaa-d6b303f53f41/resource/cf145974-4b06-4296-bec8-2d3692ef0578/download/finalsmarch-break-2017-youth.xls"
                 }, 
                 {
-                    "format": "XLSX", 
+                    "format": "XLS", 
                     "hash": "", 
                     "last_modified": null, 
-                    "name": "April 2017", 
+                    "name": "Spring 2017 - 50+", 
                     "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/e80f1df8-95e3-49c4-aa6d-7d6d638aa362/download/cusersweirkydesktopdataopen-datagoogle-analytics2017april-2017.xlsx"
+                    "url": "http://data.ottawa.ca/dataset/73cf58c2-1924-4c9d-bcaa-d6b303f53f41/resource/6ea4c1d1-283f-46e0-aa65-40778dd23680/download/2017-spring-adult-50.xls"
                 }, 
                 {
-                    "format": "XLSX", 
+                    "format": "XLS", 
                     "hash": "", 
                     "last_modified": null, 
-                    "name": "May 2017", 
+                    "name": "Spring 2017 - Adult", 
                     "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/0801217e-f991-44d9-af62-745186980850/download/cusersweirkydesktopdataopen-datagoogle-analytics2017may-2017.xlsx"
+                    "url": "http://data.ottawa.ca/dataset/73cf58c2-1924-4c9d-bcaa-d6b303f53f41/resource/15b6ee5c-8588-462e-bf5f-9345dbb505e1/download/2017-spring-adult.xls"
                 }, 
                 {
-                    "format": "XLSX", 
+                    "format": "XLS", 
                     "hash": "", 
                     "last_modified": null, 
-                    "name": "June 2017", 
+                    "name": "Spring 2017 - Children", 
                     "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/1d7b1a70-3dac-401f-83d6-c9ea5634f975/download/cusersweirkydesktopdataopen-datagoogle-analytics2017june-2017.xlsx"
+                    "url": "http://data.ottawa.ca/dataset/73cf58c2-1924-4c9d-bcaa-d6b303f53f41/resource/13c171af-d27b-4a1c-9d3d-94cf56b4958a/download/2017-spring-children.xls"
+                }, 
+                {
+                    "format": "XLS", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Spring 2017 - Preschool", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/73cf58c2-1924-4c9d-bcaa-d6b303f53f41/resource/ec80ba46-c991-4a58-b1c1-ccfa5c16611b/download/2017-spring-preschool.xls"
+                }, 
+                {
+                    "format": "XLS", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Spring 2017 - Youth", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/73cf58c2-1924-4c9d-bcaa-d6b303f53f41/resource/31831680-026e-48a1-93c7-2ffdb96dfe60/download/2017-spring-youth.xls"
+                }, 
+                {
+                    "format": "XLS", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Summer 2017 - 50+", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/73cf58c2-1924-4c9d-bcaa-d6b303f53f41/resource/907e29d6-4bfc-4313-9950-9f1dfbbcb1c6/download/2017-summer-adult-50.xls"
+                }, 
+                {
+                    "format": "XLS", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Summer 2017 - Adult", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/73cf58c2-1924-4c9d-bcaa-d6b303f53f41/resource/b47ccca1-a83e-45b9-a787-5e1936841101/download/2017-summer-adult.xls"
+                }, 
+                {
+                    "format": "XLS", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Summer 2017 - Children", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/73cf58c2-1924-4c9d-bcaa-d6b303f53f41/resource/d32f7bd0-2676-4f9d-b942-7713c2b21002/download/2017-summer-children.xls"
+                }, 
+                {
+                    "format": "XLS", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Summer 2017 - Preschool", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/73cf58c2-1924-4c9d-bcaa-d6b303f53f41/resource/36817c33-61c5-46ce-9bee-d059379bbfec/download/2017-summer-preschool.xls"
+                }, 
+                {
+                    "format": "XLS", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Summer 2017 - Youth", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/73cf58c2-1924-4c9d-bcaa-d6b303f53f41/resource/277d95bc-d344-428a-8e85-c4404a849d15/download/2017-summer-youth.xls"
+                }, 
+                {
+                    "format": "XLS", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Fall 2017 - 50+", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/73cf58c2-1924-4c9d-bcaa-d6b303f53f41/resource/2d45106f-deec-4f60-b753-561e654e1037/download/fall-2017---50.xls"
+                }, 
+                {
+                    "format": "XLS", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Fall 2017 - Adult", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/73cf58c2-1924-4c9d-bcaa-d6b303f53f41/resource/0ac4f304-6939-4189-9301-a376905fc820/download/fall-2017---adult.xls"
+                }, 
+                {
+                    "format": "XLS", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Fall 2017 - Children", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/73cf58c2-1924-4c9d-bcaa-d6b303f53f41/resource/a35b2d7a-e924-4cca-ab46-73b520c03a04/download/fall-2017---children.xls"
+                }, 
+                {
+                    "format": "XLS", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Fall 2017 - Preschool", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/73cf58c2-1924-4c9d-bcaa-d6b303f53f41/resource/99068c1d-4fb9-42bd-8b34-5fa3a2ba4079/download/fall-2017---preschool.xls"
+                }, 
+                {
+                    "format": "XLS", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Fall 2017 - Youth", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/73cf58c2-1924-4c9d-bcaa-d6b303f53f41/resource/1f7252cf-0276-4a49-aa5a-99d3993d28b9/download/fall-2017---youth.xls"
                 }
             ], 
-            "revision_id": "f28c7e31-b86d-4607-80af-2e8d27654a0d", 
+            "revision_id": "e9cda065-9baa-4060-909a-bf9394088a41", 
             "tags": [], 
             "title": {
-                "en": "Ottawa.ca Web Visitation \u2013 Monthly", 
-                "fr": "Visites du site Web Ottawa.ca \u2013 Mensuellement"
-            }
-        }, 
-        {
-            "author": "Kyla Weir", 
-            "license_title": "", 
-            "metadata_created": "2017-02-01T13:43:13.715418", 
-            "metadata_modified": "2017-07-04T12:09:37.891709", 
-            "organization_description": "", 
-            "relationships_as_object": [], 
-            "relationships_as_subject": [], 
-            "resources": [
-                {
-                    "format": "XLSX", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "January 2017", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/5c4dc991-aa30-436e-9942-52a8058a7c0f/resource/e98e63f4-fe6e-49bf-a75d-9d7352596e68/download/cusersweirkydesktopdatalagan-bifull-months2017cbt-jan-2017-for-open-data.xlsx"
-                }, 
-                {
-                    "format": "XLSX", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "February 2017", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/5c4dc991-aa30-436e-9942-52a8058a7c0f/resource/311caa87-319b-4246-8f83-273510e2e26f/download/cusersweirkydesktopdatalagan-bifull-months2017cbt-feb-2017-for-open-data.xlsx"
-                }, 
-                {
-                    "format": "XLSX", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "March 2017", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/5c4dc991-aa30-436e-9942-52a8058a7c0f/resource/9c45cfbc-4c72-4497-9d3b-0a9436580ebd/download/cbt-mar-2017-open-data.xlsx"
-                }, 
-                {
-                    "format": "XLSX", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "April 2017", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/5c4dc991-aa30-436e-9942-52a8058a7c0f/resource/9f797193-2ada-4c83-b045-6fa1ed765ecd/download/cusersweirkydesktopdatalagan-bifull-months2017cbt-apr-2017-fro-open-data.xlsx"
-                }, 
-                {
-                    "format": "XLSX", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "May 2017", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/5c4dc991-aa30-436e-9942-52a8058a7c0f/resource/e8a51364-24d8-4de6-bbb0-2852564b0a5b/download/cusersweirkydesktopdatalagan-bifull-months2017cbt-may-2017-open-data.xlsx"
-                }, 
-                {
-                    "format": "XLSX", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "June 2017", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/5c4dc991-aa30-436e-9942-52a8058a7c0f/resource/b1eee768-53ea-471b-9305-c3f0d96fbd94/download/cbt-jun-2017-open-data.xlsx"
-                }
-            ], 
-            "revision_id": "bd01056e-5e63-43da-96c3-9161e5e64719", 
-            "tags": [], 
-            "title": {
-                "en": "2017 Monthly Service Requests", 
-                "fr": "2017 \u2013 Demandes de service par mois"
+                "en": "Recreation Guides", 
+                "fr": "Guides des loisirs"
             }
         }, 
         {
             "author": "Warren Bedford", 
             "license_title": "Open Data License 2.0", 
             "metadata_created": "2015-05-20T17:49:50.315247", 
-            "metadata_modified": "2017-07-04T04:01:04.422874", 
+            "metadata_modified": "2017-07-17T04:01:13.453933", 
             "organization_description": "", 
             "relationships_as_object": [], 
             "relationships_as_subject": [], 
@@ -598,7 +373,7 @@
                 {
                     "format": "CSV", 
                     "hash": "md5:45a6bde3ce3c10f83b25ddf2cc751d9f", 
-                    "last_modified": "2017-07-03T00:01:12.891394", 
+                    "last_modified": "2017-07-17T00:01:13.288441", 
                     "name": "Sports_Fields", 
                     "state": "active", 
                     "url": "http://data.ottawa.ca/dataset/afdfcd85-7cff-45a8-94a5-6f74fd6e3498/resource/48aecbdc-446f-460a-9683-028cde0e564b/download/sportsfields.csv"
@@ -622,7 +397,7 @@
                 {
                     "format": "KMZ", 
                     "hash": "md5:08a6f872b5d8f8330c5944651245516e", 
-                    "last_modified": "2017-06-22T00:01:05.403332", 
+                    "last_modified": "2017-07-05T00:01:05.209474", 
                     "name": "Sports_Fields", 
                     "state": "active", 
                     "url": "http://data.ottawa.ca/dataset/afdfcd85-7cff-45a8-94a5-6f74fd6e3498/resource/3331cdf0-5d5b-410b-bf37-5c4df70767c5/download/sportsfields.kmz"
@@ -630,7 +405,7 @@
                 {
                     "format": "XML", 
                     "hash": "md5:4de8fc8e80dccca01d87ae540b56e469", 
-                    "last_modified": "2017-07-03T00:01:11.585738", 
+                    "last_modified": "2017-07-17T00:01:12.025688", 
                     "name": "Sports_Fields", 
                     "state": "active", 
                     "url": "http://data.ottawa.ca/dataset/afdfcd85-7cff-45a8-94a5-6f74fd6e3498/resource/4a0cd5bd-06c5-4f86-9c02-01a84bff5021/download/sportsfields.xml"
@@ -638,7 +413,7 @@
                 {
                     "format": "SHP", 
                     "hash": "md5:28b0c978a523299ff09c10d3c4367fa4", 
-                    "last_modified": "2017-07-03T00:01:10.230766", 
+                    "last_modified": "2017-07-17T00:01:10.513842", 
                     "name": "Sports-Fields", 
                     "state": "active", 
                     "url": "http://data.ottawa.ca/dataset/afdfcd85-7cff-45a8-94a5-6f74fd6e3498/resource/c0d83938-5b22-455c-9c58-3da5f24ae673/download/sports-fields.shp.zip"
@@ -692,7 +467,7 @@
             "author": "Warren Bedford", 
             "license_title": "Open Data License 2.0", 
             "metadata_created": "2015-05-20T17:49:24.372284", 
-            "metadata_modified": "2017-07-03T04:01:03.630384", 
+            "metadata_modified": "2017-07-17T04:01:03.925351", 
             "organization_description": "", 
             "relationships_as_object": [], 
             "relationships_as_subject": [], 
@@ -700,7 +475,7 @@
                 {
                     "format": "CSV", 
                     "hash": "md5:14b9f2ad773ed9ffc8cbaf2d5e7cf913", 
-                    "last_modified": "2017-07-01T00:01:10.649369", 
+                    "last_modified": "2017-07-15T00:01:10.300612", 
                     "name": "Basketball_Courts", 
                     "state": "active", 
                     "url": "http://data.ottawa.ca/dataset/859ab3c4-c68c-4bf2-8ba1-1d7f3fe569e1/resource/2e6c7974-abf9-4330-bda4-708d34a94eb7/download/basketballcourts.csv"
@@ -708,7 +483,7 @@
                 {
                     "format": "dwg", 
                     "hash": "md5:1e506e8fcb4b383baf37cdd3ec57b35f", 
-                    "last_modified": "2017-07-02T00:01:03.240320", 
+                    "last_modified": "2017-07-16T00:01:03.075953", 
                     "name": "Basketball_Courts", 
                     "state": "active", 
                     "url": "http://data.ottawa.ca/dataset/859ab3c4-c68c-4bf2-8ba1-1d7f3fe569e1/resource/75242f6a-e5d3-4da8-9e8f-aec3cbff815e/download/basketballcourts.dwg"
@@ -724,7 +499,7 @@
                 {
                     "format": "KMZ", 
                     "hash": "md5:d1ea2b550ac0804091bd75ce537c647a", 
-                    "last_modified": "2017-07-03T00:01:03.489201", 
+                    "last_modified": "2017-07-17T00:01:03.782201", 
                     "name": "Basketball_Courts", 
                     "state": "active", 
                     "url": "http://data.ottawa.ca/dataset/859ab3c4-c68c-4bf2-8ba1-1d7f3fe569e1/resource/5eea9893-1a28-4cb2-8ca1-b91acacdb0ae/download/basketballcourts.kmz"
@@ -732,7 +507,7 @@
                 {
                     "format": "XML", 
                     "hash": "md5:0d0d2a1dda5a4f6233726cf781c6d136", 
-                    "last_modified": "2017-07-01T00:01:09.017807", 
+                    "last_modified": "2017-07-15T00:01:09.147609", 
                     "name": "Basketball_Courts", 
                     "state": "active", 
                     "url": "http://data.ottawa.ca/dataset/859ab3c4-c68c-4bf2-8ba1-1d7f3fe569e1/resource/5d4f4fe8-c964-41a7-a3b3-b4cbd3d924cf/download/basketballcourts.xml"
@@ -740,7 +515,7 @@
                 {
                     "format": "SHP", 
                     "hash": "md5:7ff7cbd0e89c6081324ddf4faef179e4", 
-                    "last_modified": "2017-07-01T00:01:07.593704", 
+                    "last_modified": "2017-07-15T00:01:07.796615", 
                     "name": "Basketball-Courts", 
                     "state": "active", 
                     "url": "http://data.ottawa.ca/dataset/859ab3c4-c68c-4bf2-8ba1-1d7f3fe569e1/resource/98bf9f4b-16d8-423d-99eb-06cb836d44c2/download/basketball-courts.shp.zip"
@@ -770,7 +545,7 @@
             "author": "City of Ottawa", 
             "license_title": "Open Data License 2.0", 
             "metadata_created": "2015-10-19T12:36:22.371629", 
-            "metadata_modified": "2017-07-01T04:01:03.730896", 
+            "metadata_modified": "2017-07-15T04:01:03.997689", 
             "organization_description": "", 
             "relationships_as_object": [], 
             "relationships_as_subject": [], 
@@ -786,7 +561,7 @@
                 {
                     "format": "CSV", 
                     "hash": "", 
-                    "last_modified": "2017-06-29T00:01:05.288475", 
+                    "last_modified": "2017-07-13T00:01:06.071426", 
                     "name": "urban-transit-area:csv", 
                     "state": "active", 
                     "url": "http://data.ottawa.ca/dataset/704e1968-69c7-4c95-97cd-d988de291cae/resource/0a35b372-19c6-4817-b7a8-92589b5259e8/download/urban-transit-areacsv.csv"
@@ -794,7 +569,7 @@
                 {
                     "format": "dwg", 
                     "hash": "", 
-                    "last_modified": "2017-06-30T00:01:04.123888", 
+                    "last_modified": "2017-07-14T00:01:03.251415", 
                     "name": "urban-transit-area:dwg", 
                     "state": "active", 
                     "url": "http://data.ottawa.ca/dataset/704e1968-69c7-4c95-97cd-d988de291cae/resource/b764698a-7483-4cbd-b725-2c2293608a65/download/urban-transit-areadwg.dwg"
@@ -802,7 +577,7 @@
                 {
                     "format": "KMZ", 
                     "hash": "", 
-                    "last_modified": "2017-07-01T00:01:03.542641", 
+                    "last_modified": "2017-07-15T00:01:03.736338", 
                     "name": "urban-transit-area:kmz", 
                     "state": "active", 
                     "url": "http://data.ottawa.ca/dataset/704e1968-69c7-4c95-97cd-d988de291cae/resource/8ae44728-d3eb-4293-81a2-eb3fb3b3b098/download/urban-transit-areakmz.kmz"
@@ -816,10 +591,267 @@
             }
         }, 
         {
+            "author": "Warren Bedford", 
+            "license_title": "Open Data License 2.0", 
+            "metadata_created": "2015-05-20T17:48:51.176986", 
+            "metadata_modified": "2017-07-13T04:01:04.318050", 
+            "organization_description": "", 
+            "relationships_as_object": [], 
+            "relationships_as_subject": [], 
+            "resources": [
+                {
+                    "format": "CSV", 
+                    "hash": "md5:525abd3e03829c2af87216e718e6ae6f", 
+                    "last_modified": "2017-07-11T00:01:06.150542", 
+                    "name": "Lawn_Bowling", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/524256b7-b863-4fb0-8761-65f1084af8d3/resource/16f3597c-ec0b-4998-804c-0def5841b6c0/download/lawnbowling.csv"
+                }, 
+                {
+                    "format": "dwg", 
+                    "hash": "md5:f21cb87ea7c832385de2bff773f4146d", 
+                    "last_modified": "2017-07-12T00:01:03.732336", 
+                    "name": "Lawn_Bowling", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/524256b7-b863-4fb0-8761-65f1084af8d3/resource/9467645f-0ce8-4d84-a373-ba53f1b26467/download/lawnbowling.dwg"
+                }, 
+                {
+                    "format": "dwg.xml", 
+                    "hash": "md5:b212e25f83d5f88a3f3beba2245a4d2e", 
+                    "last_modified": "2013-06-20T08:28:50", 
+                    "name": "Lawn_Bowling", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/524256b7-b863-4fb0-8761-65f1084af8d3/resource/77309049-a618-4eb5-9213-b9d3a629e73b/download/prlawnbowling.dwg.xml"
+                }, 
+                {
+                    "format": "KMZ", 
+                    "hash": "md5:5993e1248dd12cad17624fd61f7ea6be", 
+                    "last_modified": "2017-07-13T00:01:04.173535", 
+                    "name": "Lawn_Bowling", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/524256b7-b863-4fb0-8761-65f1084af8d3/resource/0f5b7c1b-eeb9-4d26-bc22-e3b2626d9312/download/lawnbowling.kmz"
+                }, 
+                {
+                    "format": "XML", 
+                    "hash": "md5:bb5b27f1dc1489089ed0cd965e0833af", 
+                    "last_modified": "2017-07-11T00:01:04.933464", 
+                    "name": "Lawn_Bowling", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/524256b7-b863-4fb0-8761-65f1084af8d3/resource/c978a063-ac66-4fb8-bb19-9f1dc810d378/download/lawnbowling.xml"
+                }, 
+                {
+                    "format": "SHP", 
+                    "hash": "md5:2eb54702f88ff76a7498f59a51bb8050", 
+                    "last_modified": "2017-07-11T00:01:03.468471", 
+                    "name": "Lawn-Bowling", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/524256b7-b863-4fb0-8761-65f1084af8d3/resource/2877eaa7-56e5-4417-9917-7a580a7f38ca/download/lawn-bowling.shp.zip"
+                }, 
+                {
+                    "format": "GeoJSON", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Lawn-Bowling", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/524256b7-b863-4fb0-8761-65f1084af8d3/resource/d1432625-24d6-4a81-ba90-2b66199c2cb3/download/lawn-bowling.json"
+                }
+            ], 
+            "revision_id": "51f87ec3-1502-42f9-b0c1-e134e441590c", 
+            "tags": [
+                {
+                    "tag_id": "c8a61a2e-e079-4e5a-a2dd-366f21b5a9c0", 
+                    "tag_name": "Lawn Bowling"
+                }
+            ], 
+            "title": {
+                "en": "Lawn Bowling", 
+                "fr": "Terrains boulingrin"
+            }
+        }, 
+        {
+            "author": "City of Ottawa", 
+            "license_title": "Open Data License 2.0", 
+            "metadata_created": "2015-10-19T13:01:42.004716", 
+            "metadata_modified": "2017-07-10T04:01:06.854610", 
+            "organization_description": "", 
+            "relationships_as_object": [], 
+            "relationships_as_subject": [], 
+            "resources": [
+                {
+                    "format": "SHP", 
+                    "hash": "", 
+                    "last_modified": "2017-07-09T00:01:11.378193", 
+                    "name": "wards-2014:shp", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/8321248d-0b86-47cd-9c83-c848a1bc0098/resource/8152e707-fc28-409c-9bbe-8cb9f88dca86/download/wards-2014shp.shp.zip"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "", 
+                    "last_modified": "2017-07-09T00:01:12.551540", 
+                    "name": "wards-2014:csv", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/8321248d-0b86-47cd-9c83-c848a1bc0098/resource/3dec3c38-1644-4542-a91c-db7883a80463/download/wards-2014csv.csv"
+                }, 
+                {
+                    "format": "dwg", 
+                    "hash": "", 
+                    "last_modified": "2017-07-10T00:01:06.627628", 
+                    "name": "wards-2014:dwg", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/8321248d-0b86-47cd-9c83-c848a1bc0098/resource/32e43199-b3d3-4000-88a8-aa62faea18ad/download/wards-2014dwg.dwg"
+                }, 
+                {
+                    "format": "KMZ", 
+                    "hash": "", 
+                    "last_modified": "2017-03-01T00:01:18.642589", 
+                    "name": "wards-2014:kmz", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/8321248d-0b86-47cd-9c83-c848a1bc0098/resource/d63e4443-febd-4d4a-ba9a-444d49c10124/download/wards-2014kmz.kmz"
+                }
+            ], 
+            "revision_id": "8c046c86-bfa8-4558-bad0-bf8462440d0c", 
+            "tags": [], 
+            "title": {
+                "en": "Wards 2014", 
+                "fr": "Quartiers 2014"
+            }
+        }, 
+        {
+            "author": "Surveys and Mapping / Lev\u00e9s et Cartographie", 
+            "license_title": "Open Data License 2.0", 
+            "metadata_created": "2015-05-20T17:49:53.365891", 
+            "metadata_modified": "2017-07-09T04:01:05.658826", 
+            "organization_description": "", 
+            "relationships_as_object": [], 
+            "relationships_as_subject": [], 
+            "resources": [
+                {
+                    "format": "XML", 
+                    "hash": "md5:963391baf40791b6b16f04c71d57587f", 
+                    "last_modified": "2017-07-07T00:01:12.362586", 
+                    "name": "neighbourhood-names", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/b9424bfe-6632-4bf9-a5e3-169a76d05a28/resource/8ba8cee1-638f-443b-9aad-b12f3121e2ce/download/neighbourhood-names.xml"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "md5:be8cd86aefac3cdb55eebe8d4dd99806", 
+                    "last_modified": "2017-07-07T00:01:13.516349", 
+                    "name": "neighbourhood-names", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/b9424bfe-6632-4bf9-a5e3-169a76d05a28/resource/9be3e198-934f-4525-8c90-19819dcc3531/download/neighbourhood-names.csv"
+                }, 
+                {
+                    "format": "KMZ", 
+                    "hash": "md5:ef4fff8ff8f982bf28a622c336f7f687", 
+                    "last_modified": "2017-07-09T00:01:05.548786", 
+                    "name": "neighbourhood-names", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/b9424bfe-6632-4bf9-a5e3-169a76d05a28/resource/73f7d33e-cf85-4c7b-a67f-e143e97ec528/download/neighbourhood-names.kmz"
+                }, 
+                {
+                    "format": "dwg", 
+                    "hash": "md5:6b39957ea6d0d11af42dee275ba543a9", 
+                    "last_modified": "2017-07-08T00:01:05.665551", 
+                    "name": "neighbourhood-names", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/b9424bfe-6632-4bf9-a5e3-169a76d05a28/resource/8596799d-cbd6-4073-81de-10a1fd4cdc99/download/neighbourhood-names.dwg"
+                }, 
+                {
+                    "format": "SHP", 
+                    "hash": "md5:ebbd7ca54344c830a6061ac6ba7791ba", 
+                    "last_modified": "2017-07-07T00:01:11.030004", 
+                    "name": "neighbourhood-names", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/b9424bfe-6632-4bf9-a5e3-169a76d05a28/resource/5719b275-0dea-40cf-8f93-c2cb41808a19/download/neighbourhood-names.shp.zip"
+                }, 
+                {
+                    "format": "GeoJSON", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "neighbourhood-names", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/b9424bfe-6632-4bf9-a5e3-169a76d05a28/resource/6aba4a6c-5e87-46d7-85fd-69bda81e9a03/download/neighbourhood-names.json"
+                }
+            ], 
+            "revision_id": "94f2d9a8-ac98-4064-b456-216d77d283eb", 
+            "tags": [], 
+            "title": {
+                "en": "Neighbourhood Names", 
+                "fr": "Nom des quartiers"
+            }
+        }, 
+        {
+            "author": "Surveys and Mapping / Lev\u00e9s et Cartographie", 
+            "license_title": "Open Data License 2.0", 
+            "metadata_created": "2015-05-20T17:50:08.057502", 
+            "metadata_modified": "2017-07-07T04:01:05.488202", 
+            "organization_description": "", 
+            "relationships_as_object": [], 
+            "relationships_as_subject": [], 
+            "resources": [
+                {
+                    "format": "XML", 
+                    "hash": "md5:52a44282fa3bd69541221e741e2d4e4f", 
+                    "last_modified": "2017-07-05T00:01:57.955769", 
+                    "name": "ditches", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/d4a06f9b-a8e1-489d-bf55-26b23976790d/resource/218e712e-90e7-4e58-8e55-6c25d20328ba/download/ditches.xml"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "md5:7cbad5322428eb3ff3ec041308c6a9ad", 
+                    "last_modified": "2017-07-05T00:01:59.242645", 
+                    "name": "ditches", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/d4a06f9b-a8e1-489d-bf55-26b23976790d/resource/b266912b-c486-44ce-935f-657766b0f0a6/download/ditches.csv"
+                }, 
+                {
+                    "format": "KMZ", 
+                    "hash": "md5:f7afc7225d0ebcafe6318d210603fcb2", 
+                    "last_modified": "2017-07-07T00:01:04.668757", 
+                    "name": "ditches", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/d4a06f9b-a8e1-489d-bf55-26b23976790d/resource/51296063-908e-45ee-a808-745bfcce0e21/download/ditches.kmz"
+                }, 
+                {
+                    "format": "dwg", 
+                    "hash": "md5:dfcf68b4749508eb6de3b6135974caf6", 
+                    "last_modified": "2017-07-06T00:01:05.750718", 
+                    "name": "ditches", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/d4a06f9b-a8e1-489d-bf55-26b23976790d/resource/3f62325c-9b5b-4a73-94af-4d155c3db464/download/ditches.dwg"
+                }, 
+                {
+                    "format": "SHP", 
+                    "hash": "md5:f394ed9d34ddd9f4d4ac091faf837f57", 
+                    "last_modified": "2017-07-05T00:01:56.512957", 
+                    "name": "ditches", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/d4a06f9b-a8e1-489d-bf55-26b23976790d/resource/aad6eaf8-9447-40cf-b01e-3b17bfcd2519/download/ditches.shp.zip"
+                }, 
+                {
+                    "format": "GeoJSON", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "ditches", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/d4a06f9b-a8e1-489d-bf55-26b23976790d/resource/ea3e68d9-c81e-492e-b609-6481387dc029/download/ditches.json"
+                }
+            ], 
+            "revision_id": "b8a4e89d-c154-49a8-b20d-0cb61b590645", 
+            "tags": [], 
+            "title": {
+                "en": "Ditches", 
+                "fr": "Foss\u00e9s"
+            }
+        }, 
+        {
             "author": "Jason Haug", 
             "license_title": "Open Data License 2.0", 
             "metadata_created": "2017-06-28T20:58:21.573253", 
-            "metadata_modified": "2017-06-29T15:11:26.684047", 
+            "metadata_modified": "2017-07-06T19:44:18.838010", 
             "organization_description": "", 
             "relationships_as_object": [], 
             "relationships_as_subject": [], 
@@ -886,407 +918,10 @@
             }
         }, 
         {
-            "author": "Warren Bedford", 
-            "license_title": "Open Data License 2.0", 
-            "metadata_created": "2015-05-20T17:48:51.176986", 
-            "metadata_modified": "2017-06-29T04:01:03.796645", 
-            "organization_description": "", 
-            "relationships_as_object": [], 
-            "relationships_as_subject": [], 
-            "resources": [
-                {
-                    "format": "CSV", 
-                    "hash": "md5:525abd3e03829c2af87216e718e6ae6f", 
-                    "last_modified": "2017-06-27T00:01:06.599703", 
-                    "name": "Lawn_Bowling", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/524256b7-b863-4fb0-8761-65f1084af8d3/resource/16f3597c-ec0b-4998-804c-0def5841b6c0/download/lawnbowling.csv"
-                }, 
-                {
-                    "format": "dwg", 
-                    "hash": "md5:f21cb87ea7c832385de2bff773f4146d", 
-                    "last_modified": "2017-06-28T00:01:02.896612", 
-                    "name": "Lawn_Bowling", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/524256b7-b863-4fb0-8761-65f1084af8d3/resource/9467645f-0ce8-4d84-a373-ba53f1b26467/download/lawnbowling.dwg"
-                }, 
-                {
-                    "format": "dwg.xml", 
-                    "hash": "md5:b212e25f83d5f88a3f3beba2245a4d2e", 
-                    "last_modified": "2013-06-20T08:28:50", 
-                    "name": "Lawn_Bowling", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/524256b7-b863-4fb0-8761-65f1084af8d3/resource/77309049-a618-4eb5-9213-b9d3a629e73b/download/prlawnbowling.dwg.xml"
-                }, 
-                {
-                    "format": "KMZ", 
-                    "hash": "md5:5993e1248dd12cad17624fd61f7ea6be", 
-                    "last_modified": "2017-06-29T00:01:03.665582", 
-                    "name": "Lawn_Bowling", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/524256b7-b863-4fb0-8761-65f1084af8d3/resource/0f5b7c1b-eeb9-4d26-bc22-e3b2626d9312/download/lawnbowling.kmz"
-                }, 
-                {
-                    "format": "XML", 
-                    "hash": "md5:bb5b27f1dc1489089ed0cd965e0833af", 
-                    "last_modified": "2017-06-27T00:01:05.367577", 
-                    "name": "Lawn_Bowling", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/524256b7-b863-4fb0-8761-65f1084af8d3/resource/c978a063-ac66-4fb8-bb19-9f1dc810d378/download/lawnbowling.xml"
-                }, 
-                {
-                    "format": "SHP", 
-                    "hash": "md5:2eb54702f88ff76a7498f59a51bb8050", 
-                    "last_modified": "2017-06-27T00:01:03.811696", 
-                    "name": "Lawn-Bowling", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/524256b7-b863-4fb0-8761-65f1084af8d3/resource/2877eaa7-56e5-4417-9917-7a580a7f38ca/download/lawn-bowling.shp.zip"
-                }, 
-                {
-                    "format": "GeoJSON", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Lawn-Bowling", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/524256b7-b863-4fb0-8761-65f1084af8d3/resource/d1432625-24d6-4a81-ba90-2b66199c2cb3/download/lawn-bowling.json"
-                }
-            ], 
-            "revision_id": "51f87ec3-1502-42f9-b0c1-e134e441590c", 
-            "tags": [
-                {
-                    "tag_id": "c8a61a2e-e079-4e5a-a2dd-366f21b5a9c0", 
-                    "tag_name": "Lawn Bowling"
-                }
-            ], 
-            "title": {
-                "en": "Lawn Bowling", 
-                "fr": "Terrains boulingrin"
-            }
-        }, 
-        {
-            "author": "City of Ottawa", 
-            "license_title": "Open Data License 2.0", 
-            "metadata_created": "2015-10-19T13:01:42.004716", 
-            "metadata_modified": "2017-06-26T04:01:11.142482", 
-            "organization_description": "", 
-            "relationships_as_object": [], 
-            "relationships_as_subject": [], 
-            "resources": [
-                {
-                    "format": "SHP", 
-                    "hash": "", 
-                    "last_modified": "2017-06-26T00:01:11.009387", 
-                    "name": "wards-2014:shp", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/8321248d-0b86-47cd-9c83-c848a1bc0098/resource/8152e707-fc28-409c-9bbe-8cb9f88dca86/download/wards-2014shp.shp.zip"
-                }, 
-                {
-                    "format": "CSV", 
-                    "hash": "", 
-                    "last_modified": "2017-05-08T00:01:38.775071", 
-                    "name": "wards-2014:csv", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/8321248d-0b86-47cd-9c83-c848a1bc0098/resource/3dec3c38-1644-4542-a91c-db7883a80463/download/wards-2014csv.csv"
-                }, 
-                {
-                    "format": "dwg", 
-                    "hash": "", 
-                    "last_modified": "2017-03-27T00:01:10.176045", 
-                    "name": "wards-2014:dwg", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/8321248d-0b86-47cd-9c83-c848a1bc0098/resource/32e43199-b3d3-4000-88a8-aa62faea18ad/download/wards-2014dwg.dwg"
-                }, 
-                {
-                    "format": "KMZ", 
-                    "hash": "", 
-                    "last_modified": "2017-03-01T00:01:18.642589", 
-                    "name": "wards-2014:kmz", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/8321248d-0b86-47cd-9c83-c848a1bc0098/resource/d63e4443-febd-4d4a-ba9a-444d49c10124/download/wards-2014kmz.kmz"
-                }
-            ], 
-            "revision_id": "8c046c86-bfa8-4558-bad0-bf8462440d0c", 
-            "tags": [], 
-            "title": {
-                "en": "Wards 2014", 
-                "fr": "Quartiers 2014"
-            }
-        }, 
-        {
-            "author": "Surveys and Mapping / Lev\u00e9s et Cartographie", 
-            "license_title": "Open Data License 2.0", 
-            "metadata_created": "2015-05-20T17:49:53.365891", 
-            "metadata_modified": "2017-06-26T04:01:05.298999", 
-            "organization_description": "", 
-            "relationships_as_object": [], 
-            "relationships_as_subject": [], 
-            "resources": [
-                {
-                    "format": "XML", 
-                    "hash": "md5:963391baf40791b6b16f04c71d57587f", 
-                    "last_modified": "2017-06-24T00:01:12.541570", 
-                    "name": "neighbourhood-names", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/b9424bfe-6632-4bf9-a5e3-169a76d05a28/resource/8ba8cee1-638f-443b-9aad-b12f3121e2ce/download/neighbourhood-names.xml"
-                }, 
-                {
-                    "format": "CSV", 
-                    "hash": "md5:be8cd86aefac3cdb55eebe8d4dd99806", 
-                    "last_modified": "2017-06-24T00:01:14.796725", 
-                    "name": "neighbourhood-names", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/b9424bfe-6632-4bf9-a5e3-169a76d05a28/resource/9be3e198-934f-4525-8c90-19819dcc3531/download/neighbourhood-names.csv"
-                }, 
-                {
-                    "format": "KMZ", 
-                    "hash": "md5:ef4fff8ff8f982bf28a622c336f7f687", 
-                    "last_modified": "2017-06-26T00:01:05.189137", 
-                    "name": "neighbourhood-names", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/b9424bfe-6632-4bf9-a5e3-169a76d05a28/resource/73f7d33e-cf85-4c7b-a67f-e143e97ec528/download/neighbourhood-names.kmz"
-                }, 
-                {
-                    "format": "dwg", 
-                    "hash": "md5:6b39957ea6d0d11af42dee275ba543a9", 
-                    "last_modified": "2017-06-25T00:01:06.188378", 
-                    "name": "neighbourhood-names", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/b9424bfe-6632-4bf9-a5e3-169a76d05a28/resource/8596799d-cbd6-4073-81de-10a1fd4cdc99/download/neighbourhood-names.dwg"
-                }, 
-                {
-                    "format": "SHP", 
-                    "hash": "md5:ebbd7ca54344c830a6061ac6ba7791ba", 
-                    "last_modified": "2017-06-24T00:01:11.226589", 
-                    "name": "neighbourhood-names", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/b9424bfe-6632-4bf9-a5e3-169a76d05a28/resource/5719b275-0dea-40cf-8f93-c2cb41808a19/download/neighbourhood-names.shp.zip"
-                }, 
-                {
-                    "format": "GeoJSON", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "neighbourhood-names", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/b9424bfe-6632-4bf9-a5e3-169a76d05a28/resource/6aba4a6c-5e87-46d7-85fd-69bda81e9a03/download/neighbourhood-names.json"
-                }
-            ], 
-            "revision_id": "94f2d9a8-ac98-4064-b456-216d77d283eb", 
-            "tags": [], 
-            "title": {
-                "en": "Neighbourhood Names", 
-                "fr": "Nom des quartiers"
-            }
-        }, 
-        {
-            "author": "Ryan Furuness", 
-            "license_title": "Open Data License 2.0", 
-            "metadata_created": "2015-05-20T17:50:20.646398", 
-            "metadata_modified": "2017-06-24T14:59:30.281952", 
-            "organization_description": "", 
-            "relationships_as_object": [], 
-            "relationships_as_subject": [], 
-            "resources": [
-                {
-                    "format": "XLS", 
-                    "hash": "md5:10bb763a0807d9186d21c18d1a2b06de", 
-                    "last_modified": "2014-08-17T09:23:01", 
-                    "name": "Beach sampling results 2017.xls", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/f0d680ed-09d7-4e51-bdb0-00e95648ff9d/resource/ab85fe8e-98c4-4388-9dc3-2839890f637d/download/shealthhealth-protection-divisionenvironmental-healthbeaches2017-beachesbeach-data-excel-sheets.xlsx"
-                }
-            ], 
-            "revision_id": "594e0a38-f62f-48d0-aa4c-4598b4a17e60", 
-            "tags": [], 
-            "title": {
-                "en": "Beach water sampling data", 
-                "fr": "Donn\u00e9es d\u2019\u00e9chantillonnage de l\u2019eau des plages"
-            }
-        }, 
-        {
-            "author": "Surveys and Mapping / Lev\u00e9s et Cartographie", 
-            "license_title": "Open Data License 2.0", 
-            "metadata_created": "2015-05-20T17:50:08.057502", 
-            "metadata_modified": "2017-06-24T04:01:05.500721", 
-            "organization_description": "", 
-            "relationships_as_object": [], 
-            "relationships_as_subject": [], 
-            "resources": [
-                {
-                    "format": "XML", 
-                    "hash": "md5:52a44282fa3bd69541221e741e2d4e4f", 
-                    "last_modified": "2017-06-22T00:01:58.640110", 
-                    "name": "ditches", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/d4a06f9b-a8e1-489d-bf55-26b23976790d/resource/218e712e-90e7-4e58-8e55-6c25d20328ba/download/ditches.xml"
-                }, 
-                {
-                    "format": "CSV", 
-                    "hash": "md5:7cbad5322428eb3ff3ec041308c6a9ad", 
-                    "last_modified": "2017-06-22T00:01:59.919803", 
-                    "name": "ditches", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/d4a06f9b-a8e1-489d-bf55-26b23976790d/resource/b266912b-c486-44ce-935f-657766b0f0a6/download/ditches.csv"
-                }, 
-                {
-                    "format": "KMZ", 
-                    "hash": "md5:f7afc7225d0ebcafe6318d210603fcb2", 
-                    "last_modified": "2017-06-24T00:01:04.889512", 
-                    "name": "ditches", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/d4a06f9b-a8e1-489d-bf55-26b23976790d/resource/51296063-908e-45ee-a808-745bfcce0e21/download/ditches.kmz"
-                }, 
-                {
-                    "format": "dwg", 
-                    "hash": "md5:dfcf68b4749508eb6de3b6135974caf6", 
-                    "last_modified": "2017-06-23T00:01:04.812785", 
-                    "name": "ditches", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/d4a06f9b-a8e1-489d-bf55-26b23976790d/resource/3f62325c-9b5b-4a73-94af-4d155c3db464/download/ditches.dwg"
-                }, 
-                {
-                    "format": "SHP", 
-                    "hash": "md5:f394ed9d34ddd9f4d4ac091faf837f57", 
-                    "last_modified": "2017-06-22T00:01:57.101850", 
-                    "name": "ditches", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/d4a06f9b-a8e1-489d-bf55-26b23976790d/resource/aad6eaf8-9447-40cf-b01e-3b17bfcd2519/download/ditches.shp.zip"
-                }, 
-                {
-                    "format": "GeoJSON", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "ditches", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/d4a06f9b-a8e1-489d-bf55-26b23976790d/resource/ea3e68d9-c81e-492e-b609-6481387dc029/download/ditches.json"
-                }
-            ], 
-            "revision_id": "b8a4e89d-c154-49a8-b20d-0cb61b590645", 
-            "tags": [], 
-            "title": {
-                "en": "Ditches", 
-                "fr": "Foss\u00e9s"
-            }
-        }, 
-        {
-            "author": "Justin Hoppner", 
-            "license_title": "Open Data License 2.0", 
-            "metadata_created": "2016-12-01T15:21:10.810225", 
-            "metadata_modified": "2017-06-16T19:35:39.328160", 
-            "organization_description": "", 
-            "relationships_as_object": [], 
-            "relationships_as_subject": [], 
-            "resources": [
-                {
-                    "format": "XLSX", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Biosolids Quality_qualit\u00e9 des biosolides - 05/24/2017", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/2886ebb9-a58b-447d-b57a-7676c3cd3302/resource/5b6d212e-f8cb-4498-80f1-9c95714a75d2/download/biosolids-qualityqualite-des-biosolides05242017.xlsx"
-                }
-            ], 
-            "revision_id": "979b1d7e-9042-4ea6-808f-ced88a803159", 
-            "tags": [], 
-            "title": {
-                "en": "Biosolids quality", 
-                "fr": "La qualit\u00e9 des biosolides"
-            }
-        }, 
-        {
-            "author": "GIS Team", 
-            "license_title": "Open Data License 2.0", 
-            "metadata_created": "2015-08-20T19:52:17.291285", 
-            "metadata_modified": "2017-06-14T11:46:52.987074", 
-            "organization_description": "", 
-            "relationships_as_object": [], 
-            "relationships_as_subject": [], 
-            "resources": [
-                {
-                    "format": "dwg", 
-                    "hash": "", 
-                    "last_modified": "2017-03-01T00:08:19.590788", 
-                    "name": "Road Segments", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/82391b5b-974c-473e-87bd-4c5e24de9deb/resource/a5e55f72-84c6-4c5e-b4ca-c7472e66c8cd/download/road-segments.dwg"
-                }, 
-                {
-                    "format": "KMZ", 
-                    "hash": "", 
-                    "last_modified": "2017-03-01T00:08:25.046773", 
-                    "name": "Road Segments", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/82391b5b-974c-473e-87bd-4c5e24de9deb/resource/bd87734f-96c2-49d8-ba86-bf144a6aed0a/download/road-segments.kmz"
-                }, 
-                {
-                    "format": "SHP", 
-                    "hash": "", 
-                    "last_modified": "2017-06-14T07:23:59.286115", 
-                    "name": "Road Segments", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/82391b5b-974c-473e-87bd-4c5e24de9deb/resource/f72339eb-769f-48ec-a18a-9965a879527e/download/road-segments.shp.zip"
-                }, 
-                {
-                    "format": "CSV", 
-                    "hash": "", 
-                    "last_modified": "2017-06-14T07:24:17.059501", 
-                    "name": "Road Segments", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/82391b5b-974c-473e-87bd-4c5e24de9deb/resource/c8848dc6-6269-4c68-8dcf-b91c34543674/download/road-segments.csv"
-                }
-            ], 
-            "revision_id": "97fb8dfe-44d5-4634-a70b-c7f4a83ea06a", 
-            "tags": [
-                {
-                    "tag_id": "c207ac52-3105-405e-ae72-f92ce375a7f4", 
-                    "tag_name": "Road"
-                }, 
-                {
-                    "tag_id": "f6a8bd9d-47c4-49ae-9368-4255f42c420a", 
-                    "tag_name": "Roadway"
-                }, 
-                {
-                    "tag_id": "d148bb3b-8230-48f8-a5c3-c8e6cd99abf4", 
-                    "tag_name": "Route"
-                }, 
-                {
-                    "tag_id": "1fb6959e-5f4a-4cc2-8fff-9d69fc88385b", 
-                    "tag_name": "Street"
-                }, 
-                {
-                    "tag_id": "d104568b-1dc9-450d-960b-8a2bde2bf0c1", 
-                    "tag_name": "Streets"
-                }, 
-                {
-                    "tag_id": "fb63ee5b-4a75-4ca6-8b0f-35ac93fb81d3", 
-                    "tag_name": "chemin"
-                }, 
-                {
-                    "tag_id": "35c55899-2fbf-4697-a98f-f757ea056e3d", 
-                    "tag_name": "chemins"
-                }, 
-                {
-                    "tag_id": "01a9ad7a-8b04-44f2-bd99-08e7fa1e8e71", 
-                    "tag_name": "routes"
-                }, 
-                {
-                    "tag_id": "5a651e9e-0ee5-4757-8ba8-caeef3fb0c0b", 
-                    "tag_name": "rue"
-                }, 
-                {
-                    "tag_id": "95c17264-e2d0-4883-848e-8553756d33a3", 
-                    "tag_name": "rues"
-                }
-            ], 
-            "title": {
-                "en": "Roads", 
-                "fr": "Routes"
-            }
-        }, 
-        {
             "author": "Lyndsey Stuart or Debbie Kennedy", 
             "license_title": "Open Data License 2.0", 
             "metadata_created": "2015-05-20T17:48:45.864841", 
-            "metadata_modified": "2017-06-08T14:47:16.482703", 
+            "metadata_modified": "2017-07-06T15:39:18.074123", 
             "organization_description": "", 
             "relationships_as_object": [], 
             "relationships_as_subject": [], 
@@ -1890,6 +1525,14 @@
                     "name": "May 2017", 
                     "state": "active", 
                     "url": "http://data.ottawa.ca/dataset/49fd83fc-2a14-4244-8653-301ea904b765/resource/9eb1c02e-bb2d-4d36-980b-97d0b5c9d271/download/construction-demolition-pool-enclosure-permits-may-2017.xlsx"
+                }, 
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "June 2017", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/49fd83fc-2a14-4244-8653-301ea904b765/resource/cc8c5a62-cca4-4c1c-925e-d07cf970231e/download/construction-demolition-pool-enclosure-permits-jun-2017.xlsx"
                 }
             ], 
             "revision_id": "7d114c24-bd75-4e99-9fad-0e854c63d785", 
@@ -1897,6 +1540,732 @@
             "title": {
                 "en": "Construction demolition pool enclosure permits monthly", 
                 "fr": "Permis de construction, de d\u00e9molition et de cl\u00f4ture de piscine d\u00e9livr\u00e9s chaque mois"
+            }
+        }, 
+        {
+            "author": "Kyla Weir", 
+            "license_title": "Open Data License 2.0", 
+            "metadata_created": "2015-05-20T17:49:04.638706", 
+            "metadata_modified": "2017-07-04T12:43:33.429024", 
+            "organization_description": "", 
+            "relationships_as_object": [], 
+            "relationships_as_subject": [], 
+            "resources": [
+                {
+                    "format": "XLS", 
+                    "hash": "md5:a3e0f325d2fa2484ab1b8f8d06d9bd80", 
+                    "last_modified": "2013-07-23T13:04:16", 
+                    "name": "January2013", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/c051cbfd-8bd8-4bb4-ab2b-60813eccfd06/download/january2013.xls"
+                }, 
+                {
+                    "format": "XLS", 
+                    "hash": "md5:f39afa4631f070cab39023f9f433aaf6", 
+                    "last_modified": "2013-07-23T13:02:18", 
+                    "name": "February2013", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/a30ad23d-3502-4fb7-9dad-62ba6330b288/download/february2013.xls"
+                }, 
+                {
+                    "format": "XLSX", 
+                    "hash": "md5:9440a6b7c0c345874331f623c58a632a", 
+                    "last_modified": "2013-07-23T13:02:40", 
+                    "name": "March2013", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/e7ae635b-6d01-4c98-abc2-7017b38ed16b/download/march2013.xlsx"
+                }, 
+                {
+                    "format": "XLSX", 
+                    "hash": "md5:933ead82f7ef0e0ad78135986ede595c", 
+                    "last_modified": "2013-07-23T13:03:00", 
+                    "name": "April2013", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/9e56d13f-2de9-4d3e-a241-68de77ea349d/download/april2013.xlsx"
+                }, 
+                {
+                    "format": "XLSX", 
+                    "hash": "md5:ac919a993f432eed2e186d89c83bc92a", 
+                    "last_modified": "2013-07-23T13:03:24", 
+                    "name": "May2013", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/37e8ca77-7370-4716-a92d-ec32bd1b999c/download/may2013.xlsx"
+                }, 
+                {
+                    "format": "XLS", 
+                    "hash": "md5:e3f59868dcc1e58ecd8ae7f788944648", 
+                    "last_modified": "2013-09-09T11:57:01", 
+                    "name": "June2013", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/95368439-f2ac-4e73-bda2-4dc653afd2c8/download/june2013.xls"
+                }, 
+                {
+                    "format": "XLS", 
+                    "hash": "md5:6c10fc8075566f6b8291c2af8b9ea5cf", 
+                    "last_modified": "2013-09-09T11:59:00", 
+                    "name": "July2013", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/8011072b-882d-4dfc-8cea-033900a206b7/download/july2013.xls"
+                }, 
+                {
+                    "format": "XLS", 
+                    "hash": "md5:d25e0b0c197a633eb1d02ce7d7b56d44", 
+                    "last_modified": "2013-09-09T12:04:54", 
+                    "name": "August2013", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/4b9ade88-3248-4365-9b77-98be48dce79c/download/august2013.xlsx"
+                }, 
+                {
+                    "format": "XLS", 
+                    "hash": "md5:407ce2ef50b4ba384d89a25913b9ce85", 
+                    "last_modified": "2013-10-02T10:33:57", 
+                    "name": "Sept2013", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/b4f522ca-3992-40fd-861e-84a8247ff33d/download/sept2013.xls"
+                }, 
+                {
+                    "format": "XLS", 
+                    "hash": "md5:d1082fda65cd96987f84a51c1294c729", 
+                    "last_modified": "2013-11-26T09:40:09", 
+                    "name": "Oct2013", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/96f75225-7a97-4985-934d-cc17ae376a97/download/oct2013.xls"
+                }, 
+                {
+                    "format": "XLS", 
+                    "hash": "md5:26ab152dd9bc17e63dc9b1657fe5f49d", 
+                    "last_modified": "2013-12-16T12:23:34", 
+                    "name": "Nov2013", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/81258240-1a83-4da1-a123-dffaa1942d12/download/nov2013.xls"
+                }, 
+                {
+                    "format": "XLS", 
+                    "hash": "md5:56d5e3df635e9ece7206313c0f81cbda", 
+                    "last_modified": "2014-01-21T09:25:51", 
+                    "name": "December2013", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/07d96a9a-5241-440e-ae93-db72b6ca6dbc/download/dec2013.xls"
+                }, 
+                {
+                    "format": "XLS", 
+                    "hash": "md5:0b9ea458ad7307ae39de04e288ca215a", 
+                    "last_modified": "2014-03-04T10:09:48", 
+                    "name": "Jan2014", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/1f77e0bc-5b56-48e6-abfc-d269313cbe81/download/jan2014.xls"
+                }, 
+                {
+                    "format": "XLS", 
+                    "hash": "md5:4bd184dd86436af7afeef4b53e230c45", 
+                    "last_modified": "2014-03-11T14:10:18", 
+                    "name": "Feb2014", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/ac65fb43-f2e0-4b26-a2cd-53164c266d85/download/feb2014.xls"
+                }, 
+                {
+                    "format": "XLS", 
+                    "hash": "md5:060e5ae7fd58d361adf39751d73e9f27", 
+                    "last_modified": "2014-04-11T14:31:21", 
+                    "name": "Mar2014", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/17e8b94f-88ef-4a9c-a8a4-36e338d12934/download/mar2014.xlsx"
+                }, 
+                {
+                    "format": "XLSX", 
+                    "hash": "md5:d55f3010c99f954f1d98390cb46486f8", 
+                    "last_modified": "2014-06-10T10:33:46", 
+                    "name": "April2014", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/43176f97-2b5d-4b55-b2e9-00d872e93cc0/download/apr2014.xlsx"
+                }, 
+                {
+                    "format": "XLSX", 
+                    "hash": "md5:530086856b6f3976a71bbe278c62bae5", 
+                    "last_modified": "2014-06-10T10:34:46", 
+                    "name": "May2014", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/6a75e4ba-5931-4746-b99e-e171994b8afb/download/may2014.xlsx"
+                }, 
+                {
+                    "format": "XLS", 
+                    "hash": "md5:325fca9963881aef76c5be377f57805c", 
+                    "last_modified": "2014-07-11T11:39:40", 
+                    "name": "June2014", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/a74c2a42-19fd-4bfd-a658-80a6d2dff1df/download/june2014.xls"
+                }, 
+                {
+                    "format": "XLSX", 
+                    "hash": "md5:8e4bc1071345253fe02bbde862f81944", 
+                    "last_modified": "2014-08-29T10:13:17", 
+                    "name": "July 2014", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/1a3536c4-eb73-4751-9f25-7d43502e3425/download/july2014.xlsx"
+                }, 
+                {
+                    "format": "XLSX", 
+                    "hash": "md5:3a88250853b26cd7126c827395976aa3", 
+                    "last_modified": "2014-09-16T10:45:58", 
+                    "name": "August 2014", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/88a67991-d1db-4de2-8b23-722b8b5c95d1/download/aug2014.xlsx"
+                }, 
+                {
+                    "format": "XLSX", 
+                    "hash": "md5:ad57c8d2fcf3e93b9e9afe5e73d655da", 
+                    "last_modified": "2014-10-10T10:32:15", 
+                    "name": "September 2014", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/2af58524-61a2-47d2-bdbd-bc366911c01e/download/sep2014.xlsx"
+                }, 
+                {
+                    "format": "XLS", 
+                    "hash": "md5:7eaf4647e7de6076544541545113f58c", 
+                    "last_modified": "2014-11-05T11:28:27", 
+                    "name": "October 2014", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/c81533b3-6aa2-45fa-b56c-43f44a5ef8e4/download/oct2014.xlsx"
+                }, 
+                {
+                    "format": "XLS", 
+                    "hash": "md5:0c815d2df8f7354558f29205c11d4cc6", 
+                    "last_modified": "2014-12-17T14:56:49", 
+                    "name": "November 2014", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/d76f647b-3e21-4ed3-a573-d4b20f6a24d0/download/nov2014.xlsx"
+                }, 
+                {
+                    "format": "XLS", 
+                    "hash": "md5:c9a01a6f3f7c93982d106908d48ec916", 
+                    "last_modified": "2015-01-09T10:45:20", 
+                    "name": "December 2014", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/92c58f1b-597a-4474-86b1-09a16a411ab4/download/dec2014.xlsx"
+                }, 
+                {
+                    "format": "XLS", 
+                    "hash": "md5:88fcee563b9d136d5aaa0683ae69f149", 
+                    "last_modified": "2015-02-23T10:24:05", 
+                    "name": "January2015", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/40408394-f45e-4330-942d-952fe94dd62e/download/jan2015.xlsx"
+                }, 
+                {
+                    "format": "XLSX", 
+                    "hash": "md5:e2c48be511a11eaeb852b926e68747fb", 
+                    "last_modified": "2015-03-23T12:26:06", 
+                    "name": "February 2015", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/b09500fc-2632-4d56-81a0-c42ab1a9c356/download/feb2015.xlsx"
+                }, 
+                {
+                    "format": "XLSX", 
+                    "hash": "md5:594efbd0c90f2fae725dc5cf676919c3", 
+                    "last_modified": "2015-04-09T09:38:38", 
+                    "name": "March 2015", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/0f05e285-02b4-4101-95b2-a7eb615e815e/download/mar2015.xlsx"
+                }, 
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "April 2015", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/4e2936bc-6ffb-4b47-8b3b-b64f5dfb1a93/download/apr2015.xlsx"
+                }, 
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "May 2015", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/7c333adf-b220-473d-a71e-c18fc88e762d/download/may2015.xlsx"
+                }, 
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "June 2015", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/56d92962-c293-4e6e-9ff8-49e5f07566c9/download/june2015.xlsx"
+                }, 
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "July 2015", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/eaa0768b-f7b0-482c-9911-984a615741f6/download/july2015.xlsx"
+                }, 
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "August 2015", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/55a0fd11-8ef2-46b4-8de7-c0c660b88a59/download/august2015.xlsx"
+                }, 
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "November2015xlsx", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/4d9e63fa-d847-45f6-9481-83f3123bb297/download/cusersweirkydesktopqa-reportsapplicationsopen-datanovember2015xlsx.xlsx"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "November2015csv", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/b28e3765-703b-4b30-a62d-2172e1615bdd/download/cusersweirkydesktopqa-reportsapplicationsopen-datanovember2015csv.csv"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "September 2015", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/95cf4eb1-f197-4bb5-9a64-9a239127916c/download/cusersweirkydesktopqa-reportsapplicationsopen-dataseptember2015csv.csv"
+                }, 
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "September 2015", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/be0e0653-02c5-4cbe-a18c-a3dab0294172/download/cusersweirkydesktopqa-reportsapplicationsopen-dataseptember2015xlsx.xlsx"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "December2015csv", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/023ab8d3-c6ab-4f6b-bbe5-ddc98a7bfe6f/download/cusersweirkydesktopqa-reportsapplicationsopen-datadecember2015csv.csv"
+                }, 
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "December2015xlsx", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/9d01971c-d873-4c72-b10a-4e7985d299d0/download/cusersweirkydesktopqa-reportsapplicationsopen-datadecember2015xlsl.xlsx"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "2015 csv", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/289066b3-8484-4635-9943-24f3f4329597/download/cusersweirkydesktopqa-reportsapplicationsopen-data2015-csv.csv"
+                }, 
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "2015 xlsx", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/96d8d4ed-5ef8-45ba-8165-f7a4610f2b68/download/cusersweirkydesktopqa-reportsapplicationsopen-datagoogle-analytics20142014csv.csv"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "October 2015csv", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/5e650bf9-ea66-4fcd-baf7-aca0ec78fe16/download/cusersweirkydesktopqa-reportsapplicationsopen-dataoctober2015csv.csv"
+                }, 
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "October2015xlsx", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/8e161dfd-d0c3-4e2d-ae51-f31fe37dadc4/download/cusersweirkydesktopqa-reportsapplicationsopen-dataoctober2015xlsx.xlsx"
+                }, 
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "2014", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/fedf3418-e3a7-48f9-8123-f0c4f1bfb2be/download/cusersweirkydesktopqa-reportsapplicationsopen-datagoogle-analytics20142014xlsx.xlsx"
+                }, 
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "January 2016", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/c81de083-bbb4-4efa-b4f9-e143290e5a36/download/cusersweirkydesktopqa-reportsapplicationsopen-datagoogle-analytics2016january2016xlsx.xlsx"
+                }, 
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "February 2016", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/612961b7-e759-44a8-944d-521baf29c22b/download/cusersweirkydesktopqa-reportsapplicationsopen-datagoogle-analytics2016february-2016.xlsx"
+                }, 
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "March 2016", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/d4a5944b-091b-414b-99f8-f964573d377f/download/cusersweirkydesktopqa-reportsapplicationsopen-datagoogle-analytics2016march-2016.xlsx"
+                }, 
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "April 2016", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/1ea47982-ed98-4a2c-b96a-976ed53e261b/download/cusersweirkydesktopqa-reportsapplicationsopen-datagoogle-analytics2016april-2016.xlsx"
+                }, 
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "May 2016", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/308e515d-2803-4af6-9c05-c4452b209914/download/cusersweirkydesktopqa-reportsapplicationsopen-datagoogle-analytics2016may-2016.xlsx"
+                }, 
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "June2016", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/7b8e4998-ca22-4d2f-9354-7226e749c086/download/cusersweirkydesktopdataopen-datagoogle-analytics2016june-2016.xlsx"
+                }, 
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "July 2016", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/0f372b79-7af2-44cd-bbfe-d188d4ea137b/download/cusersweirkydesktopdataopen-datagoogle-analytics2016july-2016.xlsx"
+                }, 
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "August 2016", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/624074f1-386f-428e-b302-827fc6bd44fa/download/cusersweirkydesktopdataopen-datagoogle-analytics2016august-2016.xlsx"
+                }, 
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "September 2016", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/a03c784a-ad09-412e-b404-6e2a6da5e921/download/cusersweirkydesktopdataopen-datagoogle-analytics2016september-2016.xlsx"
+                }, 
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "October 2016", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/e591a53f-4af8-4dfb-8a5d-196a0f14c64a/download/cusersweirkydesktopdataopen-datagoogle-analytics2016october-2016.xlsx"
+                }, 
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "November 2016", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/f9a376d1-6c6c-4458-9f8f-4c3f0d9c9626/download/cusersweirkydesktopdataopen-datagoogle-analytics2016november-2016.xlsx"
+                }, 
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "December 2016", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/75113d62-13e3-4210-bd78-25bbd25e7186/download/cusersweirkydesktopdataopen-datagoogle-analytics2016december-2016.xlsx"
+                }, 
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "December 2016", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/be17a29e-800e-4c10-8659-b81e9d2d9f1a/download/cusersweirkydesktopdataopen-datagoogle-analytics2016december-2016.xlsx"
+                }, 
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "December 2016", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/c4875179-ecbb-46c1-8197-0acbb93ed267/download/cusersweirkydesktopdataopen-datagoogle-analytics2016december-2016.xlsx"
+                }, 
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "January 2017", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/1e82abd1-1baf-4ec7-8b43-581295b6e108/download/cusersweirkydesktopdataopen-datagoogle-analytics2017january-2017.xlsx"
+                }, 
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "February 2017", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/43438c66-7407-4995-98ff-07561e1ff3f2/download/cusersweirkydesktopdataopen-datagoogle-analytics2017february.xlsx"
+                }, 
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "March 2017", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/32af4efd-6fcb-41a6-b6d4-72b6d9d593d3/download/march-2017.xlsx"
+                }, 
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "April 2017", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/e80f1df8-95e3-49c4-aa6d-7d6d638aa362/download/cusersweirkydesktopdataopen-datagoogle-analytics2017april-2017.xlsx"
+                }, 
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "May 2017", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/0801217e-f991-44d9-af62-745186980850/download/cusersweirkydesktopdataopen-datagoogle-analytics2017may-2017.xlsx"
+                }, 
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "June 2017", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/5f5731a8-6e27-4158-ab1a-c8016ddb21ee/resource/1d7b1a70-3dac-401f-83d6-c9ea5634f975/download/cusersweirkydesktopdataopen-datagoogle-analytics2017june-2017.xlsx"
+                }
+            ], 
+            "revision_id": "f28c7e31-b86d-4607-80af-2e8d27654a0d", 
+            "tags": [], 
+            "title": {
+                "en": "Ottawa.ca Web Visitation \u2013 Monthly", 
+                "fr": "Visites du site Web Ottawa.ca \u2013 Mensuellement"
+            }
+        }, 
+        {
+            "author": "Kyla Weir", 
+            "license_title": "", 
+            "metadata_created": "2017-02-01T13:43:13.715418", 
+            "metadata_modified": "2017-07-04T12:09:37.891709", 
+            "organization_description": "", 
+            "relationships_as_object": [], 
+            "relationships_as_subject": [], 
+            "resources": [
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "January 2017", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/5c4dc991-aa30-436e-9942-52a8058a7c0f/resource/e98e63f4-fe6e-49bf-a75d-9d7352596e68/download/cusersweirkydesktopdatalagan-bifull-months2017cbt-jan-2017-for-open-data.xlsx"
+                }, 
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "February 2017", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/5c4dc991-aa30-436e-9942-52a8058a7c0f/resource/311caa87-319b-4246-8f83-273510e2e26f/download/cusersweirkydesktopdatalagan-bifull-months2017cbt-feb-2017-for-open-data.xlsx"
+                }, 
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "March 2017", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/5c4dc991-aa30-436e-9942-52a8058a7c0f/resource/9c45cfbc-4c72-4497-9d3b-0a9436580ebd/download/cbt-mar-2017-open-data.xlsx"
+                }, 
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "April 2017", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/5c4dc991-aa30-436e-9942-52a8058a7c0f/resource/9f797193-2ada-4c83-b045-6fa1ed765ecd/download/cusersweirkydesktopdatalagan-bifull-months2017cbt-apr-2017-fro-open-data.xlsx"
+                }, 
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "May 2017", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/5c4dc991-aa30-436e-9942-52a8058a7c0f/resource/e8a51364-24d8-4de6-bbb0-2852564b0a5b/download/cusersweirkydesktopdatalagan-bifull-months2017cbt-may-2017-open-data.xlsx"
+                }, 
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "June 2017", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/5c4dc991-aa30-436e-9942-52a8058a7c0f/resource/b1eee768-53ea-471b-9305-c3f0d96fbd94/download/cbt-jun-2017-open-data.xlsx"
+                }
+            ], 
+            "revision_id": "bd01056e-5e63-43da-96c3-9161e5e64719", 
+            "tags": [], 
+            "title": {
+                "en": "2017 Monthly Service Requests", 
+                "fr": "2017 \u2013 Demandes de service par mois"
+            }
+        }, 
+        {
+            "author": "Ryan Furuness", 
+            "license_title": "Open Data License 2.0", 
+            "metadata_created": "2015-05-20T17:50:20.646398", 
+            "metadata_modified": "2017-06-24T14:59:30.281952", 
+            "organization_description": "", 
+            "relationships_as_object": [], 
+            "relationships_as_subject": [], 
+            "resources": [
+                {
+                    "format": "XLS", 
+                    "hash": "md5:10bb763a0807d9186d21c18d1a2b06de", 
+                    "last_modified": "2014-08-17T09:23:01", 
+                    "name": "Beach sampling results 2017.xls", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/f0d680ed-09d7-4e51-bdb0-00e95648ff9d/resource/ab85fe8e-98c4-4388-9dc3-2839890f637d/download/shealthhealth-protection-divisionenvironmental-healthbeaches2017-beachesbeach-data-excel-sheets.xlsx"
+                }
+            ], 
+            "revision_id": "594e0a38-f62f-48d0-aa4c-4598b4a17e60", 
+            "tags": [], 
+            "title": {
+                "en": "Beach water sampling data", 
+                "fr": "Donn\u00e9es d\u2019\u00e9chantillonnage de l\u2019eau des plages"
+            }
+        }, 
+        {
+            "author": "Justin Hoppner", 
+            "license_title": "Open Data License 2.0", 
+            "metadata_created": "2016-12-01T15:21:10.810225", 
+            "metadata_modified": "2017-06-16T19:35:39.328160", 
+            "organization_description": "", 
+            "relationships_as_object": [], 
+            "relationships_as_subject": [], 
+            "resources": [
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Biosolids Quality_qualit\u00e9 des biosolides - 05/24/2017", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/2886ebb9-a58b-447d-b57a-7676c3cd3302/resource/5b6d212e-f8cb-4498-80f1-9c95714a75d2/download/biosolids-qualityqualite-des-biosolides05242017.xlsx"
+                }
+            ], 
+            "revision_id": "979b1d7e-9042-4ea6-808f-ced88a803159", 
+            "tags": [], 
+            "title": {
+                "en": "Biosolids quality", 
+                "fr": "La qualit\u00e9 des biosolides"
+            }
+        }, 
+        {
+            "author": "GIS Team", 
+            "license_title": "Open Data License 2.0", 
+            "metadata_created": "2015-08-20T19:52:17.291285", 
+            "metadata_modified": "2017-06-14T11:46:52.987074", 
+            "organization_description": "", 
+            "relationships_as_object": [], 
+            "relationships_as_subject": [], 
+            "resources": [
+                {
+                    "format": "dwg", 
+                    "hash": "", 
+                    "last_modified": "2017-03-01T00:08:19.590788", 
+                    "name": "Road Segments", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/82391b5b-974c-473e-87bd-4c5e24de9deb/resource/a5e55f72-84c6-4c5e-b4ca-c7472e66c8cd/download/road-segments.dwg"
+                }, 
+                {
+                    "format": "KMZ", 
+                    "hash": "", 
+                    "last_modified": "2017-03-01T00:08:25.046773", 
+                    "name": "Road Segments", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/82391b5b-974c-473e-87bd-4c5e24de9deb/resource/bd87734f-96c2-49d8-ba86-bf144a6aed0a/download/road-segments.kmz"
+                }, 
+                {
+                    "format": "SHP", 
+                    "hash": "", 
+                    "last_modified": "2017-06-14T07:23:59.286115", 
+                    "name": "Road Segments", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/82391b5b-974c-473e-87bd-4c5e24de9deb/resource/f72339eb-769f-48ec-a18a-9965a879527e/download/road-segments.shp.zip"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "", 
+                    "last_modified": "2017-06-14T07:24:17.059501", 
+                    "name": "Road Segments", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/82391b5b-974c-473e-87bd-4c5e24de9deb/resource/c8848dc6-6269-4c68-8dcf-b91c34543674/download/road-segments.csv"
+                }
+            ], 
+            "revision_id": "97fb8dfe-44d5-4634-a70b-c7f4a83ea06a", 
+            "tags": [
+                {
+                    "tag_id": "c207ac52-3105-405e-ae72-f92ce375a7f4", 
+                    "tag_name": "Road"
+                }, 
+                {
+                    "tag_id": "f6a8bd9d-47c4-49ae-9368-4255f42c420a", 
+                    "tag_name": "Roadway"
+                }, 
+                {
+                    "tag_id": "d148bb3b-8230-48f8-a5c3-c8e6cd99abf4", 
+                    "tag_name": "Route"
+                }, 
+                {
+                    "tag_id": "1fb6959e-5f4a-4cc2-8fff-9d69fc88385b", 
+                    "tag_name": "Street"
+                }, 
+                {
+                    "tag_id": "d104568b-1dc9-450d-960b-8a2bde2bf0c1", 
+                    "tag_name": "Streets"
+                }, 
+                {
+                    "tag_id": "fb63ee5b-4a75-4ca6-8b0f-35ac93fb81d3", 
+                    "tag_name": "chemin"
+                }, 
+                {
+                    "tag_id": "35c55899-2fbf-4697-a98f-f757ea056e3d", 
+                    "tag_name": "chemins"
+                }, 
+                {
+                    "tag_id": "01a9ad7a-8b04-44f2-bd99-08e7fa1e8e71", 
+                    "tag_name": "routes"
+                }, 
+                {
+                    "tag_id": "5a651e9e-0ee5-4757-8ba8-caeef3fb0c0b", 
+                    "tag_name": "rue"
+                }, 
+                {
+                    "tag_id": "95c17264-e2d0-4883-848e-8553756d33a3", 
+                    "tag_name": "rues"
+                }
+            ], 
+            "title": {
+                "en": "Roads", 
+                "fr": "Routes"
             }
         }, 
         {
@@ -2304,327 +2673,6 @@
             "title": {
                 "en": "Library Search Terms", 
                 "fr": "Crit\u00e8res de recherche - Biblioth\u00e8que"
-            }
-        }, 
-        {
-            "author": "Audrey Laidlaw", 
-            "license_title": "Open Data License 2.0", 
-            "metadata_created": "2015-05-20T17:49:16.355501", 
-            "metadata_modified": "2017-03-16T17:35:02.271481", 
-            "organization_description": "", 
-            "relationships_as_object": [], 
-            "relationships_as_subject": [], 
-            "resources": [
-                {
-                    "format": "TXT", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Course Availability", 
-                    "state": "active", 
-                    "url": "http://app06.ottawa.ca/online_services/opendata/classdata/available_courses.txt"
-                }, 
-                {
-                    "format": "CSV", 
-                    "hash": "md5:f4b4bc05a623164db506032695a5b416", 
-                    "last_modified": "2014-03-11T11:01:04", 
-                    "name": "Recreation Facility Listing", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/73cf58c2-1924-4c9d-bcaa-d6b303f53f41/resource/1b7f1270-6179-43ef-bda2-2f3eb233a4c6/download/facility-listing-march-2014.csv"
-                }, 
-                {
-                    "format": "csv, shp, xml, kml, dwg", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "City Facilities / Installations de la Ville", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/city-facilities"
-                }, 
-                {
-                    "format": "XLSX", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Winter 2016 - 50+", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/73cf58c2-1924-4c9d-bcaa-d6b303f53f41/resource/a73eb89d-d1cc-4cd8-a25f-2f82e048164f/download/winter-2016---50.xlsx"
-                }, 
-                {
-                    "format": "XLSX", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Winter 2016 - Adult", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/73cf58c2-1924-4c9d-bcaa-d6b303f53f41/resource/211e6173-66be-4aa8-b5b5-49b4ecc48dd2/download/winter-2016---adult.xlsx"
-                }, 
-                {
-                    "format": "XLSX", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Winter 2016 - Children", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/73cf58c2-1924-4c9d-bcaa-d6b303f53f41/resource/34289704-a82b-4c82-862a-a1472c96ed17/download/winter-2016---children.xlsx"
-                }, 
-                {
-                    "format": "XLSX", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Winter 2016 - Preschool", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/73cf58c2-1924-4c9d-bcaa-d6b303f53f41/resource/9d33ef5c-8ddd-4001-b37c-2e2c49713af0/download/winter-2016---preschool.xlsx"
-                }, 
-                {
-                    "format": "XLSX", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Winter 2016 - Youth", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/73cf58c2-1924-4c9d-bcaa-d6b303f53f41/resource/2fc41d80-51b2-4f4e-abd5-46236917b986/download/winter-2016---youth.xlsx"
-                }, 
-                {
-                    "format": "XLS", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Winter 2015 - 50+", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/73cf58c2-1924-4c9d-bcaa-d6b303f53f41/resource/50ab3aff-96bd-436c-b244-32948b830579/download/2015-50-winter.xls"
-                }, 
-                {
-                    "format": "XLSX", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Winter 2015 - Adult", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/73cf58c2-1924-4c9d-bcaa-d6b303f53f41/resource/106cf707-74e4-43ae-ac48-6b7edfb49d8a/download/2015-adult-winter.xls"
-                }, 
-                {
-                    "format": "XLS", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Winter 2015 - children", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/73cf58c2-1924-4c9d-bcaa-d6b303f53f41/resource/0dbdc2c2-6d5a-402a-874c-be5de14686ff/download/2015-children-winter.xls"
-                }, 
-                {
-                    "format": "XLS", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Winter 2015 - preschool", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/73cf58c2-1924-4c9d-bcaa-d6b303f53f41/resource/b2d70a65-e3ac-41c2-99d0-c28b1ee6be5b/download/2015-preschool-winter.xls"
-                }, 
-                {
-                    "format": "XLS", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Winter 2015 - youth", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/73cf58c2-1924-4c9d-bcaa-d6b303f53f41/resource/7413d460-353e-42b8-9d58-45c9ea27b1e4/download/2015-youth-winter.xls"
-                }, 
-                {
-                    "format": "XLSX", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Spring 2016 - 50+", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/73cf58c2-1924-4c9d-bcaa-d6b303f53f41/resource/f13bd240-a453-4cdf-8a8f-5a9276b3824a/download/spring201650.xlsx"
-                }, 
-                {
-                    "format": "XLSX", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Spring 2016 - Adult", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/73cf58c2-1924-4c9d-bcaa-d6b303f53f41/resource/fb1a510c-0a0a-410c-93cf-81c74aea6318/download/spring2016adult.xlsx"
-                }, 
-                {
-                    "format": "XLSX", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Spring 2016 - Children", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/73cf58c2-1924-4c9d-bcaa-d6b303f53f41/resource/815053b6-99e1-417e-a9e0-96197d32d36a/download/spring2016children.xlsx"
-                }, 
-                {
-                    "format": "XLSX", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Spring 2016 - Preschool", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/73cf58c2-1924-4c9d-bcaa-d6b303f53f41/resource/b5a08a47-bd9f-4049-8bab-63543347d87c/download/spring2016preschool.xlsx"
-                }, 
-                {
-                    "format": "XLSX", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Spring 2016 - Youth", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/73cf58c2-1924-4c9d-bcaa-d6b303f53f41/resource/b60582e6-fa01-40c0-b83a-4e05b8c8c9ff/download/spring2016youth.xlsx"
-                }, 
-                {
-                    "format": "XLSX", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Summer 2016 - 50+", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/73cf58c2-1924-4c9d-bcaa-d6b303f53f41/resource/30bc780f-11bc-48bb-b6ee-83eaa4089634/download/summer201650.xlsx"
-                }, 
-                {
-                    "format": "XLSX", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Summer 2016 - Adult", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/73cf58c2-1924-4c9d-bcaa-d6b303f53f41/resource/3915b51c-4e06-4ce2-ba9c-4590df1ef56b/download/summer2016adult.xlsx"
-                }, 
-                {
-                    "format": "XLSX", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Summer 2016 - Child", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/73cf58c2-1924-4c9d-bcaa-d6b303f53f41/resource/b43c3bf1-c35b-4fed-bbc9-e643a34a5a49/download/summer2016child.xlsx"
-                }, 
-                {
-                    "format": "XLSX", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Summer 2016 - Preschool", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/73cf58c2-1924-4c9d-bcaa-d6b303f53f41/resource/15b96ee4-1fdd-4190-8242-1694691bfd70/download/summer2016preschool.xlsx"
-                }, 
-                {
-                    "format": "XLSX", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Summer 2016 - Youth", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/73cf58c2-1924-4c9d-bcaa-d6b303f53f41/resource/e0518cd8-d0fc-4136-86a5-02357745e78d/download/summer2016youth.xlsx"
-                }, 
-                {
-                    "format": "XLSX", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Fall 2016 Winter 2017", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/73cf58c2-1924-4c9d-bcaa-d6b303f53f41/resource/b42c3875-6059-4b6b-ae16-e301b5d3fafa/download/recreationguidefall2016winter2017.xlsx"
-                }, 
-                {
-                    "format": "XLS", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "March Break 2017 Adult ", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/73cf58c2-1924-4c9d-bcaa-d6b303f53f41/resource/3328999b-c1a2-46c1-94b5-8608e46428b5/download/finalsmarch-break-2017-adult.xls"
-                }, 
-                {
-                    "format": "XLS", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "March Break 2017 Children", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/73cf58c2-1924-4c9d-bcaa-d6b303f53f41/resource/9680b7fe-ca6e-41b3-8e82-c4fdb822d544/download/finalsmarch-break-2017-children.xlsx"
-                }, 
-                {
-                    "format": "XLS", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "March Break 2017 Preschool", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/73cf58c2-1924-4c9d-bcaa-d6b303f53f41/resource/e466fe39-40c0-461f-9ab3-af8449641a60/download/finalsmarch-break-2017-preschool.xlsx"
-                }, 
-                {
-                    "format": "XLS", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "March Break 2017 Youth", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/73cf58c2-1924-4c9d-bcaa-d6b303f53f41/resource/cf145974-4b06-4296-bec8-2d3692ef0578/download/finalsmarch-break-2017-youth.xls"
-                }, 
-                {
-                    "format": "XLS", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Spring 2017 - 50+", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/73cf58c2-1924-4c9d-bcaa-d6b303f53f41/resource/6ea4c1d1-283f-46e0-aa65-40778dd23680/download/2017-spring-adult-50.xls"
-                }, 
-                {
-                    "format": "XLS", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Spring 2017 - Adult", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/73cf58c2-1924-4c9d-bcaa-d6b303f53f41/resource/15b6ee5c-8588-462e-bf5f-9345dbb505e1/download/2017-spring-adult.xls"
-                }, 
-                {
-                    "format": "XLS", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Spring 2017 - Children", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/73cf58c2-1924-4c9d-bcaa-d6b303f53f41/resource/13c171af-d27b-4a1c-9d3d-94cf56b4958a/download/2017-spring-children.xls"
-                }, 
-                {
-                    "format": "XLS", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Spring 2017 - Preschool", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/73cf58c2-1924-4c9d-bcaa-d6b303f53f41/resource/ec80ba46-c991-4a58-b1c1-ccfa5c16611b/download/2017-spring-preschool.xls"
-                }, 
-                {
-                    "format": "XLS", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Spring 2017 - Youth", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/73cf58c2-1924-4c9d-bcaa-d6b303f53f41/resource/31831680-026e-48a1-93c7-2ffdb96dfe60/download/2017-spring-youth.xls"
-                }, 
-                {
-                    "format": "XLS", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Summer 2017 - 50+", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/73cf58c2-1924-4c9d-bcaa-d6b303f53f41/resource/907e29d6-4bfc-4313-9950-9f1dfbbcb1c6/download/2017-summer-adult-50.xls"
-                }, 
-                {
-                    "format": "XLS", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Summer 2017 - Adult", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/73cf58c2-1924-4c9d-bcaa-d6b303f53f41/resource/b47ccca1-a83e-45b9-a787-5e1936841101/download/2017-summer-adult.xls"
-                }, 
-                {
-                    "format": "XLS", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Summer 2017 - Children", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/73cf58c2-1924-4c9d-bcaa-d6b303f53f41/resource/d32f7bd0-2676-4f9d-b942-7713c2b21002/download/2017-summer-children.xls"
-                }, 
-                {
-                    "format": "XLS", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Summer 2017 - Preschool", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/73cf58c2-1924-4c9d-bcaa-d6b303f53f41/resource/36817c33-61c5-46ce-9bee-d059379bbfec/download/2017-summer-preschool.xls"
-                }, 
-                {
-                    "format": "XLS", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Summer 2017 - Youth", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/73cf58c2-1924-4c9d-bcaa-d6b303f53f41/resource/277d95bc-d344-428a-8e85-c4404a849d15/download/2017-summer-youth.xls"
-                }
-            ], 
-            "revision_id": "e9cda065-9baa-4060-909a-bf9394088a41", 
-            "tags": [], 
-            "title": {
-                "en": "Recreation Guides", 
-                "fr": "Guides des loisirs"
             }
         }, 
         {
