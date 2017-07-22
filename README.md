@@ -16,7 +16,8 @@ pip install termcolor
 
 ### Ejecución:
 Para ejecutar la aplicación para el consumo de datasets.
- **En el directorio raíz correr el archivo main.py.**
+
+**En el directorio raíz correr el archivo main.py.**
 ```
 python main.py
 ```
