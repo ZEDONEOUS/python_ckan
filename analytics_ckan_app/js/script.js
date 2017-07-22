@@ -1,7 +1,7 @@
 $(document).ready(function(){
+  $.material.init();
+  $.get('http://localhost:5000/names', function(data){
 
-  $.get('http://localhost:5000/data_gov_uk', function(data){
-    console.log(data);
   });
 
 });
