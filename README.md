@@ -15,8 +15,8 @@ pip install termcolor
 ```
 
 ### Ejecución:
-Para ejecutar la aplicación para el consumo de datasets
-**En el directorio raíz correr el archivo main.py.**
+Para ejecutar la aplicación para el consumo de datasets.
+ **En el directorio raíz correr el archivo main.py.**
 ```
 python main.py
 ```
@@ -37,7 +37,8 @@ pip install flask-cors
 ```
 
 ### Ejecución:
-Para la ejecución del servicio rest para el consumo local de datasets
+Para la ejecución del servicio rest para el consumo local de datasets.
+
 **En el directorio flask_data_server correr el archivo app.py.**
 ```
 python app.py
