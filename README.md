@@ -4,7 +4,7 @@ Aplicación desarrollada en python para la obtención de datasets libres bajo el
 ## Aplicación de consumo de datos
 ### Librerías necesarias para ejecutar la obtención de datos:
 1. json (Libreria para la manipulación de archivos json)
-2. time (libreria para mediciones de tiempo de ejecución del programa)
+2. time (Libreria para mediciones de tiempo de ejecución del programa)
 3. ckanapi (Api de ckan para el consumo de datasets)
 ```
 pip install ckanapi
@@ -36,7 +36,7 @@ pip install flask-restful
 pip install flask-cors
 ```
 
-### Ejecición:
+### Ejecución:
 Para la ejecución del servicio rest para el consumo local de datasets
 ...* En el directorio flask_data_server correr el archivo app.py
 ```
