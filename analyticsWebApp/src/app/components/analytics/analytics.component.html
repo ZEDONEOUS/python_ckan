@@ -1,0 +1,62 @@
+<div class="container-fluid">
+  <div class="row">
+
+    <div class="col-md-4">
+      <div class="panel panel-primary">
+        <div class="panel-heading">
+          <h3 class="panel-title">Entrada de datos</h3>
+        </div>
+        <div class="panel-body">
+          <form class="" action="index.html" method="post">
+            <legend>
+              Selección de instancia y opciones
+            </legend>
+            <fieldset>
+            <div class="form-group">
+              <label>Instancia</label>
+              <select class="form-control" [(ngModel)]="instance_selected" name="instances">
+                <option value="" disabled selected>Selecciona una instancia</option>
+                <option *ngFor="let option of names_options"  [value]="option">
+                  &nbsp;- {{option}}
+                </option>
+              </select>
+            </div>
+            <div class="form-group">
+              <button type="button" class="btn btn-raised btn-sm btn-primary" (click)="loadMetadata()" name="button">Cargar metadata</button>
+              <img style="display:inline-block;width: 29px;margin-left: 15px;" *ngIf="loading_flag" src="/assets/img/loading.gif" alt="">
+            </div>
+            <hr>
+            <div style="background:#FAFAFA; padding:10px;" *ngIf="options_flag">
+              <div class="form-group">
+                <h4>Seleccione de entre las siguientes opciones</h4>
+              </div>
+              <div class="form-group">
+                <label class="radio-inline" style="display:block;">
+                  <input type="radio" [(ngModel)]="radio_option_sel" name="opciones" value="organization_description">
+                  Descripcion de la organizacion
+                </label>
+                <label class="radio-inline">
+                  <input type="radio" [(ngModel)]="radio_option_sel" name="opciones" value="author">
+                  Autores
+                </label>
+                <label class="radio-inline">
+                  <input type="radio" [(ngModel)]="radio_option_sel" name="opciones" value="license_title">
+                  Licencias
+                </label>
+              </div>
+              <div class="form-group">
+                <button type="button" class="btn btn-raised btn-warning" (click)="actionProcess()">Enviar</button>
+              </div>
+            </div>
+          </fieldset>
+          </form>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-8" *ngIf="graph_data">
+      <nvd3 [options]="graph_options" [data]="graph_data"></nvd3>
+    </div>
+
+
+  </div>
+</div>

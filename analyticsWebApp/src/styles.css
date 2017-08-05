@@ -1,0 +1,18 @@
+/* You can add global styles to this file, and also import other style files */
+.form-group{
+  margin-top:0;
+}
+
+.form-group input[type="radio"]{
+  opacity: 1 !important;
+  height: auto !important;
+  width: auto !important;
+  position: absolute;
+  top:0;
+}
+
+.radio-inline{
+  color: #333 !important;
+  margin:5px 0 !important;
+  display: block !important;
+}
