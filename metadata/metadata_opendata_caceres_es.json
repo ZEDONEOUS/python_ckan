@@ -3,8 +3,343 @@
         {
             "author": "SIG de C\u00e1ceres", 
             "license_title": "Creative Commons Attribution", 
+            "metadata_created": "2016-04-21T07:16:25.710154", 
+            "metadata_modified": "2017-07-21T10:15:04.065762", 
+            "organization_description": "", 
+            "relationships_as_object": [], 
+            "relationships_as_subject": [], 
+            "resources": [
+                {
+                    "format": "api/sparql", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Punto SPARQL de consulta de datos", 
+                    "state": "active", 
+                    "url": "http://opendata.caceres.es/sparql/"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Alojamientos_C\u00e1ceres_csv.csv", 
+                    "state": "active", 
+                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=schema:LodgingBusiness&format=csv"
+                }, 
+                {
+                    "format": "XLS", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Alojamientos_C\u00e1ceres_Excel.xls", 
+                    "state": "active", 
+                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=schema:LodgingBusiness&format=xls"
+                }, 
+                {
+                    "format": "JSON", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Alojamientos_C\u00e1ceres_JSON.json", 
+                    "state": "active", 
+                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=schema:LodgingBusiness&format=json"
+                }, 
+                {
+                    "format": "GeoJSON", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Alojamientos_C\u00e1ceres_GeoJSON.geojson", 
+                    "state": "active", 
+                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=schema:LodgingBusiness&format=geojson&geojson=Point"
+                }, 
+                {
+                    "format": "RDF", 
+                    "hash": "", 
+                    "last_modified": "2017-07-21T10:15:04.039086", 
+                    "name": "Alojamientos_C\u00e1ceres_Tripletas.ttl", 
+                    "state": "active", 
+                    "url": "http://opendata.caceres.es/dataset/7be6f696-2c25-4b4d-8ce9-e3a7520177f8/resource/e56a568c-1436-4aab-85d8-4fee1ef2fdec/download/alojamientos.ttl"
+                }
+            ], 
+            "revision_id": "cd4ec0d6-13a4-4828-a02a-73c7347f7b2d", 
+            "tags": [
+                {
+                    "tag_id": "41ad6e34-8c2c-4918-816a-bc8e15165f4d", 
+                    "tag_name": "turismo"
+                }
+            ], 
+            "title": "Alojamientos C\u00e1ceres"
+        }, 
+        {
+            "author": "SIG de C\u00e1ceres", 
+            "license_title": "Creative Commons Attribution", 
+            "metadata_created": "2016-04-21T07:19:44.988850", 
+            "metadata_modified": "2017-07-21T10:04:38.690085", 
+            "organization_description": "", 
+            "relationships_as_object": [], 
+            "relationships_as_subject": [], 
+            "resources": [
+                {
+                    "format": "api/sparql", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Punto SPARQL de consulta de datos", 
+                    "state": "active", 
+                    "url": "http://opendata.caceres.es/sparql/"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Restaurantes_Ca\u0301ceres_csv.csv", 
+                    "state": "active", 
+                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:Restaurante&format=csv"
+                }, 
+                {
+                    "format": "XLS", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Restaurantes_Ca\u0301ceres_Excel.xls", 
+                    "state": "active", 
+                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:Restaurante&format=xls"
+                }, 
+                {
+                    "format": "JSON", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Restaurantes_Ca\u0301ceres_JSON.json", 
+                    "state": "active", 
+                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:Restaurante&format=json"
+                }, 
+                {
+                    "format": "GeoJSON", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Restaurantes_Ca\u0301ceres_GeoJSON.geojson", 
+                    "state": "active", 
+                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:Restaurante&format=geojson&geojson=Point"
+                }, 
+                {
+                    "format": "RDF", 
+                    "hash": "", 
+                    "last_modified": "2017-07-21T10:04:38.668984", 
+                    "name": "Restaurantes_Ca\u0301ceres_Tripletas.ttl", 
+                    "state": "active", 
+                    "url": "http://opendata.caceres.es/dataset/bca747bc-72e1-4fe3-ba63-4a53f5cb9a3d/resource/639ced43-a4bd-4530-b378-07e7b45df322/download/restaurantes.ttl"
+                }
+            ], 
+            "revision_id": "d791b8ee-6303-41ab-bc83-3b68386eafa2", 
+            "tags": [
+                {
+                    "tag_id": "41ad6e34-8c2c-4918-816a-bc8e15165f4d", 
+                    "tag_name": "turismo"
+                }
+            ], 
+            "title": "Restaurantes C\u00e1ceres"
+        }, 
+        {
+            "author": "SIG de C\u00e1ceres", 
+            "license_title": "Creative Commons Attribution", 
+            "metadata_created": "2016-04-21T07:20:02.410053", 
+            "metadata_modified": "2017-07-21T09:59:55.066659", 
+            "organization_description": "", 
+            "relationships_as_object": [], 
+            "relationships_as_subject": [], 
+            "resources": [
+                {
+                    "format": "api/sparql", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Punto SPARQL de consulta de datos", 
+                    "state": "active", 
+                    "url": "http://opendata.caceres.es/sparql/"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Caf\u00e9_Bar_Ca\u0301ceres_csv.csv", 
+                    "state": "active", 
+                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:CafeBar&format=csv"
+                }, 
+                {
+                    "format": "XLS", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Caf\u00e9_Bar_Ca\u0301ceres_Excel.xls", 
+                    "state": "active", 
+                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:CafeBar&format=xls"
+                }, 
+                {
+                    "format": "JSON", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Caf\u00e9_Bar_Ca\u0301ceres_JSON.json", 
+                    "state": "active", 
+                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:CafeBar&format=json"
+                }, 
+                {
+                    "format": "GeoJSON", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Caf\u00e9_Bar_Ca\u0301ceres_GeoJSON.geojson", 
+                    "state": "active", 
+                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:CafeBar&format=geojson&geojson=Point"
+                }, 
+                {
+                    "format": "RDF", 
+                    "hash": "", 
+                    "last_modified": "2017-07-21T09:59:55.051524", 
+                    "name": "Cafe_Bar_Ca\u0301ceres_Tripletas.ttl", 
+                    "state": "active", 
+                    "url": "http://opendata.caceres.es/dataset/83f93dbf-ba4b-4ee9-9c73-7eeb47bb2bab/resource/6f529e6b-c85c-4fa7-8534-81d0f889a646/download/cafebar.ttl"
+                }
+            ], 
+            "revision_id": "ad2a651c-2c60-4b82-bb8e-1e2eaca98a10", 
+            "tags": [
+                {
+                    "tag_id": "41ad6e34-8c2c-4918-816a-bc8e15165f4d", 
+                    "tag_name": "turismo"
+                }
+            ], 
+            "title": "Caf\u00e9s y Bares de C\u00e1ceres"
+        }, 
+        {
+            "author": "SIG de C\u00e1ceres", 
+            "license_title": "Creative Commons Attribution", 
+            "metadata_created": "2016-04-21T07:19:52.956269", 
+            "metadata_modified": "2017-07-21T09:51:56.169918", 
+            "organization_description": "", 
+            "relationships_as_object": [], 
+            "relationships_as_subject": [], 
+            "resources": [
+                {
+                    "format": "api/sparql", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Punto SPARQL de consulta de datos", 
+                    "state": "active", 
+                    "url": "http://opendata.caceres.es/sparql/"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Bares_de_Copas_Ca\u0301ceres_csv.csv", 
+                    "state": "active", 
+                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:BarCopas&format=csv"
+                }, 
+                {
+                    "format": "XLS", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Bares_de_Copas_Ca\u0301ceres_Excel.xls", 
+                    "state": "active", 
+                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:BarCopas&format=xls"
+                }, 
+                {
+                    "format": "JSON", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Bares_de_Copas_Ca\u0301ceres_JSON.json", 
+                    "state": "active", 
+                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:BarCopas&format=json"
+                }, 
+                {
+                    "format": "GeoJSON", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Bares_de_Copas_Ca\u0301ceres_GeoJSON.geojson", 
+                    "state": "active", 
+                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:BarCopas&format=geojson&geojson=Point"
+                }, 
+                {
+                    "format": "RDF", 
+                    "hash": "", 
+                    "last_modified": "2017-07-21T09:50:18.146217", 
+                    "name": "Bares_de_Copas_Ca\u0301ceres_Tripletas.ttl", 
+                    "state": "active", 
+                    "url": "http://opendata.caceres.es/dataset/c604b405-37af-4afd-95f6-77cd3eb6e0b9/resource/b7622c1e-115f-4aab-b7b1-e39c241a911f/download/barcopas.ttl"
+                }
+            ], 
+            "revision_id": "eb6d1bbd-e8a9-4b72-ac47-5c71873da047", 
+            "tags": [
+                {
+                    "tag_id": "41ad6e34-8c2c-4918-816a-bc8e15165f4d", 
+                    "tag_name": "turismo"
+                }
+            ], 
+            "title": "Bares de Copas C\u00e1ceres"
+        }, 
+        {
+            "author": "SIG de C\u00e1ceres", 
+            "license_title": "Creative Commons Attribution", 
+            "metadata_created": "2016-05-12T09:46:23.286459", 
+            "metadata_modified": "2017-07-21T08:17:08.027903", 
+            "organization_description": "", 
+            "relationships_as_object": [], 
+            "relationships_as_subject": [], 
+            "resources": [
+                {
+                    "format": "api/sparql", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Punto SPARQL de consulta de datos", 
+                    "state": "active", 
+                    "url": "http://opendata.caceres.es/sparql/"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Instalacion_Deportiva_Ca\u0301ceres_csv.csv", 
+                    "state": "active", 
+                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:InstalacionDeportiva&format=csv"
+                }, 
+                {
+                    "format": "XLS", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Instalacion_Deportiva_Ca\u0301ceres_Excel.xls", 
+                    "state": "active", 
+                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:InstalacionDeportiva&format=xls"
+                }, 
+                {
+                    "format": "JSON", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Instalaciones_Deportivas_Ca\u0301ceres_JSON.json", 
+                    "state": "active", 
+                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:InstalacionDeportiva&format=json"
+                }, 
+                {
+                    "format": "GeoJSON", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Instalaciones_Deportivas_Ca\u0301ceres_GeoJSON.geojson", 
+                    "state": "active", 
+                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:InstalacionDeportiva&format=geojson"
+                }, 
+                {
+                    "format": "RDF", 
+                    "hash": "", 
+                    "last_modified": "2017-07-21T08:17:07.995419", 
+                    "name": "Instalaciones_Deportivas_Caceres_Tripletas.ttl", 
+                    "state": "active", 
+                    "url": "http://opendata.caceres.es/dataset/6ccc1dfb-b1cc-4316-86f7-5e058d735425/resource/6536df52-0065-404d-b8c8-acfef4f8a430/download/instalacionesdeportivas.ttl"
+                }
+            ], 
+            "revision_id": "4b9daff9-f393-4a6d-bbdb-43e2297dda2d", 
+            "tags": [
+                {
+                    "tag_id": "f998bce2-4ef0-43e7-b2f9-d46dba748816", 
+                    "tag_name": "deporte"
+                }
+            ], 
+            "title": "Instalaciones Deportivas C\u00e1ceres"
+        }, 
+        {
+            "author": "SIG de C\u00e1ceres", 
+            "license_title": "Creative Commons Attribution", 
             "metadata_created": "2016-04-21T07:19:32.217058", 
-            "metadata_modified": "2017-07-14T07:31:39.650866", 
+            "metadata_modified": "2017-07-21T07:50:01.913450", 
             "organization_description": "", 
             "relationships_as_object": [], 
             "relationships_as_subject": [], 
@@ -52,7 +387,7 @@
                 {
                     "format": "RDF", 
                     "hash": "", 
-                    "last_modified": "2016-04-27T08:24:19.575428", 
+                    "last_modified": "2017-07-21T07:50:01.891139", 
                     "name": "Residencias_Mayores_C\u00e1ceres_Tripletas.ttl", 
                     "state": "active", 
                     "url": "http://opendata.caceres.es/dataset/a355b23a-d882-4f28-837e-2b0b8ba0df2e/resource/52f99c8b-5adb-4e6e-92ca-c0376766dea1/download/residenciamayores.ttl"
@@ -66,6 +401,676 @@
                 }
             ], 
             "title": "Residencias de Mayores C\u00e1ceres"
+        }, 
+        {
+            "author": "SIG de C\u00e1ceres", 
+            "license_title": "Creative Commons Attribution", 
+            "metadata_created": "2016-04-21T07:17:03.078671", 
+            "metadata_modified": "2017-07-21T07:41:38.480021", 
+            "organization_description": "", 
+            "relationships_as_object": [], 
+            "relationships_as_subject": [], 
+            "resources": [
+                {
+                    "format": "api/sparql", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Punto SPARQL de consulta de datos", 
+                    "state": "active", 
+                    "url": "http://opendata.caceres.es/sparql/"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "", 
+                    "last_modified": "2017-07-21T07:39:49.032788", 
+                    "name": "Centros_de_Exposicio\u0301n_Ca\u0301ceres_csv.csv", 
+                    "state": "active", 
+                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:CentroExposiciones&format=csv"
+                }, 
+                {
+                    "format": "XLS", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Centros_de_Exposicio\u0301n_Ca\u0301ceres_Excel.xls", 
+                    "state": "active", 
+                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:CentroExposiciones&format=xls"
+                }, 
+                {
+                    "format": "JSON", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Centros_de_Exposicio\u0301n_Ca\u0301ceres_JSON.json", 
+                    "state": "active", 
+                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:CentroExposiciones&format=json"
+                }, 
+                {
+                    "format": "GeoJSON", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Centros_de_Exposicio\u0301n_Ca\u0301ceres_GeoJSON.geojson", 
+                    "state": "active", 
+                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:CentroExposiciones&format=geojson"
+                }, 
+                {
+                    "format": "RDF", 
+                    "hash": "", 
+                    "last_modified": "2017-07-21T07:41:38.457624", 
+                    "name": "Centros_de_Exposicio\u0301n_Ca\u0301ceres_Tripletas.ttl", 
+                    "state": "active", 
+                    "url": "http://opendata.caceres.es/dataset/846ceb31-511c-4faa-b77e-c39b1a1d5293/resource/2a7b3f86-fd93-4efc-b777-28d38c7b079f/download/centrosexposiciones.ttl"
+                }
+            ], 
+            "revision_id": "db74b73f-5a15-4261-b84a-e86f137a7fae", 
+            "tags": [
+                {
+                    "tag_id": "8bd32d9d-d28e-4180-8a91-f124fddee358", 
+                    "tag_name": "cultura-ocio"
+                }
+            ], 
+            "title": "Centros de Exposici\u00f3n C\u00e1ceres"
+        }, 
+        {
+            "author": "Grupo Quercus", 
+            "license_title": "Creative Commons Attribution", 
+            "metadata_created": "2016-04-21T07:18:58.151876", 
+            "metadata_modified": "2017-07-20T11:10:45.517994", 
+            "organization_description": "", 
+            "relationships_as_object": [], 
+            "relationships_as_subject": [], 
+            "resources": [
+                {
+                    "format": "api/sparql", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Punto SPARQL de consulta de datos", 
+                    "state": "active", 
+                    "url": "http://opendata.caceres.es/sparql/"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Piscinas_Ca\u0301ceres_csv.csv", 
+                    "state": "active", 
+                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:PiscinaMunicipal&format=csv"
+                }, 
+                {
+                    "format": "XLS", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Piscinas_Ca\u0301ceres_Excel.xls", 
+                    "state": "active", 
+                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:PiscinaMunicipal&format=xls"
+                }, 
+                {
+                    "format": "JSON", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Piscinas_Ca\u0301ceres_JSON.json", 
+                    "state": "active", 
+                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:PiscinaMunicipal&format=json"
+                }, 
+                {
+                    "format": "GeoJSON", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Piscinas_Ca\u0301ceres_GeoJSON.geojson", 
+                    "state": "active", 
+                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:PiscinaMunicipal&format=geojson"
+                }, 
+                {
+                    "format": "RDF", 
+                    "hash": "", 
+                    "last_modified": "2017-07-20T11:10:45.497015", 
+                    "name": "Piscinas_Ca\u0301ceres_Tripletas.ttl", 
+                    "state": "active", 
+                    "url": "http://opendata.caceres.es/dataset/50ced1b4-40d8-44b4-bda5-b0351e2fd626/resource/c27b42f4-01f2-43de-beee-a78745872b26/download/piscinas2016.ttl"
+                }
+            ], 
+            "revision_id": "306368d4-a567-4331-9397-7f6b0a7af88c", 
+            "tags": [
+                {
+                    "tag_id": "f998bce2-4ef0-43e7-b2f9-d46dba748816", 
+                    "tag_name": "deporte"
+                }
+            ], 
+            "title": "Piscinas C\u00e1ceres"
+        }, 
+        {
+            "author": "SIG de C\u00e1ceres", 
+            "license_title": "Creative Commons Attribution", 
+            "metadata_created": "2016-04-21T07:14:18.188859", 
+            "metadata_modified": "2017-07-20T10:37:03.172575", 
+            "organization_description": "", 
+            "relationships_as_object": [], 
+            "relationships_as_subject": [], 
+            "resources": [
+                {
+                    "format": "api/sparql", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Punto SPARQL de consulta de datos", 
+                    "state": "active", 
+                    "url": "http://opendata.caceres.es/sparql/"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Teatros_Ca\u0301ceres_csv.csv", 
+                    "state": "active", 
+                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:Teatro&format=csv"
+                }, 
+                {
+                    "format": "XLS", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Teatros_Ca\u0301ceres_Excel.xls", 
+                    "state": "active", 
+                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:Teatro&format=xls"
+                }, 
+                {
+                    "format": "JSON", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Teatros_Ca\u0301ceres_JSON.json", 
+                    "state": "active", 
+                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:Teatro&format=json"
+                }, 
+                {
+                    "format": "GeoJSON", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Teatros_Ca\u0301ceres_GeoJSON.geojson", 
+                    "state": "active", 
+                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:Teatro&format=geojson&geojson=Point"
+                }, 
+                {
+                    "format": "RDF", 
+                    "hash": "", 
+                    "last_modified": "2017-07-20T10:37:03.150558", 
+                    "name": "Teatros_Ca\u0301ceres_Tripletas.ttl", 
+                    "state": "active", 
+                    "url": "http://opendata.caceres.es/dataset/aef42d83-215f-4b20-885e-be49b0262ae0/resource/65ab14f4-058a-4784-95ef-74fc61ee5caf/download/teatros.ttl"
+                }
+            ], 
+            "revision_id": "08a72188-5cd3-4a66-b533-10e9ff6445ca", 
+            "tags": [
+                {
+                    "tag_id": "8bd32d9d-d28e-4180-8a91-f124fddee358", 
+                    "tag_name": "cultura-ocio"
+                }
+            ], 
+            "title": "Teatros C\u00e1ceres"
+        }, 
+        {
+            "author": "SIG de C\u00e1ceres", 
+            "license_title": "Creative Commons Attribution", 
+            "metadata_created": "2016-04-21T07:14:27.123145", 
+            "metadata_modified": "2017-07-20T10:33:31.682918", 
+            "organization_description": "", 
+            "relationships_as_object": [], 
+            "relationships_as_subject": [], 
+            "resources": [
+                {
+                    "format": "api/sparql", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Punto SPARQL de consulta de datos", 
+                    "state": "active", 
+                    "url": "http://opendata.caceres.es/sparql/"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Cines_Ca\u0301ceres_csv.csv", 
+                    "state": "active", 
+                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:Cine&format=csv"
+                }, 
+                {
+                    "format": "XLS", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Cines_Ca\u0301ceres_Excel.xls", 
+                    "state": "active", 
+                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:Cine&format=xls"
+                }, 
+                {
+                    "format": "JSON", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Cines_Ca\u0301ceres_JSON.json", 
+                    "state": "active", 
+                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:Cine&format=json"
+                }, 
+                {
+                    "format": "GeoJSON", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Cines_Ca\u0301ceres_GeoJSON.geojson", 
+                    "state": "active", 
+                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:Cine&format=geojson&geojson=Point"
+                }, 
+                {
+                    "format": "RDF", 
+                    "hash": "", 
+                    "last_modified": "2017-07-20T10:33:31.667355", 
+                    "name": "Cines_Ca\u0301ceres_Tripletas.ttl", 
+                    "state": "active", 
+                    "url": "http://opendata.caceres.es/dataset/f735a10a-16f0-4408-9c8a-873020d02f0c/resource/10f8a474-64a8-4a63-9833-ecbe22ad5d8e/download/cines.ttl"
+                }
+            ], 
+            "revision_id": "596aebc8-f741-41d3-bb4b-00423b014ed2", 
+            "tags": [
+                {
+                    "tag_id": "8bd32d9d-d28e-4180-8a91-f124fddee358", 
+                    "tag_name": "cultura-ocio"
+                }
+            ], 
+            "title": "Cines C\u00e1ceres"
+        }, 
+        {
+            "author": "SIG de C\u00e1ceres", 
+            "license_title": "Creative Commons Attribution", 
+            "metadata_created": "2016-04-21T07:18:37.028868", 
+            "metadata_modified": "2017-07-20T09:59:45.174950", 
+            "organization_description": "", 
+            "relationships_as_object": [], 
+            "relationships_as_subject": [], 
+            "resources": [
+                {
+                    "format": "api/sparql", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Punto SPARQL de consulta de datos", 
+                    "state": "active", 
+                    "url": "http://opendata.caceres.es/sparql/"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Museos_Ca\u0301ceres_csv.csv", 
+                    "state": "active", 
+                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:Museo&format=csv"
+                }, 
+                {
+                    "format": "XLS", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Museos_Ca\u0301ceres_Excel.xls", 
+                    "state": "active", 
+                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:Museo&format=xls"
+                }, 
+                {
+                    "format": "JSON", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Museos_Ca\u0301ceres_JSON.json", 
+                    "state": "active", 
+                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:Museo&format=json"
+                }, 
+                {
+                    "format": "GeoJSON", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Museos_Ca\u0301ceres_GeoJSON.geojson", 
+                    "state": "active", 
+                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:Museo&format=geojson&geojson=Point"
+                }, 
+                {
+                    "format": "RDF", 
+                    "hash": "", 
+                    "last_modified": "2017-07-20T09:59:45.148182", 
+                    "name": "Museos_Ca\u0301ceres_Tripletas.ttl", 
+                    "state": "active", 
+                    "url": "http://opendata.caceres.es/dataset/58fb18ac-0501-4c1b-b003-1906636e9a4d/resource/c621e3e9-fa26-46e9-8da0-e1883ff06999/download/museos.ttl"
+                }
+            ], 
+            "revision_id": "3cedeae2-1b02-4fc2-bd70-d1409514bb7d", 
+            "tags": [
+                {
+                    "tag_id": "8bd32d9d-d28e-4180-8a91-f124fddee358", 
+                    "tag_name": "cultura-ocio"
+                }
+            ], 
+            "title": "Museos C\u00e1ceres"
+        }, 
+        {
+            "author": "SIG de C\u00e1ceres", 
+            "license_title": "Creative Commons Attribution", 
+            "metadata_created": "2016-04-21T07:16:44.822053", 
+            "metadata_modified": "2017-07-20T08:37:09.950144", 
+            "organization_description": "", 
+            "relationships_as_object": [], 
+            "relationships_as_subject": [], 
+            "resources": [
+                {
+                    "format": "api/sparql", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Punto SPARQL de consulta de datos", 
+                    "state": "active", 
+                    "url": "http://opendata.caceres.es/sparql/"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Bibliotecas_Ca\u0301ceres_csv.csv", 
+                    "state": "active", 
+                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:Biblioteca&format=csv"
+                }, 
+                {
+                    "format": "XLS", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Bibliotecas_Ca\u0301ceres_Excel.xls", 
+                    "state": "active", 
+                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:Biblioteca&format=xls"
+                }, 
+                {
+                    "format": "JSON", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Bibliotecas_Ca\u0301ceres_JSON.json", 
+                    "state": "active", 
+                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:Biblioteca&format=json"
+                }, 
+                {
+                    "format": "GeoJSON", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Bibliotecas_Ca\u0301ceres_GeoJSON.geojson", 
+                    "state": "active", 
+                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:Biblioteca&format=geojson&geojson=Point"
+                }, 
+                {
+                    "format": "RDF", 
+                    "hash": "", 
+                    "last_modified": "2017-07-20T08:37:09.927616", 
+                    "name": "Bibliotecas_Ca\u0301ceres_Tripletas.ttl", 
+                    "state": "active", 
+                    "url": "http://opendata.caceres.es/dataset/6c8acd26-ed03-466c-8f14-f2bb654b87dc/resource/7ff29933-f0b2-4668-91d8-c93452d1e638/download/bibliotecas.ttl"
+                }
+            ], 
+            "revision_id": "2c87d2e0-800d-40cb-8fc5-de8a185009cf", 
+            "tags": [
+                {
+                    "tag_id": "8bd32d9d-d28e-4180-8a91-f124fddee358", 
+                    "tag_name": "cultura-ocio"
+                }
+            ], 
+            "title": "Bibliotecas C\u00e1ceres"
+        }, 
+        {
+            "author": "SIG de C\u00e1ceres", 
+            "license_title": "Creative Commons Attribution", 
+            "metadata_created": "2016-04-21T07:18:11.494540", 
+            "metadata_modified": "2017-07-20T08:33:12.370122", 
+            "organization_description": "", 
+            "relationships_as_object": [], 
+            "relationships_as_subject": [], 
+            "resources": [
+                {
+                    "format": "api/sparql", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Punto SPARQL de consulta de datos", 
+                    "state": "active", 
+                    "url": "http://opendata.caceres.es/sparql/"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Ludotecas_Ca\u0301ceres_csv.csv", 
+                    "state": "active", 
+                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:Ludoteca&format=csv"
+                }, 
+                {
+                    "format": "XLS", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Ludotecas_Ca\u0301ceres_Excel.xls", 
+                    "state": "active", 
+                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:Ludoteca&format=xls"
+                }, 
+                {
+                    "format": "JSON", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Ludotecas_Ca\u0301ceres_JSON.json", 
+                    "state": "active", 
+                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:Ludoteca&format=json"
+                }, 
+                {
+                    "format": "GeoJSON", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Ludotecas_Ca\u0301ceres_GeoJSON.geojson", 
+                    "state": "active", 
+                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:Ludoteca&format=geojson&geojson=Point"
+                }, 
+                {
+                    "format": "RDF", 
+                    "hash": "", 
+                    "last_modified": "2017-07-20T08:33:12.342016", 
+                    "name": "Ludotecas_Ca\u0301ceres_Tripletas.ttl", 
+                    "state": "active", 
+                    "url": "http://opendata.caceres.es/dataset/36f6db2e-5c77-4773-8b30-fd6b8c5350d9/resource/6de040e2-1380-4ce2-ae1c-0cb24732e433/download/ludotecas.ttl"
+                }
+            ], 
+            "revision_id": "f63e88be-2fc7-4c04-865c-7aaf2ff4f5a1", 
+            "tags": [
+                {
+                    "tag_id": "8bd32d9d-d28e-4180-8a91-f124fddee358", 
+                    "tag_name": "cultura-ocio"
+                }
+            ], 
+            "title": "Ludotecas C\u00e1ceres"
+        }, 
+        {
+            "author": "SIG de C\u00e1ceres", 
+            "license_title": "Creative Commons Attribution", 
+            "metadata_created": "2016-04-21T07:20:11.879184", 
+            "metadata_modified": "2017-07-20T08:29:21.573943", 
+            "organization_description": "", 
+            "relationships_as_object": [], 
+            "relationships_as_subject": [], 
+            "resources": [
+                {
+                    "format": "api/sparql", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Punto SPARQL de consulta de datos", 
+                    "state": "active", 
+                    "url": "http://opendata.caceres.es/sparql/"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Gasolineras_Ca\u0301ceres_csv.csv", 
+                    "state": "active", 
+                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:Gasolinera&format=csv"
+                }, 
+                {
+                    "format": "XLS", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Gasolineras_Ca\u0301ceres_Excel.xls", 
+                    "state": "active", 
+                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:Gasolinera&format=xls"
+                }, 
+                {
+                    "format": "JSON", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Gasolineras_Ca\u0301ceres_JSON.json", 
+                    "state": "active", 
+                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:Gasolinera&format=json"
+                }, 
+                {
+                    "format": "GeoJSON", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Gasolineras_Ca\u0301ceres_GeoJSON.geojson", 
+                    "state": "active", 
+                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:Gasolinera&format=geojson"
+                }, 
+                {
+                    "format": "RDF", 
+                    "hash": "", 
+                    "last_modified": "2017-07-20T08:29:21.543808", 
+                    "name": "Gasolineras_Ca\u0301ceres_Tripletas.ttl", 
+                    "state": "active", 
+                    "url": "http://opendata.caceres.es/dataset/fe1fa88b-9aa3-4588-b1bb-f600fd581016/resource/51494aad-ff94-4e17-9f63-5109f4234a5e/download/gasolineras.ttl"
+                }
+            ], 
+            "revision_id": "644b7edf-c071-4aea-84f1-254c6d60d98d", 
+            "tags": [
+                {
+                    "tag_id": "25b79911-effc-43ee-8ece-4da1a32997db", 
+                    "tag_name": "transporte"
+                }
+            ], 
+            "title": "Gasolineras C\u00e1ceres"
+        }, 
+        {
+            "author": "SIG de C\u00e1ceres", 
+            "license_title": "Creative Commons Attribution", 
+            "metadata_created": "2016-04-21T07:18:01.278153", 
+            "metadata_modified": "2017-07-20T08:25:08.019483", 
+            "organization_description": "", 
+            "relationships_as_object": [], 
+            "relationships_as_subject": [], 
+            "resources": [
+                {
+                    "format": "api/sparql", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Punto SPARQL de consulta de datos", 
+                    "state": "active", 
+                    "url": "http://opendata.caceres.es/sparql/"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Hogar_de_mayores_Ca\u0301ceres_csv.csv", 
+                    "state": "active", 
+                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:HogarMayores&format=csv"
+                }, 
+                {
+                    "format": "XLS", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Hogar_de_mayores_Ca\u0301ceres_Excel.xls", 
+                    "state": "active", 
+                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:HogarMayores&format=xls"
+                }, 
+                {
+                    "format": "JSON", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Hogar_de_mayores_Ca\u0301ceres_JSON.json", 
+                    "state": "active", 
+                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:HogarMayores&format=json"
+                }, 
+                {
+                    "format": "GeoJSON", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Hogar_de_Mayores_C\u00e1ceres_geojson.GeoJSON", 
+                    "state": "active", 
+                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:HogarMayores&format=geojson"
+                }, 
+                {
+                    "format": "RDF", 
+                    "hash": "", 
+                    "last_modified": "2017-07-20T08:25:07.936077", 
+                    "name": "Hogar_de_mayores_Ca\u0301ceres_Tripletas.ttl", 
+                    "state": "active", 
+                    "url": "http://opendata.caceres.es/dataset/dcf156b3-1f00-4a16-8c48-d07ab4fe1331/resource/5a67f9e2-9f00-4a80-a5bf-3ce0a619e962/download/hogaresmayores.ttl"
+                }
+            ], 
+            "revision_id": "41be2918-baaf-4f7f-a4d9-10600de6f4cb", 
+            "tags": [
+                {
+                    "tag_id": "0d376715-3a51-4e75-8bf7-75cf455f757d", 
+                    "tag_name": "sociedad-bienestar"
+                }
+            ], 
+            "title": "Hogares de Mayores C\u00e1ceres"
+        }, 
+        {
+            "author": "SIG de C\u00e1ceres", 
+            "license_title": "Creative Commons Attribution", 
+            "metadata_created": "2017-02-28T12:31:27.224220", 
+            "metadata_modified": "2017-07-19T09:42:17.178471", 
+            "organization_description": "", 
+            "relationships_as_object": [], 
+            "relationships_as_subject": [], 
+            "resources": [
+                {
+                    "format": "api/sparql", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Punto SPARQL de consulta de datos", 
+                    "state": "active", 
+                    "url": "http://opendata.caceres.es/sparql/"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Agenda_Ca\u0301ceres_csv.csv", 
+                    "state": "active", 
+                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=event:Event&format=csv"
+                }, 
+                {
+                    "format": "XLS", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Agenda_Ca\u0301ceres_Excel.xls", 
+                    "state": "active", 
+                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=event:Event&format=xls"
+                }, 
+                {
+                    "format": "JSON", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Agenda_Ca\u0301ceres_json.json", 
+                    "state": "active", 
+                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=event:Event&format=json"
+                }, 
+                {
+                    "format": "GeoJSON", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Agenda_Ca\u0301ceres_GeoJSON.geojson", 
+                    "state": "active", 
+                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=event:Event&format=geojson&geojson=Point"
+                }, 
+                {
+                    "format": "RDF", 
+                    "hash": "", 
+                    "last_modified": "2017-07-19T09:42:17.114240", 
+                    "name": "Agenda_Ca\u0301ceres_Tripletas.ttl", 
+                    "state": "active", 
+                    "url": "http://opendata.caceres.es/dataset/ba86e12b-9657-4f64-8276-ed3af5430b88/resource/a626eff6-0429-444f-be3f-aa9529cd976d/download/agenda.ttl"
+                }
+            ], 
+            "revision_id": "f1eb9645-c32b-4ab6-aa88-7a53f9b436f1", 
+            "tags": [
+                {
+                    "tag_id": "8bd32d9d-d28e-4180-8a91-f124fddee358", 
+                    "tag_name": "cultura-ocio"
+                }
+            ], 
+            "title": "Agenda C\u00e1ceres"
         }, 
         {
             "author": "SIG de C\u00e1ceres", 
@@ -125,73 +1130,6 @@
                 }
             ], 
             "title": "Informaci\u00f3n del Padr\u00f3n de C\u00e1ceres 2016"
-        }, 
-        {
-            "author": "SIG de C\u00e1ceres", 
-            "license_title": "Creative Commons Attribution", 
-            "metadata_created": "2017-02-28T12:31:27.224220", 
-            "metadata_modified": "2017-06-26T11:02:59.709903", 
-            "organization_description": "", 
-            "relationships_as_object": [], 
-            "relationships_as_subject": [], 
-            "resources": [
-                {
-                    "format": "api/sparql", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Punto SPARQL de consulta de datos", 
-                    "state": "active", 
-                    "url": "http://opendata.caceres.es/sparql/"
-                }, 
-                {
-                    "format": "CSV", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Agenda_Ca\u0301ceres_csv.csv", 
-                    "state": "active", 
-                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=event:Event&format=csv"
-                }, 
-                {
-                    "format": "XLS", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Agenda_Ca\u0301ceres_Excel.xls", 
-                    "state": "active", 
-                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=event:Event&format=xls"
-                }, 
-                {
-                    "format": "JSON", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Agenda_Ca\u0301ceres_json.json", 
-                    "state": "active", 
-                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=event:Event&format=json"
-                }, 
-                {
-                    "format": "GeoJSON", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Agenda_Ca\u0301ceres_GeoJSON.geojson", 
-                    "state": "active", 
-                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=event:Event&format=geojson&geojson=Point"
-                }, 
-                {
-                    "format": "RDF", 
-                    "hash": "", 
-                    "last_modified": "2017-06-26T08:18:25.040112", 
-                    "name": "Agenda_Ca\u0301ceres_Tripletas.ttl", 
-                    "state": "active", 
-                    "url": "http://opendata.caceres.es/dataset/ba86e12b-9657-4f64-8276-ed3af5430b88/resource/a626eff6-0429-444f-be3f-aa9529cd976d/download/agenda.ttl"
-                }
-            ], 
-            "revision_id": "f1eb9645-c32b-4ab6-aa88-7a53f9b436f1", 
-            "tags": [
-                {
-                    "tag_id": "8bd32d9d-d28e-4180-8a91-f124fddee358", 
-                    "tag_name": "cultura-ocio"
-                }
-            ], 
-            "title": "Agenda C\u00e1ceres"
         }, 
         {
             "author": "Subus Vectalia C\u00e1ceres", 
@@ -585,73 +1523,6 @@
             "title": "Actividades Deportivas C\u00e1ceres"
         }, 
         {
-            "author": "SIG de C\u00e1ceres", 
-            "license_title": "Creative Commons Attribution", 
-            "metadata_created": "2016-04-21T07:20:02.410053", 
-            "metadata_modified": "2017-06-26T10:09:17.503141", 
-            "organization_description": "", 
-            "relationships_as_object": [], 
-            "relationships_as_subject": [], 
-            "resources": [
-                {
-                    "format": "api/sparql", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Punto SPARQL de consulta de datos", 
-                    "state": "active", 
-                    "url": "http://opendata.caceres.es/sparql/"
-                }, 
-                {
-                    "format": "CSV", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Caf\u00e9_Bar_Ca\u0301ceres_csv.csv", 
-                    "state": "active", 
-                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:CafeBar&format=csv"
-                }, 
-                {
-                    "format": "XLS", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Caf\u00e9_Bar_Ca\u0301ceres_Excel.xls", 
-                    "state": "active", 
-                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:CafeBar&format=xls"
-                }, 
-                {
-                    "format": "JSON", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Caf\u00e9_Bar_Ca\u0301ceres_JSON.json", 
-                    "state": "active", 
-                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:CafeBar&format=json"
-                }, 
-                {
-                    "format": "GeoJSON", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Caf\u00e9_Bar_Ca\u0301ceres_GeoJSON.geojson", 
-                    "state": "active", 
-                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:CafeBar&format=geojson&geojson=Point"
-                }, 
-                {
-                    "format": "RDF", 
-                    "hash": "", 
-                    "last_modified": "2016-04-27T11:57:50.348691", 
-                    "name": "Cafe_Bar_Ca\u0301ceres_Tripletas.ttl", 
-                    "state": "active", 
-                    "url": "http://opendata.caceres.es/dataset/83f93dbf-ba4b-4ee9-9c73-7eeb47bb2bab/resource/6f529e6b-c85c-4fa7-8534-81d0f889a646/download/cafebar.ttl"
-                }
-            ], 
-            "revision_id": "9206b28f-94e1-4f09-9049-530fe84b943e", 
-            "tags": [
-                {
-                    "tag_id": "41ad6e34-8c2c-4918-816a-bc8e15165f4d", 
-                    "tag_name": "turismo"
-                }
-            ], 
-            "title": "Caf\u00e9s y Bares de C\u00e1ceres"
-        }, 
-        {
             "author": "Centro de Excelencia de Industrias Culturales y Art\u00edsticas de C\u00e1ceres", 
             "license_title": "Creative Commons Attribution", 
             "metadata_created": "2016-04-21T07:17:41.562685", 
@@ -717,207 +1588,6 @@
                 }
             ], 
             "title": "Empresas Art\u00edsticas C\u00e1ceres"
-        }, 
-        {
-            "author": "SIG de C\u00e1ceres", 
-            "license_title": "Creative Commons Attribution", 
-            "metadata_created": "2016-04-21T07:19:44.988850", 
-            "metadata_modified": "2017-06-26T09:54:28.929225", 
-            "organization_description": "", 
-            "relationships_as_object": [], 
-            "relationships_as_subject": [], 
-            "resources": [
-                {
-                    "format": "api/sparql", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Punto SPARQL de consulta de datos", 
-                    "state": "active", 
-                    "url": "http://opendata.caceres.es/sparql/"
-                }, 
-                {
-                    "format": "CSV", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Restaurantes_Ca\u0301ceres_csv.csv", 
-                    "state": "active", 
-                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:Restaurante&format=csv"
-                }, 
-                {
-                    "format": "XLS", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Restaurantes_Ca\u0301ceres_Excel.xls", 
-                    "state": "active", 
-                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:Restaurante&format=xls"
-                }, 
-                {
-                    "format": "JSON", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Restaurantes_Ca\u0301ceres_JSON.json", 
-                    "state": "active", 
-                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:Restaurante&format=json"
-                }, 
-                {
-                    "format": "GeoJSON", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Restaurantes_Ca\u0301ceres_GeoJSON.geojson", 
-                    "state": "active", 
-                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:Restaurante&format=geojson&geojson=Point"
-                }, 
-                {
-                    "format": "RDF", 
-                    "hash": "", 
-                    "last_modified": "2016-04-27T11:56:52.979639", 
-                    "name": "Restaurantes_Ca\u0301ceres_Tripletas.ttl", 
-                    "state": "active", 
-                    "url": "http://opendata.caceres.es/dataset/bca747bc-72e1-4fe3-ba63-4a53f5cb9a3d/resource/639ced43-a4bd-4530-b378-07e7b45df322/download/restaurantes.ttl"
-                }
-            ], 
-            "revision_id": "9900f3a8-5c99-42f7-baa4-e539e7b1e5b1", 
-            "tags": [
-                {
-                    "tag_id": "41ad6e34-8c2c-4918-816a-bc8e15165f4d", 
-                    "tag_name": "turismo"
-                }
-            ], 
-            "title": "Restaurantes C\u00e1ceres"
-        }, 
-        {
-            "author": "SIG de C\u00e1ceres", 
-            "license_title": "Creative Commons Attribution", 
-            "metadata_created": "2016-04-21T07:19:52.956269", 
-            "metadata_modified": "2017-06-26T09:52:59.423939", 
-            "organization_description": "", 
-            "relationships_as_object": [], 
-            "relationships_as_subject": [], 
-            "resources": [
-                {
-                    "format": "api/sparql", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Punto SPARQL de consulta de datos", 
-                    "state": "active", 
-                    "url": "http://opendata.caceres.es/sparql/"
-                }, 
-                {
-                    "format": "CSV", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Bares_de_Copas_Ca\u0301ceres_csv.csv", 
-                    "state": "active", 
-                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:BarCopas&format=csv"
-                }, 
-                {
-                    "format": "XLS", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Bares_de_Copas_Ca\u0301ceres_Excel.xls", 
-                    "state": "active", 
-                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:BarCopas&format=xls"
-                }, 
-                {
-                    "format": "JSON", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Bares_de_Copas_Ca\u0301ceres_JSON.json", 
-                    "state": "active", 
-                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:BarCopas&format=json"
-                }, 
-                {
-                    "format": "GeoJSON", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Bares_de_Copas_Ca\u0301ceres_GeoJSON.geojson", 
-                    "state": "active", 
-                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:BarCopas&format=geojson&geojson=Point"
-                }, 
-                {
-                    "format": "RDF", 
-                    "hash": "", 
-                    "last_modified": "2016-04-27T11:57:24.752499", 
-                    "name": "Bares_de_Copas_Ca\u0301ceres_Tripletas.ttl", 
-                    "state": "active", 
-                    "url": "http://opendata.caceres.es/dataset/c604b405-37af-4afd-95f6-77cd3eb6e0b9/resource/b7622c1e-115f-4aab-b7b1-e39c241a911f/download/barcopas.ttl"
-                }
-            ], 
-            "revision_id": "3d8dd3ac-25a8-4d3d-80a4-1deeede6effa", 
-            "tags": [
-                {
-                    "tag_id": "41ad6e34-8c2c-4918-816a-bc8e15165f4d", 
-                    "tag_name": "turismo"
-                }
-            ], 
-            "title": "Bares de Copas C\u00e1ceres"
-        }, 
-        {
-            "author": "SIG de C\u00e1ceres", 
-            "license_title": "Creative Commons Attribution", 
-            "metadata_created": "2016-04-21T07:18:37.028868", 
-            "metadata_modified": "2017-06-26T09:50:08.657526", 
-            "organization_description": "", 
-            "relationships_as_object": [], 
-            "relationships_as_subject": [], 
-            "resources": [
-                {
-                    "format": "api/sparql", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Punto SPARQL de consulta de datos", 
-                    "state": "active", 
-                    "url": "http://opendata.caceres.es/sparql/"
-                }, 
-                {
-                    "format": "CSV", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Museos_Ca\u0301ceres_csv.csv", 
-                    "state": "active", 
-                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:Museo&format=csv"
-                }, 
-                {
-                    "format": "XLS", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Museos_Ca\u0301ceres_Excel.xls", 
-                    "state": "active", 
-                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:Museo&format=xls"
-                }, 
-                {
-                    "format": "JSON", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Museos_Ca\u0301ceres_JSON.json", 
-                    "state": "active", 
-                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:Museo&format=json"
-                }, 
-                {
-                    "format": "GeoJSON", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Museos_Ca\u0301ceres_GeoJSON.geojson", 
-                    "state": "active", 
-                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:Museo&format=geojson&geojson=Point"
-                }, 
-                {
-                    "format": "RDF", 
-                    "hash": "", 
-                    "last_modified": "2016-04-27T09:12:43.495533", 
-                    "name": "Museos_Ca\u0301ceres_Tripletas.ttl", 
-                    "state": "active", 
-                    "url": "http://opendata.caceres.es/dataset/58fb18ac-0501-4c1b-b003-1906636e9a4d/resource/c621e3e9-fa26-46e9-8da0-e1883ff06999/download/museos.ttl"
-                }
-            ], 
-            "revision_id": "3cedeae2-1b02-4fc2-bd70-d1409514bb7d", 
-            "tags": [
-                {
-                    "tag_id": "8bd32d9d-d28e-4180-8a91-f124fddee358", 
-                    "tag_name": "cultura-ocio"
-                }
-            ], 
-            "title": "Museos C\u00e1ceres"
         }, 
         {
             "author": "SIG de C\u00e1ceres", 
@@ -1123,73 +1793,6 @@
         {
             "author": "SIG de C\u00e1ceres", 
             "license_title": "Creative Commons Attribution", 
-            "metadata_created": "2016-04-21T07:18:11.494540", 
-            "metadata_modified": "2017-06-26T08:55:18.954572", 
-            "organization_description": "", 
-            "relationships_as_object": [], 
-            "relationships_as_subject": [], 
-            "resources": [
-                {
-                    "format": "api/sparql", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Punto SPARQL de consulta de datos", 
-                    "state": "active", 
-                    "url": "http://opendata.caceres.es/sparql/"
-                }, 
-                {
-                    "format": "CSV", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Ludotecas_Ca\u0301ceres_csv.csv", 
-                    "state": "active", 
-                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:Ludoteca&format=csv"
-                }, 
-                {
-                    "format": "XLS", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Ludotecas_Ca\u0301ceres_Excel.xls", 
-                    "state": "active", 
-                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:Ludoteca&format=xls"
-                }, 
-                {
-                    "format": "JSON", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Ludotecas_Ca\u0301ceres_JSON.json", 
-                    "state": "active", 
-                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:Ludoteca&format=json"
-                }, 
-                {
-                    "format": "GeoJSON", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Ludotecas_Ca\u0301ceres_GeoJSON.geojson", 
-                    "state": "active", 
-                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:Ludoteca&format=geojson&geojson=Point"
-                }, 
-                {
-                    "format": "RDF", 
-                    "hash": "", 
-                    "last_modified": "2016-04-27T09:11:08.145595", 
-                    "name": "Ludotecas_Ca\u0301ceres_Tripletas.ttl", 
-                    "state": "active", 
-                    "url": "http://opendata.caceres.es/dataset/36f6db2e-5c77-4773-8b30-fd6b8c5350d9/resource/6de040e2-1380-4ce2-ae1c-0cb24732e433/download/ludotecas.ttl"
-                }
-            ], 
-            "revision_id": "f63e88be-2fc7-4c04-865c-7aaf2ff4f5a1", 
-            "tags": [
-                {
-                    "tag_id": "8bd32d9d-d28e-4180-8a91-f124fddee358", 
-                    "tag_name": "cultura-ocio"
-                }
-            ], 
-            "title": "Ludotecas C\u00e1ceres"
-        }, 
-        {
-            "author": "SIG de C\u00e1ceres", 
-            "license_title": "Creative Commons Attribution", 
             "metadata_created": "2016-04-21T07:18:29.236286", 
             "metadata_modified": "2017-06-26T08:53:53.342793", 
             "organization_description": "", 
@@ -1253,140 +1856,6 @@
                 }
             ], 
             "title": "Monumentos C\u00e1ceres"
-        }, 
-        {
-            "author": "SIG de C\u00e1ceres", 
-            "license_title": "Creative Commons Attribution", 
-            "metadata_created": "2016-04-21T07:16:44.822053", 
-            "metadata_modified": "2017-06-26T08:52:23.604801", 
-            "organization_description": "", 
-            "relationships_as_object": [], 
-            "relationships_as_subject": [], 
-            "resources": [
-                {
-                    "format": "api/sparql", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Punto SPARQL de consulta de datos", 
-                    "state": "active", 
-                    "url": "http://opendata.caceres.es/sparql/"
-                }, 
-                {
-                    "format": "CSV", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Bibliotecas_Ca\u0301ceres_csv.csv", 
-                    "state": "active", 
-                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:Biblioteca&format=csv"
-                }, 
-                {
-                    "format": "XLS", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Bibliotecas_Ca\u0301ceres_Excel.xls", 
-                    "state": "active", 
-                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:Biblioteca&format=xls"
-                }, 
-                {
-                    "format": "JSON", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Bibliotecas_Ca\u0301ceres_JSON.json", 
-                    "state": "active", 
-                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:Biblioteca&format=json"
-                }, 
-                {
-                    "format": "GeoJSON", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Bibliotecas_Ca\u0301ceres_GeoJSON.geojson", 
-                    "state": "active", 
-                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:Biblioteca&format=geojson&geojson=Point"
-                }, 
-                {
-                    "format": "RDF", 
-                    "hash": "", 
-                    "last_modified": "2016-04-27T08:22:44.903233", 
-                    "name": "Bibliotecas_Ca\u0301ceres_Tripletas.ttl", 
-                    "state": "active", 
-                    "url": "http://opendata.caceres.es/dataset/6c8acd26-ed03-466c-8f14-f2bb654b87dc/resource/7ff29933-f0b2-4668-91d8-c93452d1e638/download/bibliotecas.ttl"
-                }
-            ], 
-            "revision_id": "2c87d2e0-800d-40cb-8fc5-de8a185009cf", 
-            "tags": [
-                {
-                    "tag_id": "8bd32d9d-d28e-4180-8a91-f124fddee358", 
-                    "tag_name": "cultura-ocio"
-                }
-            ], 
-            "title": "Bibliotecas C\u00e1ceres"
-        }, 
-        {
-            "author": "SIG de C\u00e1ceres", 
-            "license_title": "Creative Commons Attribution", 
-            "metadata_created": "2016-04-21T07:16:25.710154", 
-            "metadata_modified": "2017-06-26T08:50:39.718342", 
-            "organization_description": "", 
-            "relationships_as_object": [], 
-            "relationships_as_subject": [], 
-            "resources": [
-                {
-                    "format": "api/sparql", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Punto SPARQL de consulta de datos", 
-                    "state": "active", 
-                    "url": "http://opendata.caceres.es/sparql/"
-                }, 
-                {
-                    "format": "CSV", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Alojamientos_C\u00e1ceres_csv.csv", 
-                    "state": "active", 
-                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=schema:LodgingBusiness&format=csv"
-                }, 
-                {
-                    "format": "XLS", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Alojamientos_C\u00e1ceres_Excel.xls", 
-                    "state": "active", 
-                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=schema:LodgingBusiness&format=xls"
-                }, 
-                {
-                    "format": "JSON", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Alojamientos_C\u00e1ceres_JSON.json", 
-                    "state": "active", 
-                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=schema:LodgingBusiness&format=json"
-                }, 
-                {
-                    "format": "GeoJSON", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Alojamientos_C\u00e1ceres_GeoJSON.geojson", 
-                    "state": "active", 
-                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=schema:LodgingBusiness&format=geojson&geojson=Point"
-                }, 
-                {
-                    "format": "RDF", 
-                    "hash": "", 
-                    "last_modified": "2016-04-27T08:19:06.724118", 
-                    "name": "Alojamientos_C\u00e1ceres_Tripletas.ttl", 
-                    "state": "active", 
-                    "url": "http://opendata.caceres.es/dataset/7be6f696-2c25-4b4d-8ce9-e3a7520177f8/resource/e56a568c-1436-4aab-85d8-4fee1ef2fdec/download/alojamientos.ttl"
-                }
-            ], 
-            "revision_id": "cd4ec0d6-13a4-4828-a02a-73c7347f7b2d", 
-            "tags": [
-                {
-                    "tag_id": "41ad6e34-8c2c-4918-816a-bc8e15165f4d", 
-                    "tag_name": "turismo"
-                }
-            ], 
-            "title": "Alojamientos C\u00e1ceres"
         }, 
         {
             "author": "SIG de C\u00e1ceres", 
@@ -1632,140 +2101,6 @@
         {
             "author": "SIG de C\u00e1ceres", 
             "license_title": "Creative Commons Attribution", 
-            "metadata_created": "2016-04-21T07:14:27.123145", 
-            "metadata_modified": "2017-06-26T07:40:35.453632", 
-            "organization_description": "", 
-            "relationships_as_object": [], 
-            "relationships_as_subject": [], 
-            "resources": [
-                {
-                    "format": "api/sparql", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Punto SPARQL de consulta de datos", 
-                    "state": "active", 
-                    "url": "http://opendata.caceres.es/sparql/"
-                }, 
-                {
-                    "format": "CSV", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Cines_Ca\u0301ceres_csv.csv", 
-                    "state": "active", 
-                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:Cine&format=csv"
-                }, 
-                {
-                    "format": "XLS", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Cines_Ca\u0301ceres_Excel.xls", 
-                    "state": "active", 
-                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:Cine&format=xls"
-                }, 
-                {
-                    "format": "JSON", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Cines_Ca\u0301ceres_JSON.json", 
-                    "state": "active", 
-                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:Cine&format=json"
-                }, 
-                {
-                    "format": "GeoJSON", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Cines_Ca\u0301ceres_GeoJSON.geojson", 
-                    "state": "active", 
-                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:Cine&format=geojson&geojson=Point"
-                }, 
-                {
-                    "format": "RDF", 
-                    "hash": "", 
-                    "last_modified": "2016-04-27T08:11:48.611927", 
-                    "name": "Cines_Ca\u0301ceres_Tripletas.ttl", 
-                    "state": "active", 
-                    "url": "http://opendata.caceres.es/dataset/f735a10a-16f0-4408-9c8a-873020d02f0c/resource/10f8a474-64a8-4a63-9833-ecbe22ad5d8e/download/cines.ttl"
-                }
-            ], 
-            "revision_id": "596aebc8-f741-41d3-bb4b-00423b014ed2", 
-            "tags": [
-                {
-                    "tag_id": "8bd32d9d-d28e-4180-8a91-f124fddee358", 
-                    "tag_name": "cultura-ocio"
-                }
-            ], 
-            "title": "Cines C\u00e1ceres"
-        }, 
-        {
-            "author": "SIG de C\u00e1ceres", 
-            "license_title": "Creative Commons Attribution", 
-            "metadata_created": "2016-04-21T07:14:18.188859", 
-            "metadata_modified": "2017-06-26T07:39:02.485500", 
-            "organization_description": "", 
-            "relationships_as_object": [], 
-            "relationships_as_subject": [], 
-            "resources": [
-                {
-                    "format": "api/sparql", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Punto SPARQL de consulta de datos", 
-                    "state": "active", 
-                    "url": "http://opendata.caceres.es/sparql/"
-                }, 
-                {
-                    "format": "CSV", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Teatros_Ca\u0301ceres_csv.csv", 
-                    "state": "active", 
-                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:Teatro&format=csv"
-                }, 
-                {
-                    "format": "XLS", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Teatros_Ca\u0301ceres_Excel.xls", 
-                    "state": "active", 
-                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:Teatro&format=xls"
-                }, 
-                {
-                    "format": "JSON", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Teatros_Ca\u0301ceres_JSON.json", 
-                    "state": "active", 
-                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:Teatro&format=json"
-                }, 
-                {
-                    "format": "GeoJSON", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Teatros_Ca\u0301ceres_GeoJSON.geojson", 
-                    "state": "active", 
-                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:Teatro&format=geojson&geojson=Point"
-                }, 
-                {
-                    "format": "RDF", 
-                    "hash": "", 
-                    "last_modified": "2016-04-27T08:11:18.851709", 
-                    "name": "Teatros_Ca\u0301ceres_Tripletas.ttl", 
-                    "state": "active", 
-                    "url": "http://opendata.caceres.es/dataset/aef42d83-215f-4b20-885e-be49b0262ae0/resource/65ab14f4-058a-4784-95ef-74fc61ee5caf/download/teatros.ttl"
-                }
-            ], 
-            "revision_id": "08a72188-5cd3-4a66-b533-10e9ff6445ca", 
-            "tags": [
-                {
-                    "tag_id": "8bd32d9d-d28e-4180-8a91-f124fddee358", 
-                    "tag_name": "cultura-ocio"
-                }
-            ], 
-            "title": "Teatros C\u00e1ceres"
-        }, 
-        {
-            "author": "SIG de C\u00e1ceres", 
-            "license_title": "Creative Commons Attribution", 
             "metadata_created": "2016-04-21T07:16:35.169824", 
             "metadata_modified": "2017-06-26T07:16:17.818753", 
             "organization_description": "", 
@@ -1920,73 +2255,6 @@
                 }
             ], 
             "title": "Caminos P\u00fablicos Municipales de C\u00e1ceres"
-        }, 
-        {
-            "author": "SIG de C\u00e1ceres", 
-            "license_title": "Creative Commons Attribution", 
-            "metadata_created": "2016-04-21T07:17:03.078671", 
-            "metadata_modified": "2017-06-14T07:56:53.416627", 
-            "organization_description": "", 
-            "relationships_as_object": [], 
-            "relationships_as_subject": [], 
-            "resources": [
-                {
-                    "format": "api/sparql", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Punto SPARQL de consulta de datos", 
-                    "state": "active", 
-                    "url": "http://opendata.caceres.es/sparql/"
-                }, 
-                {
-                    "format": "CSV", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Centros_de_Exposicio\u0301n_Ca\u0301ceres_csv.csv", 
-                    "state": "active", 
-                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:CentroExposiciones&format=csv"
-                }, 
-                {
-                    "format": "XLS", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Centros_de_Exposicio\u0301n_Ca\u0301ceres_Excel.xls", 
-                    "state": "active", 
-                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:CentroExposiciones&format=xls"
-                }, 
-                {
-                    "format": "JSON", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Centros_de_Exposicio\u0301n_Ca\u0301ceres_JSON.json", 
-                    "state": "active", 
-                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:CentroExposiciones&format=json"
-                }, 
-                {
-                    "format": "GeoJSON", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Centros_de_Exposicio\u0301n_Ca\u0301ceres_GeoJSON.geojson", 
-                    "state": "active", 
-                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:CentroExposiciones&format=geojson"
-                }, 
-                {
-                    "format": "RDF", 
-                    "hash": "", 
-                    "last_modified": "2016-04-27T08:25:44.272551", 
-                    "name": "Centros_de_Exposicio\u0301n_Ca\u0301ceres_Tripletas.ttl", 
-                    "state": "active", 
-                    "url": "http://opendata.caceres.es/dataset/846ceb31-511c-4faa-b77e-c39b1a1d5293/resource/2a7b3f86-fd93-4efc-b777-28d38c7b079f/download/centrosexposiciones.ttl"
-                }
-            ], 
-            "revision_id": "db74b73f-5a15-4261-b84a-e86f137a7fae", 
-            "tags": [
-                {
-                    "tag_id": "8bd32d9d-d28e-4180-8a91-f124fddee358", 
-                    "tag_name": "cultura-ocio"
-                }
-            ], 
-            "title": "Centros de Exposici\u00f3n C\u00e1ceres"
         }, 
         {
             "author": "SIG de C\u00e1ceres", 
@@ -2324,73 +2592,6 @@
             "title": "Centros Docentes C\u00e1ceres"
         }, 
         {
-            "author": "Grupo Quercus", 
-            "license_title": "Creative Commons Attribution", 
-            "metadata_created": "2016-04-21T07:18:58.151876", 
-            "metadata_modified": "2017-06-14T07:44:17.416692", 
-            "organization_description": "", 
-            "relationships_as_object": [], 
-            "relationships_as_subject": [], 
-            "resources": [
-                {
-                    "format": "api/sparql", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Punto SPARQL de consulta de datos", 
-                    "state": "active", 
-                    "url": "http://opendata.caceres.es/sparql/"
-                }, 
-                {
-                    "format": "CSV", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Piscinas_Ca\u0301ceres_csv.csv", 
-                    "state": "active", 
-                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:PiscinaMunicipal&format=csv"
-                }, 
-                {
-                    "format": "XLS", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Piscinas_Ca\u0301ceres_Excel.xls", 
-                    "state": "active", 
-                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:PiscinaMunicipal&format=xls"
-                }, 
-                {
-                    "format": "JSON", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Piscinas_Ca\u0301ceres_JSON.json", 
-                    "state": "active", 
-                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:PiscinaMunicipal&format=json"
-                }, 
-                {
-                    "format": "GeoJSON", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Piscinas_Ca\u0301ceres_GeoJSON.geojson", 
-                    "state": "active", 
-                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:PiscinaMunicipal&format=geojson"
-                }, 
-                {
-                    "format": "RDF", 
-                    "hash": "", 
-                    "last_modified": "2016-06-09T09:45:16.894464", 
-                    "name": "Piscinas_Ca\u0301ceres_Tripletas.ttl", 
-                    "state": "active", 
-                    "url": "http://opendata.caceres.es/dataset/50ced1b4-40d8-44b4-bda5-b0351e2fd626/resource/c27b42f4-01f2-43de-beee-a78745872b26/download/piscinas2016.ttl"
-                }
-            ], 
-            "revision_id": "306368d4-a567-4331-9397-7f6b0a7af88c", 
-            "tags": [
-                {
-                    "tag_id": "f998bce2-4ef0-43e7-b2f9-d46dba748816", 
-                    "tag_name": "deporte"
-                }
-            ], 
-            "title": "Piscinas C\u00e1ceres"
-        }, 
-        {
             "author": "SIG de C\u00e1ceres", 
             "license_title": "Creative Commons Attribution", 
             "metadata_created": "2016-04-21T07:17:52.304001", 
@@ -2590,73 +2791,6 @@
                 }
             ], 
             "title": "Parcelas Feria San Fernando C\u00e1ceres 2017"
-        }, 
-        {
-            "author": "SIG de C\u00e1ceres", 
-            "license_title": "Creative Commons Attribution", 
-            "metadata_created": "2016-04-21T07:18:01.278153", 
-            "metadata_modified": "2017-06-14T07:31:26.488884", 
-            "organization_description": "", 
-            "relationships_as_object": [], 
-            "relationships_as_subject": [], 
-            "resources": [
-                {
-                    "format": "api/sparql", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Punto SPARQL de consulta de datos", 
-                    "state": "active", 
-                    "url": "http://opendata.caceres.es/sparql/"
-                }, 
-                {
-                    "format": "CSV", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Hogar_de_mayores_Ca\u0301ceres_csv.csv", 
-                    "state": "active", 
-                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:HogarMayores&format=csv"
-                }, 
-                {
-                    "format": "XLS", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Hogar_de_mayores_Ca\u0301ceres_Excel.xls", 
-                    "state": "active", 
-                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:HogarMayores&format=xls"
-                }, 
-                {
-                    "format": "JSON", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Hogar_de_mayores_Ca\u0301ceres_JSON.json", 
-                    "state": "active", 
-                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:HogarMayores&format=json"
-                }, 
-                {
-                    "format": "GeoJSON", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Hogar_de_Mayores_C\u00e1ceres_geojson.GeoJSON", 
-                    "state": "active", 
-                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:HogarMayores&format=geojson"
-                }, 
-                {
-                    "format": "RDF", 
-                    "hash": "", 
-                    "last_modified": "2017-05-31T07:30:56.373695", 
-                    "name": "Hogar_de_mayores_Ca\u0301ceres_Tripletas.ttl", 
-                    "state": "active", 
-                    "url": "http://opendata.caceres.es/dataset/dcf156b3-1f00-4a16-8c48-d07ab4fe1331/resource/5a67f9e2-9f00-4a80-a5bf-3ce0a619e962/download/hogaresmayores.ttl"
-                }
-            ], 
-            "revision_id": "41be2918-baaf-4f7f-a4d9-10600de6f4cb", 
-            "tags": [
-                {
-                    "tag_id": "0d376715-3a51-4e75-8bf7-75cf455f757d", 
-                    "tag_name": "sociedad-bienestar"
-                }
-            ], 
-            "title": "Hogares de Mayores C\u00e1ceres"
         }, 
         {
             "author": "SIG de C\u00e1ceres", 
@@ -3984,73 +4118,6 @@
         {
             "author": "SIG de C\u00e1ceres", 
             "license_title": "Creative Commons Attribution", 
-            "metadata_created": "2016-04-21T07:20:11.879184", 
-            "metadata_modified": "2017-02-21T11:22:32.318402", 
-            "organization_description": "", 
-            "relationships_as_object": [], 
-            "relationships_as_subject": [], 
-            "resources": [
-                {
-                    "format": "api/sparql", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Punto SPARQL de consulta de datos", 
-                    "state": "active", 
-                    "url": "http://opendata.caceres.es/sparql/"
-                }, 
-                {
-                    "format": "CSV", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Gasolineras_Ca\u0301ceres_csv.csv", 
-                    "state": "active", 
-                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:Gasolinera&format=csv"
-                }, 
-                {
-                    "format": "XLS", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Gasolineras_Ca\u0301ceres_Excel.xls", 
-                    "state": "active", 
-                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:Gasolinera&format=xls"
-                }, 
-                {
-                    "format": "JSON", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Gasolineras_Ca\u0301ceres_JSON.json", 
-                    "state": "active", 
-                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:Gasolinera&format=json"
-                }, 
-                {
-                    "format": "GeoJSON", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Gasolineras_Ca\u0301ceres_GeoJSON.geojson", 
-                    "state": "active", 
-                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:Gasolinera&format=geojson"
-                }, 
-                {
-                    "format": "RDF", 
-                    "hash": "", 
-                    "last_modified": "2016-09-15T11:01:36.055952", 
-                    "name": "Gasolineras_Ca\u0301ceres_Tripletas.ttl", 
-                    "state": "active", 
-                    "url": "http://opendata.caceres.es/dataset/fe1fa88b-9aa3-4588-b1bb-f600fd581016/resource/51494aad-ff94-4e17-9f63-5109f4234a5e/download/gasolineras.ttl"
-                }
-            ], 
-            "revision_id": "644b7edf-c071-4aea-84f1-254c6d60d98d", 
-            "tags": [
-                {
-                    "tag_id": "25b79911-effc-43ee-8ece-4da1a32997db", 
-                    "tag_name": "transporte"
-                }
-            ], 
-            "title": "Gasolineras C\u00e1ceres"
-        }, 
-        {
-            "author": "SIG de C\u00e1ceres", 
-            "license_title": "Creative Commons Attribution", 
             "metadata_created": "2016-07-06T09:02:27.079787", 
             "metadata_modified": "2017-01-03T07:51:22.130174", 
             "organization_description": "", 
@@ -4358,73 +4425,6 @@
                 }
             ], 
             "title": "Espacios Deportivos C\u00e1ceres"
-        }, 
-        {
-            "author": "SIG de C\u00e1ceres", 
-            "license_title": "Creative Commons Attribution", 
-            "metadata_created": "2016-05-12T09:46:23.286459", 
-            "metadata_modified": "2016-06-09T09:46:12.218764", 
-            "organization_description": "", 
-            "relationships_as_object": [], 
-            "relationships_as_subject": [], 
-            "resources": [
-                {
-                    "format": "api/sparql", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Punto SPARQL de consulta de datos", 
-                    "state": "active", 
-                    "url": "http://opendata.caceres.es/sparql/"
-                }, 
-                {
-                    "format": "CSV", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Instalacion_Deportiva_Ca\u0301ceres_csv.csv", 
-                    "state": "active", 
-                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:InstalacionDeportiva&format=csv"
-                }, 
-                {
-                    "format": "XLS", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Instalacion_Deportiva_Ca\u0301ceres_Excel.xls", 
-                    "state": "active", 
-                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:InstalacionDeportiva&format=xls"
-                }, 
-                {
-                    "format": "JSON", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Instalaciones_Deportivas_Ca\u0301ceres_JSON.json", 
-                    "state": "active", 
-                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:InstalacionDeportiva&format=json"
-                }, 
-                {
-                    "format": "GeoJSON", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Instalaciones_Deportivas_Ca\u0301ceres_GeoJSON.geojson", 
-                    "state": "active", 
-                    "url": "http://opendata.caceres.es/GetData/GetData?dataset=om:InstalacionDeportiva&format=geojson"
-                }, 
-                {
-                    "format": "RDF", 
-                    "hash": "", 
-                    "last_modified": "2016-06-09T09:46:12.191566", 
-                    "name": "Instalaciones_Deportivas_Caceres_Tripletas.ttl", 
-                    "state": "active", 
-                    "url": "http://opendata.caceres.es/dataset/6ccc1dfb-b1cc-4316-86f7-5e058d735425/resource/6536df52-0065-404d-b8c8-acfef4f8a430/download/instalacionesdeportivas.ttl"
-                }
-            ], 
-            "revision_id": "4b9daff9-f393-4a6d-bbdb-43e2297dda2d", 
-            "tags": [
-                {
-                    "tag_id": "f998bce2-4ef0-43e7-b2f9-d46dba748816", 
-                    "tag_name": "deporte"
-                }
-            ], 
-            "title": "Instalaciones Deportivas C\u00e1ceres"
         }, 
         {
             "author": "Ayuntamiento de C\u00e1ceres", 

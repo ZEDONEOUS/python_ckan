@@ -1,6 +1,693 @@
 {
     "packages": [
         {
+            "author": "Warren Bedford", 
+            "license_title": "Open Data License 2.0", 
+            "metadata_created": "2015-05-20T17:49:24.372284", 
+            "metadata_modified": "2017-08-05T04:01:10.825557", 
+            "organization_description": "", 
+            "relationships_as_object": [], 
+            "relationships_as_subject": [], 
+            "resources": [
+                {
+                    "format": "CSV", 
+                    "hash": "md5:14b9f2ad773ed9ffc8cbaf2d5e7cf913", 
+                    "last_modified": "2017-08-05T00:01:10.677282", 
+                    "name": "Basketball_Courts", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/859ab3c4-c68c-4bf2-8ba1-1d7f3fe569e1/resource/2e6c7974-abf9-4330-bda4-708d34a94eb7/download/basketballcourts.csv"
+                }, 
+                {
+                    "format": "dwg", 
+                    "hash": "md5:1e506e8fcb4b383baf37cdd3ec57b35f", 
+                    "last_modified": "2017-07-30T00:01:04.040513", 
+                    "name": "Basketball_Courts", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/859ab3c4-c68c-4bf2-8ba1-1d7f3fe569e1/resource/75242f6a-e5d3-4da8-9e8f-aec3cbff815e/download/basketballcourts.dwg"
+                }, 
+                {
+                    "format": "dwg.xml", 
+                    "hash": "md5:9474ae0e2852e1d34a877333e3d8e4bc", 
+                    "last_modified": "2013-06-20T08:45:57", 
+                    "name": "Basketball_Courts", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/859ab3c4-c68c-4bf2-8ba1-1d7f3fe569e1/resource/c60ad3c9-70cc-45a0-8be3-863726a623ea/download/prbasketballcourts.dwg.xml"
+                }, 
+                {
+                    "format": "KMZ", 
+                    "hash": "md5:d1ea2b550ac0804091bd75ce537c647a", 
+                    "last_modified": "2017-07-31T00:01:06.008753", 
+                    "name": "Basketball_Courts", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/859ab3c4-c68c-4bf2-8ba1-1d7f3fe569e1/resource/5eea9893-1a28-4cb2-8ca1-b91acacdb0ae/download/basketballcourts.kmz"
+                }, 
+                {
+                    "format": "XML", 
+                    "hash": "md5:0d0d2a1dda5a4f6233726cf781c6d136", 
+                    "last_modified": "2017-08-05T00:01:09.269326", 
+                    "name": "Basketball_Courts", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/859ab3c4-c68c-4bf2-8ba1-1d7f3fe569e1/resource/5d4f4fe8-c964-41a7-a3b3-b4cbd3d924cf/download/basketballcourts.xml"
+                }, 
+                {
+                    "format": "SHP", 
+                    "hash": "md5:7ff7cbd0e89c6081324ddf4faef179e4", 
+                    "last_modified": "2017-08-05T00:01:07.907550", 
+                    "name": "Basketball-Courts", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/859ab3c4-c68c-4bf2-8ba1-1d7f3fe569e1/resource/98bf9f4b-16d8-423d-99eb-06cb836d44c2/download/basketball-courts.shp.zip"
+                }, 
+                {
+                    "format": "GeoJSON", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Basketball-Courts", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/859ab3c4-c68c-4bf2-8ba1-1d7f3fe569e1/resource/6b31ac68-f27d-4b78-9eba-6f54adfe9999/download/basketball-courts.json"
+                }
+            ], 
+            "revision_id": "e4886850-4d59-4d5e-ba82-ecbd6afa290d", 
+            "tags": [
+                {
+                    "tag_id": "fe6e8b3a-19a2-4a40-9883-815eb5f2aaa7", 
+                    "tag_name": "Basketball Courts"
+                }
+            ], 
+            "title": {
+                "en": "Basketball Courts", 
+                "fr": "Terrains basket balle"
+            }
+        }, 
+        {
+            "author": "City of Ottawa", 
+            "license_title": "Open Data License 2.0", 
+            "metadata_created": "2015-10-19T12:36:22.371629", 
+            "metadata_modified": "2017-08-05T04:01:04.181532", 
+            "organization_description": "", 
+            "relationships_as_object": [], 
+            "relationships_as_subject": [], 
+            "resources": [
+                {
+                    "format": "SHP", 
+                    "hash": "", 
+                    "last_modified": "2016-01-05T00:01:03.234590", 
+                    "name": "urban-transit-area:shp", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/704e1968-69c7-4c95-97cd-d988de291cae/resource/2c2dfe61-d9ee-45de-bea8-9130b1865e7e/download/urban-transit-areashp.shp.zip"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "", 
+                    "last_modified": "2017-08-03T00:01:04.234599", 
+                    "name": "urban-transit-area:csv", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/704e1968-69c7-4c95-97cd-d988de291cae/resource/0a35b372-19c6-4817-b7a8-92589b5259e8/download/urban-transit-areacsv.csv"
+                }, 
+                {
+                    "format": "dwg", 
+                    "hash": "", 
+                    "last_modified": "2017-08-04T00:01:03.985791", 
+                    "name": "urban-transit-area:dwg", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/704e1968-69c7-4c95-97cd-d988de291cae/resource/b764698a-7483-4cbd-b725-2c2293608a65/download/urban-transit-areadwg.dwg"
+                }, 
+                {
+                    "format": "KMZ", 
+                    "hash": "", 
+                    "last_modified": "2017-08-05T00:01:04.042419", 
+                    "name": "urban-transit-area:kmz", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/704e1968-69c7-4c95-97cd-d988de291cae/resource/8ae44728-d3eb-4293-81a2-eb3fb3b3b098/download/urban-transit-areakmz.kmz"
+                }
+            ], 
+            "revision_id": "e7bb4a47-63d7-49a4-bb27-2163e8410fc8", 
+            "tags": [], 
+            "title": {
+                "en": "Urban Transit Area", 
+                "fr": "Zone urbaine de transport en commun "
+            }
+        }, 
+        {
+            "author": "Ben Dick", 
+            "license_title": "Open Data License 2.0", 
+            "metadata_created": "2016-02-17T04:47:16.419412", 
+            "metadata_modified": "2017-08-04T19:25:43.552724", 
+            "organization_description": "", 
+            "relationships_as_object": [], 
+            "relationships_as_subject": [], 
+            "resources": [
+                {
+                    "format": ".csv", 
+                    "hash": "md5:a7e45379d8e90a2d403545d398d8720f", 
+                    "last_modified": "2014-09-25T11:30:55", 
+                    "name": "2016-03-05/BUILT_HERITAGE.csv", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/eb00fb25-93bf-4565-82c7-e63454bc7d1d/resource/3fe5d417-c187-4df8-93ce-525e151017a7/download/builtheritage160305.csv"
+                }, 
+                {
+                    "format": ".csv", 
+                    "hash": "md5:a4f3f28d01c57e7146e413f746cef0e9", 
+                    "last_modified": "2014-10-08T10:49:20", 
+                    "name": "2016-01-18/BUSINESSES.csv", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/eb00fb25-93bf-4565-82c7-e63454bc7d1d/resource/36da1f62-90fc-437e-876c-c2b7d6fa7895/download/businesses160118.csv"
+                }, 
+                {
+                    "format": ".csv", 
+                    "hash": "md5:8b0aa9d603b3b03f6a570011209a8fb8", 
+                    "last_modified": "2014-10-08T10:49:49", 
+                    "name": "2017-08-04/FACILITIES.csv", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/eb00fb25-93bf-4565-82c7-e63454bc7d1d/resource/c7c76ec1-c729-4003-af46-b6f954fa70e7/download/facilities170804.csv"
+                }, 
+                {
+                    "format": ".csv", 
+                    "hash": "md5:424b9fdf1fe3ea730f33355e545d9b61", 
+                    "last_modified": "2016-05-29T00:00:00", 
+                    "name": "2016-03-29/FESTIVALS.csv", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/eb00fb25-93bf-4565-82c7-e63454bc7d1d/resource/25f01e72-c933-4742-8be0-3806ea10e368/download/festivals160329.csv"
+                }, 
+                {
+                    "format": ".csv", 
+                    "hash": "md5:4f4971f26b5731e40150c1a2ddc4cd34", 
+                    "last_modified": "2014-10-08T10:50:21", 
+                    "name": "2016-01-18/NATURAL_HERITAGE.csv", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/eb00fb25-93bf-4565-82c7-e63454bc7d1d/resource/cc76455d-f3b3-488d-b5f6-e38d2cb4e373/download/naturalheritage160118.csv"
+                }, 
+                {
+                    "format": ".csv", 
+                    "hash": "md5:1f8d63c7569b77bdd97699fc1fbee829", 
+                    "last_modified": "2014-10-08T10:50:37", 
+                    "name": "2016-04-21/ORGANIZATIONS.csv", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/eb00fb25-93bf-4565-82c7-e63454bc7d1d/resource/499da4e8-96b9-400f-b26f-893fad651442/download/organizations20160421.csv"
+                }, 
+                {
+                    "format": ".csv", 
+                    "hash": "md5:e300eb34bc8a84ba87ebac53674a7dce", 
+                    "last_modified": "2014-10-08T10:51:15", 
+                    "name": "2016-03-07/PUBLIC_ART.csv", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/eb00fb25-93bf-4565-82c7-e63454bc7d1d/resource/ece8cb83-d78e-4db1-a917-2eb375518652/download/publicart160307.csv"
+                }, 
+                {
+                    "format": ".csv", 
+                    "hash": "md5:84826ec341fb70e6866f8528722f1821", 
+                    "last_modified": "2014-10-08T10:51:31", 
+                    "name": "2016-03-03/UMBRELLA.csv", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/eb00fb25-93bf-4565-82c7-e63454bc7d1d/resource/b4684fec-b645-410c-982c-23d6500f15c4/download/umbrella160303.csv"
+                }
+            ], 
+            "revision_id": "4f805228-1d22-43bd-8536-3c1fc0550e5e", 
+            "tags": [], 
+            "title": {
+                "en": "Cultural Resources (from OttawaXYZ)", 
+                "fr": "Ressources culturelles (figurant sur OttawaXYZ)"
+            }
+        }, 
+        {
+            "author": "Robert Giggey", 
+            "license_title": "Open Data License 2.0", 
+            "metadata_created": "2017-03-01T19:06:57.562752", 
+            "metadata_modified": "2017-08-04T14:14:05.665385", 
+            "organization_description": "", 
+            "relationships_as_object": [], 
+            "relationships_as_subject": [], 
+            "resources": [
+                {
+                    "format": "API", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Open311-dev", 
+                    "state": "active", 
+                    "url": "https://city-of-ottawa-dev.apigee.net/open311/v2"
+                }, 
+                {
+                    "format": "API", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "GIS-dev", 
+                    "state": "active", 
+                    "url": "https://city-of-ottawa-dev.apigee.net/gis/v1"
+                }, 
+                {
+                    "format": "PDF", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Developer documentation English", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/en/dataset/b8e69d48-2a7d-4bd4-84c0-e764357ac726/resource/3b3dae5d-0308-43ed-9e3f-65703b5fd918/download/open311-georeportv2-city-of-ottawa-developer-documentationproden.pdf"
+                }, 
+                {
+                    "format": "PDF", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Documentation pour les d\u00e9veloppeurs de la Ville d\u2019Ottawa sur Open311 ", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/en/dataset/b8e69d48-2a7d-4bd4-84c0-e764357ac726/resource/6fdb94d4-013d-434a-8ae8-17188e1364fe/download/open311-georeportv2-city-of-ottawa-developer-documentationprodfr.pdf"
+                }
+            ], 
+            "revision_id": "be2ac839-9c70-4acd-83e7-06eb4e2dfe49", 
+            "tags": [
+                {
+                    "tag_id": "2b8f06de-dcb0-49a9-8af3-75d306ddf993", 
+                    "tag_name": "311"
+                }, 
+                {
+                    "tag_id": "27ad3191-3669-4ac8-bee3-c483ad2308de", 
+                    "tag_name": "appels de service"
+                }, 
+                {
+                    "tag_id": "580819cc-195b-42fe-bb41-45562129ac42", 
+                    "tag_name": "calls for service"
+                }, 
+                {
+                    "tag_id": "50bc7af8-5141-4634-91c3-b0f50b4e5ac7", 
+                    "tag_name": "demande de service"
+                }, 
+                {
+                    "tag_id": "80b2c683-248f-42e0-a4de-145c7bf55d33", 
+                    "tag_name": "service requests"
+                }
+            ], 
+            "title": {
+                "en": "Open311", 
+                "fr": "Open311"
+            }
+        }, 
+        {
+            "author": "Ryan Furuness", 
+            "license_title": "Open Data License 2.0", 
+            "metadata_created": "2015-05-20T17:50:20.646398", 
+            "metadata_modified": "2017-08-03T14:09:24.215495", 
+            "organization_description": "", 
+            "relationships_as_object": [], 
+            "relationships_as_subject": [], 
+            "resources": [
+                {
+                    "format": "XLS", 
+                    "hash": "md5:10bb763a0807d9186d21c18d1a2b06de", 
+                    "last_modified": "2014-08-17T09:23:01", 
+                    "name": "Beach sampling results 2017.xls", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/f0d680ed-09d7-4e51-bdb0-00e95648ff9d/resource/ab85fe8e-98c4-4388-9dc3-2839890f637d/download/shealthhealth-protection-divisionenvironmental-healthbeaches2017-beachesbeach-data-excel-sheets.xlsx"
+                }
+            ], 
+            "revision_id": "594e0a38-f62f-48d0-aa4c-4598b4a17e60", 
+            "tags": [], 
+            "title": {
+                "en": "Beach water sampling data", 
+                "fr": "Donn\u00e9es d\u2019\u00e9chantillonnage de l\u2019eau des plages"
+            }
+        }, 
+        {
+            "author": "Warren Bedford", 
+            "license_title": "Open Data License 2.0", 
+            "metadata_created": "2015-05-20T17:48:51.176986", 
+            "metadata_modified": "2017-08-03T04:01:02.911895", 
+            "organization_description": "", 
+            "relationships_as_object": [], 
+            "relationships_as_subject": [], 
+            "resources": [
+                {
+                    "format": "CSV", 
+                    "hash": "md5:525abd3e03829c2af87216e718e6ae6f", 
+                    "last_modified": "2017-08-01T00:01:05.652856", 
+                    "name": "Lawn_Bowling", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/524256b7-b863-4fb0-8761-65f1084af8d3/resource/16f3597c-ec0b-4998-804c-0def5841b6c0/download/lawnbowling.csv"
+                }, 
+                {
+                    "format": "dwg", 
+                    "hash": "md5:f21cb87ea7c832385de2bff773f4146d", 
+                    "last_modified": "2017-08-02T00:01:04.169126", 
+                    "name": "Lawn_Bowling", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/524256b7-b863-4fb0-8761-65f1084af8d3/resource/9467645f-0ce8-4d84-a373-ba53f1b26467/download/lawnbowling.dwg"
+                }, 
+                {
+                    "format": "dwg.xml", 
+                    "hash": "md5:b212e25f83d5f88a3f3beba2245a4d2e", 
+                    "last_modified": "2013-06-20T08:28:50", 
+                    "name": "Lawn_Bowling", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/524256b7-b863-4fb0-8761-65f1084af8d3/resource/77309049-a618-4eb5-9213-b9d3a629e73b/download/prlawnbowling.dwg.xml"
+                }, 
+                {
+                    "format": "KMZ", 
+                    "hash": "md5:5993e1248dd12cad17624fd61f7ea6be", 
+                    "last_modified": "2017-08-03T00:01:02.754651", 
+                    "name": "Lawn_Bowling", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/524256b7-b863-4fb0-8761-65f1084af8d3/resource/0f5b7c1b-eeb9-4d26-bc22-e3b2626d9312/download/lawnbowling.kmz"
+                }, 
+                {
+                    "format": "XML", 
+                    "hash": "md5:bb5b27f1dc1489089ed0cd965e0833af", 
+                    "last_modified": "2017-08-01T00:01:04.406351", 
+                    "name": "Lawn_Bowling", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/524256b7-b863-4fb0-8761-65f1084af8d3/resource/c978a063-ac66-4fb8-bb19-9f1dc810d378/download/lawnbowling.xml"
+                }, 
+                {
+                    "format": "SHP", 
+                    "hash": "md5:2eb54702f88ff76a7498f59a51bb8050", 
+                    "last_modified": "2017-08-01T00:01:03.195574", 
+                    "name": "Lawn-Bowling", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/524256b7-b863-4fb0-8761-65f1084af8d3/resource/2877eaa7-56e5-4417-9917-7a580a7f38ca/download/lawn-bowling.shp.zip"
+                }, 
+                {
+                    "format": "GeoJSON", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Lawn-Bowling", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/524256b7-b863-4fb0-8761-65f1084af8d3/resource/d1432625-24d6-4a81-ba90-2b66199c2cb3/download/lawn-bowling.json"
+                }
+            ], 
+            "revision_id": "51f87ec3-1502-42f9-b0c1-e134e441590c", 
+            "tags": [
+                {
+                    "tag_id": "c8a61a2e-e079-4e5a-a2dd-366f21b5a9c0", 
+                    "tag_name": "Lawn Bowling"
+                }
+            ], 
+            "title": {
+                "en": "Lawn Bowling", 
+                "fr": "Terrains boulingrin"
+            }
+        }, 
+        {
+            "author": "Warren Bedford", 
+            "license_title": "Open Data License 2.0", 
+            "metadata_created": "2015-05-20T17:49:50.315247", 
+            "metadata_modified": "2017-07-31T04:01:15.857688", 
+            "organization_description": "", 
+            "relationships_as_object": [], 
+            "relationships_as_subject": [], 
+            "resources": [
+                {
+                    "format": "CSV", 
+                    "hash": "md5:45a6bde3ce3c10f83b25ddf2cc751d9f", 
+                    "last_modified": "2017-07-31T00:01:15.678827", 
+                    "name": "Sports_Fields", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/afdfcd85-7cff-45a8-94a5-6f74fd6e3498/resource/48aecbdc-446f-460a-9683-028cde0e564b/download/sportsfields.csv"
+                }, 
+                {
+                    "format": "dwg", 
+                    "hash": "md5:f5fe9c3fafa2f648f0cf93edbd3687d0", 
+                    "last_modified": "2017-07-18T00:01:03.841154", 
+                    "name": "Sports_Fields", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/afdfcd85-7cff-45a8-94a5-6f74fd6e3498/resource/aea2511f-a608-457b-aba8-b4bbc501bc86/download/sportsfields.dwg"
+                }, 
+                {
+                    "format": "dwg.xml", 
+                    "hash": "md5:d565bb514cd1f4b6adaa9a69a229f4ce", 
+                    "last_modified": "2013-06-20T13:45:56", 
+                    "name": "Sports_Fields", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/afdfcd85-7cff-45a8-94a5-6f74fd6e3498/resource/37cd25a7-6936-4f15-9b43-ebddf1214ab6/download/prsportsfields.dwg.xml"
+                }, 
+                {
+                    "format": "KMZ", 
+                    "hash": "md5:08a6f872b5d8f8330c5944651245516e", 
+                    "last_modified": "2017-07-19T00:01:05.324788", 
+                    "name": "Sports_Fields", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/afdfcd85-7cff-45a8-94a5-6f74fd6e3498/resource/3331cdf0-5d5b-410b-bf37-5c4df70767c5/download/sportsfields.kmz"
+                }, 
+                {
+                    "format": "XML", 
+                    "hash": "md5:4de8fc8e80dccca01d87ae540b56e469", 
+                    "last_modified": "2017-07-31T00:01:14.483803", 
+                    "name": "Sports_Fields", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/afdfcd85-7cff-45a8-94a5-6f74fd6e3498/resource/4a0cd5bd-06c5-4f86-9c02-01a84bff5021/download/sportsfields.xml"
+                }, 
+                {
+                    "format": "SHP", 
+                    "hash": "md5:28b0c978a523299ff09c10d3c4367fa4", 
+                    "last_modified": "2017-07-31T00:01:12.776647", 
+                    "name": "Sports-Fields", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/afdfcd85-7cff-45a8-94a5-6f74fd6e3498/resource/c0d83938-5b22-455c-9c58-3da5f24ae673/download/sports-fields.shp.zip"
+                }, 
+                {
+                    "format": "GeoJSON", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Sports-Fields", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/afdfcd85-7cff-45a8-94a5-6f74fd6e3498/resource/53f1635e-beb9-4cef-bfc4-4ab36898b3f7/download/sports-fields.json"
+                }
+            ], 
+            "revision_id": "06b8e9a0-eb20-4db0-a10a-095a10a3944d", 
+            "tags": [
+                {
+                    "tag_id": "9222b3b1-f4ab-4370-9911-b400147993cc", 
+                    "tag_name": "Cricket"
+                }, 
+                {
+                    "tag_id": "494f94bb-4765-4cca-a92a-ed069a9e1955", 
+                    "tag_name": "Fields"
+                }, 
+                {
+                    "tag_id": "24a80051-5bf9-4e63-b257-ac3f8f357636", 
+                    "tag_name": "Football"
+                }, 
+                {
+                    "tag_id": "468e571a-a1e3-4f02-90da-030018bbcc01", 
+                    "tag_name": "Rugby"
+                }, 
+                {
+                    "tag_id": "6430e30c-13cc-42e7-8b19-e70ff07df08f", 
+                    "tag_name": "Soccer"
+                }, 
+                {
+                    "tag_id": "1348190b-2d72-4d57-91ce-49029c799b67", 
+                    "tag_name": "Sports Fields"
+                }, 
+                {
+                    "tag_id": "1d7aa149-e463-4cc7-9324-89564f48b665", 
+                    "tag_name": "Ultimate"
+                }
+            ], 
+            "title": {
+                "en": "Sports Fields", 
+                "fr": "Terrains sports"
+            }
+        }, 
+        {
+            "author": "Justin Hoppner", 
+            "license_title": "Open Data License 2.0", 
+            "metadata_created": "2016-12-01T15:21:10.810225", 
+            "metadata_modified": "2017-07-26T14:13:43.988539", 
+            "organization_description": "", 
+            "relationships_as_object": [], 
+            "relationships_as_subject": [], 
+            "resources": [
+                {
+                    "format": "XLSX", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "Biosolids Quality_qualit\u00e9 des biosolides - 06/26/2017", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/2886ebb9-a58b-447d-b57a-7676c3cd3302/resource/5b6d212e-f8cb-4498-80f1-9c95714a75d2/download/biosolids-qualityqualite-des-biosolides06262017.xlsx"
+                }
+            ], 
+            "revision_id": "979b1d7e-9042-4ea6-808f-ced88a803159", 
+            "tags": [], 
+            "title": {
+                "en": "Biosolids quality", 
+                "fr": "La qualit\u00e9 des biosolides"
+            }
+        }, 
+        {
+            "author": "City of Ottawa", 
+            "license_title": "Open Data License 2.0", 
+            "metadata_created": "2015-10-19T13:01:42.004716", 
+            "metadata_modified": "2017-07-24T04:01:05.589212", 
+            "organization_description": "", 
+            "relationships_as_object": [], 
+            "relationships_as_subject": [], 
+            "resources": [
+                {
+                    "format": "SHP", 
+                    "hash": "", 
+                    "last_modified": "2017-07-23T00:01:10.468482", 
+                    "name": "wards-2014:shp", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/8321248d-0b86-47cd-9c83-c848a1bc0098/resource/8152e707-fc28-409c-9bbe-8cb9f88dca86/download/wards-2014shp.shp.zip"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "", 
+                    "last_modified": "2017-07-23T00:01:11.498721", 
+                    "name": "wards-2014:csv", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/8321248d-0b86-47cd-9c83-c848a1bc0098/resource/3dec3c38-1644-4542-a91c-db7883a80463/download/wards-2014csv.csv"
+                }, 
+                {
+                    "format": "dwg", 
+                    "hash": "", 
+                    "last_modified": "2017-07-24T00:01:05.409126", 
+                    "name": "wards-2014:dwg", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/8321248d-0b86-47cd-9c83-c848a1bc0098/resource/32e43199-b3d3-4000-88a8-aa62faea18ad/download/wards-2014dwg.dwg"
+                }, 
+                {
+                    "format": "KMZ", 
+                    "hash": "", 
+                    "last_modified": "2017-03-01T00:01:18.642589", 
+                    "name": "wards-2014:kmz", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/8321248d-0b86-47cd-9c83-c848a1bc0098/resource/d63e4443-febd-4d4a-ba9a-444d49c10124/download/wards-2014kmz.kmz"
+                }
+            ], 
+            "revision_id": "8c046c86-bfa8-4558-bad0-bf8462440d0c", 
+            "tags": [], 
+            "title": {
+                "en": "Wards 2014", 
+                "fr": "Quartiers 2014"
+            }
+        }, 
+        {
+            "author": "Surveys and Mapping / Lev\u00e9s et Cartographie", 
+            "license_title": "Open Data License 2.0", 
+            "metadata_created": "2015-05-20T17:49:53.365891", 
+            "metadata_modified": "2017-07-23T04:01:04.786851", 
+            "organization_description": "", 
+            "relationships_as_object": [], 
+            "relationships_as_subject": [], 
+            "resources": [
+                {
+                    "format": "XML", 
+                    "hash": "md5:963391baf40791b6b16f04c71d57587f", 
+                    "last_modified": "2017-07-21T00:01:14.152171", 
+                    "name": "neighbourhood-names", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/b9424bfe-6632-4bf9-a5e3-169a76d05a28/resource/8ba8cee1-638f-443b-9aad-b12f3121e2ce/download/neighbourhood-names.xml"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "md5:be8cd86aefac3cdb55eebe8d4dd99806", 
+                    "last_modified": "2017-07-21T00:01:15.485856", 
+                    "name": "neighbourhood-names", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/b9424bfe-6632-4bf9-a5e3-169a76d05a28/resource/9be3e198-934f-4525-8c90-19819dcc3531/download/neighbourhood-names.csv"
+                }, 
+                {
+                    "format": "KMZ", 
+                    "hash": "md5:ef4fff8ff8f982bf28a622c336f7f687", 
+                    "last_modified": "2017-07-23T00:01:04.642473", 
+                    "name": "neighbourhood-names", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/b9424bfe-6632-4bf9-a5e3-169a76d05a28/resource/73f7d33e-cf85-4c7b-a67f-e143e97ec528/download/neighbourhood-names.kmz"
+                }, 
+                {
+                    "format": "dwg", 
+                    "hash": "md5:6b39957ea6d0d11af42dee275ba543a9", 
+                    "last_modified": "2017-07-22T00:01:08.847796", 
+                    "name": "neighbourhood-names", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/b9424bfe-6632-4bf9-a5e3-169a76d05a28/resource/8596799d-cbd6-4073-81de-10a1fd4cdc99/download/neighbourhood-names.dwg"
+                }, 
+                {
+                    "format": "SHP", 
+                    "hash": "md5:ebbd7ca54344c830a6061ac6ba7791ba", 
+                    "last_modified": "2017-07-21T00:01:12.752563", 
+                    "name": "neighbourhood-names", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/b9424bfe-6632-4bf9-a5e3-169a76d05a28/resource/5719b275-0dea-40cf-8f93-c2cb41808a19/download/neighbourhood-names.shp.zip"
+                }, 
+                {
+                    "format": "GeoJSON", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "neighbourhood-names", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/b9424bfe-6632-4bf9-a5e3-169a76d05a28/resource/6aba4a6c-5e87-46d7-85fd-69bda81e9a03/download/neighbourhood-names.json"
+                }
+            ], 
+            "revision_id": "94f2d9a8-ac98-4064-b456-216d77d283eb", 
+            "tags": [], 
+            "title": {
+                "en": "Neighbourhood Names", 
+                "fr": "Nom des quartiers"
+            }
+        }, 
+        {
+            "author": "Surveys and Mapping / Lev\u00e9s et Cartographie", 
+            "license_title": "Open Data License 2.0", 
+            "metadata_created": "2015-05-20T17:50:08.057502", 
+            "metadata_modified": "2017-07-21T04:01:06.600029", 
+            "organization_description": "", 
+            "relationships_as_object": [], 
+            "relationships_as_subject": [], 
+            "resources": [
+                {
+                    "format": "XML", 
+                    "hash": "md5:52a44282fa3bd69541221e741e2d4e4f", 
+                    "last_modified": "2017-07-19T00:01:57.907004", 
+                    "name": "ditches", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/d4a06f9b-a8e1-489d-bf55-26b23976790d/resource/218e712e-90e7-4e58-8e55-6c25d20328ba/download/ditches.xml"
+                }, 
+                {
+                    "format": "CSV", 
+                    "hash": "md5:7cbad5322428eb3ff3ec041308c6a9ad", 
+                    "last_modified": "2017-07-19T00:01:59.150096", 
+                    "name": "ditches", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/d4a06f9b-a8e1-489d-bf55-26b23976790d/resource/b266912b-c486-44ce-935f-657766b0f0a6/download/ditches.csv"
+                }, 
+                {
+                    "format": "KMZ", 
+                    "hash": "md5:f7afc7225d0ebcafe6318d210603fcb2", 
+                    "last_modified": "2017-07-21T00:01:05.719297", 
+                    "name": "ditches", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/d4a06f9b-a8e1-489d-bf55-26b23976790d/resource/51296063-908e-45ee-a808-745bfcce0e21/download/ditches.kmz"
+                }, 
+                {
+                    "format": "dwg", 
+                    "hash": "md5:dfcf68b4749508eb6de3b6135974caf6", 
+                    "last_modified": "2017-07-20T00:01:05.848503", 
+                    "name": "ditches", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/d4a06f9b-a8e1-489d-bf55-26b23976790d/resource/3f62325c-9b5b-4a73-94af-4d155c3db464/download/ditches.dwg"
+                }, 
+                {
+                    "format": "SHP", 
+                    "hash": "md5:f394ed9d34ddd9f4d4ac091faf837f57", 
+                    "last_modified": "2017-07-19T00:01:56.568503", 
+                    "name": "ditches", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/d4a06f9b-a8e1-489d-bf55-26b23976790d/resource/aad6eaf8-9447-40cf-b01e-3b17bfcd2519/download/ditches.shp.zip"
+                }, 
+                {
+                    "format": "GeoJSON", 
+                    "hash": "", 
+                    "last_modified": null, 
+                    "name": "ditches", 
+                    "state": "active", 
+                    "url": "http://data.ottawa.ca/dataset/d4a06f9b-a8e1-489d-bf55-26b23976790d/resource/ea3e68d9-c81e-492e-b609-6481387dc029/download/ditches.json"
+                }
+            ], 
+            "revision_id": "b8a4e89d-c154-49a8-b20d-0cb61b590645", 
+            "tags": [], 
+            "title": {
+                "en": "Ditches", 
+                "fr": "Foss\u00e9s"
+            }
+        }, 
+        {
             "author": "Audrey Laidlaw", 
             "license_title": "Open Data License 2.0", 
             "metadata_created": "2015-05-20T17:49:16.355501", 
@@ -359,492 +1046,6 @@
             "title": {
                 "en": "Recreation Guides", 
                 "fr": "Guides des loisirs"
-            }
-        }, 
-        {
-            "author": "Warren Bedford", 
-            "license_title": "Open Data License 2.0", 
-            "metadata_created": "2015-05-20T17:49:50.315247", 
-            "metadata_modified": "2017-07-17T04:01:13.453933", 
-            "organization_description": "", 
-            "relationships_as_object": [], 
-            "relationships_as_subject": [], 
-            "resources": [
-                {
-                    "format": "CSV", 
-                    "hash": "md5:45a6bde3ce3c10f83b25ddf2cc751d9f", 
-                    "last_modified": "2017-07-17T00:01:13.288441", 
-                    "name": "Sports_Fields", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/afdfcd85-7cff-45a8-94a5-6f74fd6e3498/resource/48aecbdc-446f-460a-9683-028cde0e564b/download/sportsfields.csv"
-                }, 
-                {
-                    "format": "dwg", 
-                    "hash": "md5:f5fe9c3fafa2f648f0cf93edbd3687d0", 
-                    "last_modified": "2017-07-04T00:01:04.159966", 
-                    "name": "Sports_Fields", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/afdfcd85-7cff-45a8-94a5-6f74fd6e3498/resource/aea2511f-a608-457b-aba8-b4bbc501bc86/download/sportsfields.dwg"
-                }, 
-                {
-                    "format": "dwg.xml", 
-                    "hash": "md5:d565bb514cd1f4b6adaa9a69a229f4ce", 
-                    "last_modified": "2013-06-20T13:45:56", 
-                    "name": "Sports_Fields", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/afdfcd85-7cff-45a8-94a5-6f74fd6e3498/resource/37cd25a7-6936-4f15-9b43-ebddf1214ab6/download/prsportsfields.dwg.xml"
-                }, 
-                {
-                    "format": "KMZ", 
-                    "hash": "md5:08a6f872b5d8f8330c5944651245516e", 
-                    "last_modified": "2017-07-05T00:01:05.209474", 
-                    "name": "Sports_Fields", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/afdfcd85-7cff-45a8-94a5-6f74fd6e3498/resource/3331cdf0-5d5b-410b-bf37-5c4df70767c5/download/sportsfields.kmz"
-                }, 
-                {
-                    "format": "XML", 
-                    "hash": "md5:4de8fc8e80dccca01d87ae540b56e469", 
-                    "last_modified": "2017-07-17T00:01:12.025688", 
-                    "name": "Sports_Fields", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/afdfcd85-7cff-45a8-94a5-6f74fd6e3498/resource/4a0cd5bd-06c5-4f86-9c02-01a84bff5021/download/sportsfields.xml"
-                }, 
-                {
-                    "format": "SHP", 
-                    "hash": "md5:28b0c978a523299ff09c10d3c4367fa4", 
-                    "last_modified": "2017-07-17T00:01:10.513842", 
-                    "name": "Sports-Fields", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/afdfcd85-7cff-45a8-94a5-6f74fd6e3498/resource/c0d83938-5b22-455c-9c58-3da5f24ae673/download/sports-fields.shp.zip"
-                }, 
-                {
-                    "format": "GeoJSON", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Sports-Fields", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/afdfcd85-7cff-45a8-94a5-6f74fd6e3498/resource/53f1635e-beb9-4cef-bfc4-4ab36898b3f7/download/sports-fields.json"
-                }
-            ], 
-            "revision_id": "06b8e9a0-eb20-4db0-a10a-095a10a3944d", 
-            "tags": [
-                {
-                    "tag_id": "9222b3b1-f4ab-4370-9911-b400147993cc", 
-                    "tag_name": "Cricket"
-                }, 
-                {
-                    "tag_id": "494f94bb-4765-4cca-a92a-ed069a9e1955", 
-                    "tag_name": "Fields"
-                }, 
-                {
-                    "tag_id": "24a80051-5bf9-4e63-b257-ac3f8f357636", 
-                    "tag_name": "Football"
-                }, 
-                {
-                    "tag_id": "468e571a-a1e3-4f02-90da-030018bbcc01", 
-                    "tag_name": "Rugby"
-                }, 
-                {
-                    "tag_id": "6430e30c-13cc-42e7-8b19-e70ff07df08f", 
-                    "tag_name": "Soccer"
-                }, 
-                {
-                    "tag_id": "1348190b-2d72-4d57-91ce-49029c799b67", 
-                    "tag_name": "Sports Fields"
-                }, 
-                {
-                    "tag_id": "1d7aa149-e463-4cc7-9324-89564f48b665", 
-                    "tag_name": "Ultimate"
-                }
-            ], 
-            "title": {
-                "en": "Sports Fields", 
-                "fr": "Terrains sports"
-            }
-        }, 
-        {
-            "author": "Warren Bedford", 
-            "license_title": "Open Data License 2.0", 
-            "metadata_created": "2015-05-20T17:49:24.372284", 
-            "metadata_modified": "2017-07-17T04:01:03.925351", 
-            "organization_description": "", 
-            "relationships_as_object": [], 
-            "relationships_as_subject": [], 
-            "resources": [
-                {
-                    "format": "CSV", 
-                    "hash": "md5:14b9f2ad773ed9ffc8cbaf2d5e7cf913", 
-                    "last_modified": "2017-07-15T00:01:10.300612", 
-                    "name": "Basketball_Courts", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/859ab3c4-c68c-4bf2-8ba1-1d7f3fe569e1/resource/2e6c7974-abf9-4330-bda4-708d34a94eb7/download/basketballcourts.csv"
-                }, 
-                {
-                    "format": "dwg", 
-                    "hash": "md5:1e506e8fcb4b383baf37cdd3ec57b35f", 
-                    "last_modified": "2017-07-16T00:01:03.075953", 
-                    "name": "Basketball_Courts", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/859ab3c4-c68c-4bf2-8ba1-1d7f3fe569e1/resource/75242f6a-e5d3-4da8-9e8f-aec3cbff815e/download/basketballcourts.dwg"
-                }, 
-                {
-                    "format": "dwg.xml", 
-                    "hash": "md5:9474ae0e2852e1d34a877333e3d8e4bc", 
-                    "last_modified": "2013-06-20T08:45:57", 
-                    "name": "Basketball_Courts", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/859ab3c4-c68c-4bf2-8ba1-1d7f3fe569e1/resource/c60ad3c9-70cc-45a0-8be3-863726a623ea/download/prbasketballcourts.dwg.xml"
-                }, 
-                {
-                    "format": "KMZ", 
-                    "hash": "md5:d1ea2b550ac0804091bd75ce537c647a", 
-                    "last_modified": "2017-07-17T00:01:03.782201", 
-                    "name": "Basketball_Courts", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/859ab3c4-c68c-4bf2-8ba1-1d7f3fe569e1/resource/5eea9893-1a28-4cb2-8ca1-b91acacdb0ae/download/basketballcourts.kmz"
-                }, 
-                {
-                    "format": "XML", 
-                    "hash": "md5:0d0d2a1dda5a4f6233726cf781c6d136", 
-                    "last_modified": "2017-07-15T00:01:09.147609", 
-                    "name": "Basketball_Courts", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/859ab3c4-c68c-4bf2-8ba1-1d7f3fe569e1/resource/5d4f4fe8-c964-41a7-a3b3-b4cbd3d924cf/download/basketballcourts.xml"
-                }, 
-                {
-                    "format": "SHP", 
-                    "hash": "md5:7ff7cbd0e89c6081324ddf4faef179e4", 
-                    "last_modified": "2017-07-15T00:01:07.796615", 
-                    "name": "Basketball-Courts", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/859ab3c4-c68c-4bf2-8ba1-1d7f3fe569e1/resource/98bf9f4b-16d8-423d-99eb-06cb836d44c2/download/basketball-courts.shp.zip"
-                }, 
-                {
-                    "format": "GeoJSON", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Basketball-Courts", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/859ab3c4-c68c-4bf2-8ba1-1d7f3fe569e1/resource/6b31ac68-f27d-4b78-9eba-6f54adfe9999/download/basketball-courts.json"
-                }
-            ], 
-            "revision_id": "e4886850-4d59-4d5e-ba82-ecbd6afa290d", 
-            "tags": [
-                {
-                    "tag_id": "fe6e8b3a-19a2-4a40-9883-815eb5f2aaa7", 
-                    "tag_name": "Basketball Courts"
-                }
-            ], 
-            "title": {
-                "en": "Basketball Courts", 
-                "fr": "Terrains basket balle"
-            }
-        }, 
-        {
-            "author": "City of Ottawa", 
-            "license_title": "Open Data License 2.0", 
-            "metadata_created": "2015-10-19T12:36:22.371629", 
-            "metadata_modified": "2017-07-15T04:01:03.997689", 
-            "organization_description": "", 
-            "relationships_as_object": [], 
-            "relationships_as_subject": [], 
-            "resources": [
-                {
-                    "format": "SHP", 
-                    "hash": "", 
-                    "last_modified": "2016-01-05T00:01:03.234590", 
-                    "name": "urban-transit-area:shp", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/704e1968-69c7-4c95-97cd-d988de291cae/resource/2c2dfe61-d9ee-45de-bea8-9130b1865e7e/download/urban-transit-areashp.shp.zip"
-                }, 
-                {
-                    "format": "CSV", 
-                    "hash": "", 
-                    "last_modified": "2017-07-13T00:01:06.071426", 
-                    "name": "urban-transit-area:csv", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/704e1968-69c7-4c95-97cd-d988de291cae/resource/0a35b372-19c6-4817-b7a8-92589b5259e8/download/urban-transit-areacsv.csv"
-                }, 
-                {
-                    "format": "dwg", 
-                    "hash": "", 
-                    "last_modified": "2017-07-14T00:01:03.251415", 
-                    "name": "urban-transit-area:dwg", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/704e1968-69c7-4c95-97cd-d988de291cae/resource/b764698a-7483-4cbd-b725-2c2293608a65/download/urban-transit-areadwg.dwg"
-                }, 
-                {
-                    "format": "KMZ", 
-                    "hash": "", 
-                    "last_modified": "2017-07-15T00:01:03.736338", 
-                    "name": "urban-transit-area:kmz", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/704e1968-69c7-4c95-97cd-d988de291cae/resource/8ae44728-d3eb-4293-81a2-eb3fb3b3b098/download/urban-transit-areakmz.kmz"
-                }
-            ], 
-            "revision_id": "e7bb4a47-63d7-49a4-bb27-2163e8410fc8", 
-            "tags": [], 
-            "title": {
-                "en": "Urban Transit Area", 
-                "fr": "Zone urbaine de transport en commun "
-            }
-        }, 
-        {
-            "author": "Warren Bedford", 
-            "license_title": "Open Data License 2.0", 
-            "metadata_created": "2015-05-20T17:48:51.176986", 
-            "metadata_modified": "2017-07-13T04:01:04.318050", 
-            "organization_description": "", 
-            "relationships_as_object": [], 
-            "relationships_as_subject": [], 
-            "resources": [
-                {
-                    "format": "CSV", 
-                    "hash": "md5:525abd3e03829c2af87216e718e6ae6f", 
-                    "last_modified": "2017-07-11T00:01:06.150542", 
-                    "name": "Lawn_Bowling", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/524256b7-b863-4fb0-8761-65f1084af8d3/resource/16f3597c-ec0b-4998-804c-0def5841b6c0/download/lawnbowling.csv"
-                }, 
-                {
-                    "format": "dwg", 
-                    "hash": "md5:f21cb87ea7c832385de2bff773f4146d", 
-                    "last_modified": "2017-07-12T00:01:03.732336", 
-                    "name": "Lawn_Bowling", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/524256b7-b863-4fb0-8761-65f1084af8d3/resource/9467645f-0ce8-4d84-a373-ba53f1b26467/download/lawnbowling.dwg"
-                }, 
-                {
-                    "format": "dwg.xml", 
-                    "hash": "md5:b212e25f83d5f88a3f3beba2245a4d2e", 
-                    "last_modified": "2013-06-20T08:28:50", 
-                    "name": "Lawn_Bowling", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/524256b7-b863-4fb0-8761-65f1084af8d3/resource/77309049-a618-4eb5-9213-b9d3a629e73b/download/prlawnbowling.dwg.xml"
-                }, 
-                {
-                    "format": "KMZ", 
-                    "hash": "md5:5993e1248dd12cad17624fd61f7ea6be", 
-                    "last_modified": "2017-07-13T00:01:04.173535", 
-                    "name": "Lawn_Bowling", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/524256b7-b863-4fb0-8761-65f1084af8d3/resource/0f5b7c1b-eeb9-4d26-bc22-e3b2626d9312/download/lawnbowling.kmz"
-                }, 
-                {
-                    "format": "XML", 
-                    "hash": "md5:bb5b27f1dc1489089ed0cd965e0833af", 
-                    "last_modified": "2017-07-11T00:01:04.933464", 
-                    "name": "Lawn_Bowling", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/524256b7-b863-4fb0-8761-65f1084af8d3/resource/c978a063-ac66-4fb8-bb19-9f1dc810d378/download/lawnbowling.xml"
-                }, 
-                {
-                    "format": "SHP", 
-                    "hash": "md5:2eb54702f88ff76a7498f59a51bb8050", 
-                    "last_modified": "2017-07-11T00:01:03.468471", 
-                    "name": "Lawn-Bowling", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/524256b7-b863-4fb0-8761-65f1084af8d3/resource/2877eaa7-56e5-4417-9917-7a580a7f38ca/download/lawn-bowling.shp.zip"
-                }, 
-                {
-                    "format": "GeoJSON", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Lawn-Bowling", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/524256b7-b863-4fb0-8761-65f1084af8d3/resource/d1432625-24d6-4a81-ba90-2b66199c2cb3/download/lawn-bowling.json"
-                }
-            ], 
-            "revision_id": "51f87ec3-1502-42f9-b0c1-e134e441590c", 
-            "tags": [
-                {
-                    "tag_id": "c8a61a2e-e079-4e5a-a2dd-366f21b5a9c0", 
-                    "tag_name": "Lawn Bowling"
-                }
-            ], 
-            "title": {
-                "en": "Lawn Bowling", 
-                "fr": "Terrains boulingrin"
-            }
-        }, 
-        {
-            "author": "City of Ottawa", 
-            "license_title": "Open Data License 2.0", 
-            "metadata_created": "2015-10-19T13:01:42.004716", 
-            "metadata_modified": "2017-07-10T04:01:06.854610", 
-            "organization_description": "", 
-            "relationships_as_object": [], 
-            "relationships_as_subject": [], 
-            "resources": [
-                {
-                    "format": "SHP", 
-                    "hash": "", 
-                    "last_modified": "2017-07-09T00:01:11.378193", 
-                    "name": "wards-2014:shp", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/8321248d-0b86-47cd-9c83-c848a1bc0098/resource/8152e707-fc28-409c-9bbe-8cb9f88dca86/download/wards-2014shp.shp.zip"
-                }, 
-                {
-                    "format": "CSV", 
-                    "hash": "", 
-                    "last_modified": "2017-07-09T00:01:12.551540", 
-                    "name": "wards-2014:csv", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/8321248d-0b86-47cd-9c83-c848a1bc0098/resource/3dec3c38-1644-4542-a91c-db7883a80463/download/wards-2014csv.csv"
-                }, 
-                {
-                    "format": "dwg", 
-                    "hash": "", 
-                    "last_modified": "2017-07-10T00:01:06.627628", 
-                    "name": "wards-2014:dwg", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/8321248d-0b86-47cd-9c83-c848a1bc0098/resource/32e43199-b3d3-4000-88a8-aa62faea18ad/download/wards-2014dwg.dwg"
-                }, 
-                {
-                    "format": "KMZ", 
-                    "hash": "", 
-                    "last_modified": "2017-03-01T00:01:18.642589", 
-                    "name": "wards-2014:kmz", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/8321248d-0b86-47cd-9c83-c848a1bc0098/resource/d63e4443-febd-4d4a-ba9a-444d49c10124/download/wards-2014kmz.kmz"
-                }
-            ], 
-            "revision_id": "8c046c86-bfa8-4558-bad0-bf8462440d0c", 
-            "tags": [], 
-            "title": {
-                "en": "Wards 2014", 
-                "fr": "Quartiers 2014"
-            }
-        }, 
-        {
-            "author": "Surveys and Mapping / Lev\u00e9s et Cartographie", 
-            "license_title": "Open Data License 2.0", 
-            "metadata_created": "2015-05-20T17:49:53.365891", 
-            "metadata_modified": "2017-07-09T04:01:05.658826", 
-            "organization_description": "", 
-            "relationships_as_object": [], 
-            "relationships_as_subject": [], 
-            "resources": [
-                {
-                    "format": "XML", 
-                    "hash": "md5:963391baf40791b6b16f04c71d57587f", 
-                    "last_modified": "2017-07-07T00:01:12.362586", 
-                    "name": "neighbourhood-names", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/b9424bfe-6632-4bf9-a5e3-169a76d05a28/resource/8ba8cee1-638f-443b-9aad-b12f3121e2ce/download/neighbourhood-names.xml"
-                }, 
-                {
-                    "format": "CSV", 
-                    "hash": "md5:be8cd86aefac3cdb55eebe8d4dd99806", 
-                    "last_modified": "2017-07-07T00:01:13.516349", 
-                    "name": "neighbourhood-names", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/b9424bfe-6632-4bf9-a5e3-169a76d05a28/resource/9be3e198-934f-4525-8c90-19819dcc3531/download/neighbourhood-names.csv"
-                }, 
-                {
-                    "format": "KMZ", 
-                    "hash": "md5:ef4fff8ff8f982bf28a622c336f7f687", 
-                    "last_modified": "2017-07-09T00:01:05.548786", 
-                    "name": "neighbourhood-names", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/b9424bfe-6632-4bf9-a5e3-169a76d05a28/resource/73f7d33e-cf85-4c7b-a67f-e143e97ec528/download/neighbourhood-names.kmz"
-                }, 
-                {
-                    "format": "dwg", 
-                    "hash": "md5:6b39957ea6d0d11af42dee275ba543a9", 
-                    "last_modified": "2017-07-08T00:01:05.665551", 
-                    "name": "neighbourhood-names", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/b9424bfe-6632-4bf9-a5e3-169a76d05a28/resource/8596799d-cbd6-4073-81de-10a1fd4cdc99/download/neighbourhood-names.dwg"
-                }, 
-                {
-                    "format": "SHP", 
-                    "hash": "md5:ebbd7ca54344c830a6061ac6ba7791ba", 
-                    "last_modified": "2017-07-07T00:01:11.030004", 
-                    "name": "neighbourhood-names", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/b9424bfe-6632-4bf9-a5e3-169a76d05a28/resource/5719b275-0dea-40cf-8f93-c2cb41808a19/download/neighbourhood-names.shp.zip"
-                }, 
-                {
-                    "format": "GeoJSON", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "neighbourhood-names", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/b9424bfe-6632-4bf9-a5e3-169a76d05a28/resource/6aba4a6c-5e87-46d7-85fd-69bda81e9a03/download/neighbourhood-names.json"
-                }
-            ], 
-            "revision_id": "94f2d9a8-ac98-4064-b456-216d77d283eb", 
-            "tags": [], 
-            "title": {
-                "en": "Neighbourhood Names", 
-                "fr": "Nom des quartiers"
-            }
-        }, 
-        {
-            "author": "Surveys and Mapping / Lev\u00e9s et Cartographie", 
-            "license_title": "Open Data License 2.0", 
-            "metadata_created": "2015-05-20T17:50:08.057502", 
-            "metadata_modified": "2017-07-07T04:01:05.488202", 
-            "organization_description": "", 
-            "relationships_as_object": [], 
-            "relationships_as_subject": [], 
-            "resources": [
-                {
-                    "format": "XML", 
-                    "hash": "md5:52a44282fa3bd69541221e741e2d4e4f", 
-                    "last_modified": "2017-07-05T00:01:57.955769", 
-                    "name": "ditches", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/d4a06f9b-a8e1-489d-bf55-26b23976790d/resource/218e712e-90e7-4e58-8e55-6c25d20328ba/download/ditches.xml"
-                }, 
-                {
-                    "format": "CSV", 
-                    "hash": "md5:7cbad5322428eb3ff3ec041308c6a9ad", 
-                    "last_modified": "2017-07-05T00:01:59.242645", 
-                    "name": "ditches", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/d4a06f9b-a8e1-489d-bf55-26b23976790d/resource/b266912b-c486-44ce-935f-657766b0f0a6/download/ditches.csv"
-                }, 
-                {
-                    "format": "KMZ", 
-                    "hash": "md5:f7afc7225d0ebcafe6318d210603fcb2", 
-                    "last_modified": "2017-07-07T00:01:04.668757", 
-                    "name": "ditches", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/d4a06f9b-a8e1-489d-bf55-26b23976790d/resource/51296063-908e-45ee-a808-745bfcce0e21/download/ditches.kmz"
-                }, 
-                {
-                    "format": "dwg", 
-                    "hash": "md5:dfcf68b4749508eb6de3b6135974caf6", 
-                    "last_modified": "2017-07-06T00:01:05.750718", 
-                    "name": "ditches", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/d4a06f9b-a8e1-489d-bf55-26b23976790d/resource/3f62325c-9b5b-4a73-94af-4d155c3db464/download/ditches.dwg"
-                }, 
-                {
-                    "format": "SHP", 
-                    "hash": "md5:f394ed9d34ddd9f4d4ac091faf837f57", 
-                    "last_modified": "2017-07-05T00:01:56.512957", 
-                    "name": "ditches", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/d4a06f9b-a8e1-489d-bf55-26b23976790d/resource/aad6eaf8-9447-40cf-b01e-3b17bfcd2519/download/ditches.shp.zip"
-                }, 
-                {
-                    "format": "GeoJSON", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "ditches", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/d4a06f9b-a8e1-489d-bf55-26b23976790d/resource/ea3e68d9-c81e-492e-b609-6481387dc029/download/ditches.json"
-                }
-            ], 
-            "revision_id": "b8a4e89d-c154-49a8-b20d-0cb61b590645", 
-            "tags": [], 
-            "title": {
-                "en": "Ditches", 
-                "fr": "Foss\u00e9s"
             }
         }, 
         {
@@ -2129,56 +2330,6 @@
             }
         }, 
         {
-            "author": "Ryan Furuness", 
-            "license_title": "Open Data License 2.0", 
-            "metadata_created": "2015-05-20T17:50:20.646398", 
-            "metadata_modified": "2017-06-24T14:59:30.281952", 
-            "organization_description": "", 
-            "relationships_as_object": [], 
-            "relationships_as_subject": [], 
-            "resources": [
-                {
-                    "format": "XLS", 
-                    "hash": "md5:10bb763a0807d9186d21c18d1a2b06de", 
-                    "last_modified": "2014-08-17T09:23:01", 
-                    "name": "Beach sampling results 2017.xls", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/f0d680ed-09d7-4e51-bdb0-00e95648ff9d/resource/ab85fe8e-98c4-4388-9dc3-2839890f637d/download/shealthhealth-protection-divisionenvironmental-healthbeaches2017-beachesbeach-data-excel-sheets.xlsx"
-                }
-            ], 
-            "revision_id": "594e0a38-f62f-48d0-aa4c-4598b4a17e60", 
-            "tags": [], 
-            "title": {
-                "en": "Beach water sampling data", 
-                "fr": "Donn\u00e9es d\u2019\u00e9chantillonnage de l\u2019eau des plages"
-            }
-        }, 
-        {
-            "author": "Justin Hoppner", 
-            "license_title": "Open Data License 2.0", 
-            "metadata_created": "2016-12-01T15:21:10.810225", 
-            "metadata_modified": "2017-06-16T19:35:39.328160", 
-            "organization_description": "", 
-            "relationships_as_object": [], 
-            "relationships_as_subject": [], 
-            "resources": [
-                {
-                    "format": "XLSX", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Biosolids Quality_qualit\u00e9 des biosolides - 05/24/2017", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/dataset/2886ebb9-a58b-447d-b57a-7676c3cd3302/resource/5b6d212e-f8cb-4498-80f1-9c95714a75d2/download/biosolids-qualityqualite-des-biosolides05242017.xlsx"
-                }
-            ], 
-            "revision_id": "979b1d7e-9042-4ea6-808f-ced88a803159", 
-            "tags": [], 
-            "title": {
-                "en": "Biosolids quality", 
-                "fr": "La qualit\u00e9 des biosolides"
-            }
-        }, 
-        {
             "author": "GIS Team", 
             "license_title": "Open Data License 2.0", 
             "metadata_created": "2015-08-20T19:52:17.291285", 
@@ -2409,76 +2560,6 @@
             "title": {
                 "en": "Tennis Courts", 
                 "fr": "Courts de tennis"
-            }
-        }, 
-        {
-            "author": "Robert Giggey", 
-            "license_title": "Open Data License 2.0", 
-            "metadata_created": "2017-03-01T19:06:57.562752", 
-            "metadata_modified": "2017-04-07T13:48:51.537682", 
-            "organization_description": "", 
-            "relationships_as_object": [], 
-            "relationships_as_subject": [], 
-            "resources": [
-                {
-                    "format": "API", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Open311-dev", 
-                    "state": "active", 
-                    "url": "https://city-of-ottawa-dev.apigee.net/open311/v2"
-                }, 
-                {
-                    "format": "API", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "GIS-dev", 
-                    "state": "active", 
-                    "url": "https://city-of-ottawa-dev.apigee.net/gis/v1"
-                }, 
-                {
-                    "format": "PDF", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Developer documentation English", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/en/dataset/b8e69d48-2a7d-4bd4-84c0-e764357ac726/resource/3b3dae5d-0308-43ed-9e3f-65703b5fd918/download/open311-georeportv2-city-of-ottawa-developer-documentationproden.docx"
-                }, 
-                {
-                    "format": "PDF", 
-                    "hash": "", 
-                    "last_modified": null, 
-                    "name": "Documentation pour les d\u00e9veloppeurs de la Ville d\u2019Ottawa sur Open311 ", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca/en/dataset/b8e69d48-2a7d-4bd4-84c0-e764357ac726/resource/6fdb94d4-013d-434a-8ae8-17188e1364fe/download/open311-georeportv2-city-of-ottawa-developer-documentationprodfre.docx"
-                }
-            ], 
-            "revision_id": "be2ac839-9c70-4acd-83e7-06eb4e2dfe49", 
-            "tags": [
-                {
-                    "tag_id": "2b8f06de-dcb0-49a9-8af3-75d306ddf993", 
-                    "tag_name": "311"
-                }, 
-                {
-                    "tag_id": "27ad3191-3669-4ac8-bee3-c483ad2308de", 
-                    "tag_name": "appels de service"
-                }, 
-                {
-                    "tag_id": "580819cc-195b-42fe-bb41-45562129ac42", 
-                    "tag_name": "calls for service"
-                }, 
-                {
-                    "tag_id": "50bc7af8-5141-4634-91c3-b0f50b4e5ac7", 
-                    "tag_name": "demande de service"
-                }, 
-                {
-                    "tag_id": "80b2c683-248f-42e0-a4de-145c7bf55d33", 
-                    "tag_name": "service requests"
-                }
-            ], 
-            "title": {
-                "en": "Open311", 
-                "fr": "Open311"
             }
         }, 
         {
@@ -6213,87 +6294,6 @@
             "title": {
                 "en": "Public Drinking Water Fountains Maintained by City of Ottawa", 
                 "fr": "Fontaines d\u2019eau potable publiques entretenues par la Ville d\u2019Ottawa"
-            }
-        }, 
-        {
-            "author": "Ben Dick", 
-            "license_title": "Open Data License 2.0", 
-            "metadata_created": "2016-02-17T04:47:16.419412", 
-            "metadata_modified": "2016-09-08T13:26:23.956367", 
-            "organization_description": "", 
-            "relationships_as_object": [], 
-            "relationships_as_subject": [], 
-            "resources": [
-                {
-                    "format": ".csv", 
-                    "hash": "md5:a7e45379d8e90a2d403545d398d8720f", 
-                    "last_modified": "2014-09-25T11:30:55", 
-                    "name": "2016-03-05/BUILT_HERITAGE.csv", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca//dataset/eb00fb25-93bf-4565-82c7-e63454bc7d1d/resource/3fe5d417-c187-4df8-93ce-525e151017a7/download/builtheritage160305.csv"
-                }, 
-                {
-                    "format": ".csv", 
-                    "hash": "md5:a4f3f28d01c57e7146e413f746cef0e9", 
-                    "last_modified": "2014-10-08T10:49:20", 
-                    "name": "2016-01-18/BUSINESSES.csv", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca//dataset/eb00fb25-93bf-4565-82c7-e63454bc7d1d/resource/36da1f62-90fc-437e-876c-c2b7d6fa7895/download/businesses160118.csv"
-                }, 
-                {
-                    "format": ".csv", 
-                    "hash": "md5:8b0aa9d603b3b03f6a570011209a8fb8", 
-                    "last_modified": "2014-10-08T10:49:49", 
-                    "name": "2016-09-08/FACILITIES.csv", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca//dataset/eb00fb25-93bf-4565-82c7-e63454bc7d1d/resource/c7c76ec1-c729-4003-af46-b6f954fa70e7/download/facilities160908.csv"
-                }, 
-                {
-                    "format": ".csv", 
-                    "hash": "md5:424b9fdf1fe3ea730f33355e545d9b61", 
-                    "last_modified": "2016-05-29T00:00:00", 
-                    "name": "2016-03-29/FESTIVALS.csv", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca//dataset/eb00fb25-93bf-4565-82c7-e63454bc7d1d/resource/25f01e72-c933-4742-8be0-3806ea10e368/download/festivals160329.csv"
-                }, 
-                {
-                    "format": ".csv", 
-                    "hash": "md5:4f4971f26b5731e40150c1a2ddc4cd34", 
-                    "last_modified": "2014-10-08T10:50:21", 
-                    "name": "2016-01-18/NATURAL_HERITAGE.csv", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca//dataset/eb00fb25-93bf-4565-82c7-e63454bc7d1d/resource/cc76455d-f3b3-488d-b5f6-e38d2cb4e373/download/naturalheritage160118.csv"
-                }, 
-                {
-                    "format": ".csv", 
-                    "hash": "md5:1f8d63c7569b77bdd97699fc1fbee829", 
-                    "last_modified": "2014-10-08T10:50:37", 
-                    "name": "2016-04-21/ORGANIZATIONS.csv", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca//dataset/eb00fb25-93bf-4565-82c7-e63454bc7d1d/resource/499da4e8-96b9-400f-b26f-893fad651442/download/organizations20160421.csv"
-                }, 
-                {
-                    "format": ".csv", 
-                    "hash": "md5:e300eb34bc8a84ba87ebac53674a7dce", 
-                    "last_modified": "2014-10-08T10:51:15", 
-                    "name": "2016-03-07/PUBLIC_ART.csv", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca//dataset/eb00fb25-93bf-4565-82c7-e63454bc7d1d/resource/ece8cb83-d78e-4db1-a917-2eb375518652/download/publicart160307.csv"
-                }, 
-                {
-                    "format": ".csv", 
-                    "hash": "md5:84826ec341fb70e6866f8528722f1821", 
-                    "last_modified": "2014-10-08T10:51:31", 
-                    "name": "2016-03-03/UMBRELLA.csv", 
-                    "state": "active", 
-                    "url": "http://data.ottawa.ca//dataset/eb00fb25-93bf-4565-82c7-e63454bc7d1d/resource/b4684fec-b645-410c-982c-23d6500f15c4/download/umbrella160303.csv"
-                }
-            ], 
-            "revision_id": "4f805228-1d22-43bd-8536-3c1fc0550e5e", 
-            "tags": [], 
-            "title": {
-                "en": "Cultural Resources (from OttawaXYZ)", 
-                "fr": "Ressources culturelles (figurant sur OttawaXYZ)"
             }
         }, 
         {
