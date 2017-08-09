@@ -16,3 +16,16 @@
   margin:5px 0 !important;
   display: block !important;
 }
+
+hr{
+  margin:0 0 10px !important;
+}
+
+.info-data-table{
+  max-height: 250px;
+  overflow-y: scroll;
+}
+
+.stats-container{
+  overflow-x: scroll;
+}

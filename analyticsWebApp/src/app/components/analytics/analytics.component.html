@@ -14,7 +14,7 @@
             <fieldset>
             <div class="form-group">
               <label>Instancia</label>
-              <select class="form-control" [(ngModel)]="instance_selected" name="instances">
+              <select class="form-control" [(ngModel)]="instance_selected" (ngModelChange)="onChangeInstance($event)" name="instances">
                 <option value="" disabled selected>Selecciona una instancia</option>
                 <option *ngFor="let option of names_options"  [value]="option">
                   &nbsp;- {{option}}
@@ -32,16 +32,24 @@
               </div>
               <div class="form-group">
                 <label class="radio-inline" style="display:block;">
-                  <input type="radio" [(ngModel)]="radio_option_sel" name="opciones" value="organization_description">
+                  <input type="radio" [(ngModel)]="radio_option_sel" (ngModelChange)="onChangeOption($event)" name="opciones" value="organization_description">
                   Descripcion de la organizacion
                 </label>
                 <label class="radio-inline">
-                  <input type="radio" [(ngModel)]="radio_option_sel" name="opciones" value="author">
+                  <input type="radio" [(ngModel)]="radio_option_sel" (ngModelChange)="onChangeOption($event)" name="opciones" value="author">
                   Autores
                 </label>
                 <label class="radio-inline">
-                  <input type="radio" [(ngModel)]="radio_option_sel" name="opciones" value="license_title">
+                  <input type="radio" [(ngModel)]="radio_option_sel" (ngModelChange)="onChangeOption($event)" name="opciones" value="license">
                   Licencias
+                </label>
+                <label class="radio-inline">
+                  <input type="radio" [(ngModel)]="radio_option_sel" (ngModelChange)="onChangeOption($event)" name="opciones" value="resources">
+                  Formatos de recursos
+                </label>
+                <label class="radio-inline">
+                  <input type="radio" [(ngModel)]="radio_option_sel" (ngModelChange)="onChangeOption($event)" name="opciones" value="relationships">
+                  Relaciones como objeto y sujeto
                 </label>
               </div>
               <div class="form-group">
@@ -53,8 +61,17 @@
         </div>
       </div>
     </div>
-    <div class="col-md-8" *ngIf="graph_data">
-      <nvd3 [options]="graph_options" [data]="graph_data"></nvd3>
+    <div class="col-md-8 stats-container" *ngIf="graph_control">
+      <piechart
+        *ngIf="radio_option_sel == 'author' || radio_option_sel == 'organization_description'"
+        [data]="instance_metadata"
+        [option]="radio_option_sel">
+      </piechart>
+      <barchart
+        *ngIf="radio_option_sel == 'license' || radio_option_sel == 'resources' || radio_option_sel == 'relationships'"
+        [data]="instance_metadata"
+        [option]="radio_option_sel">
+      </barchart>
     </div>
 
 

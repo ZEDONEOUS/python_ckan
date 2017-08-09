@@ -11,12 +11,16 @@ import { NvD3Component } from 'ng2-nvd3';
 
 import 'd3';
 import 'nvd3';
+import { PiechartComponent } from './components/piechart/piechart.component';
+import { BarchartComponent } from './components/barchart/barchart.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     NvD3Component,
-    AnalyticsComponent
+    AnalyticsComponent,
+    PiechartComponent,
+    BarchartComponent
   ],
   imports: [
     BrowserModule,
