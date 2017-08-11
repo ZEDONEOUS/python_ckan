@@ -44,3 +44,22 @@ Para la ejecución del servicio rest para el consumo local de datasets.
 ```
 python app.py
 ```
+
+## Aplicación de analytics
+### Librerías necesarias para la ejecución de la aplicación
+Para la instalacion de las dependencias para la ejecución de la aplicacón
+hay que ingresar al directorio **AnalyticsWebApp** y ejecutar el comando
+```
+npm install
+```
+El cual instalara todas las dependencias listadas en el archívo package.json
+
+Ademas se es necesario tener angular instalado en la maquina donde se ejecutara la aplicación
+de la siguiente manera:
+```
+npm install -g @angular/cli
+```
+
+**Tener en cuenta que para la ejecución correcta de la aplicación hay que tener instalado nodejs version 8 o superior**
+
+### Ejecucion
