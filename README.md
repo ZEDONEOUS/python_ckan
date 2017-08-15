@@ -47,7 +47,7 @@ python app.py
 
 ## Aplicación de analytics
 ### Librerías necesarias para la ejecución de la aplicación
-Para la instalacion de las dependencias para la ejecución de la aplicacón
+Para la instalación de las dependencias para la ejecución de la aplicacón
 hay que ingresar al directorio **AnalyticsWebApp** y ejecutar el comando
 ```
 npm install
@@ -63,3 +63,13 @@ npm install -g @angular/cli
 **Tener en cuenta que para la ejecución correcta de la aplicación hay que tener instalado nodejs version 8 o superior**
 
 ### Ejecucion
+Para ejecutar el programa de analytics se necesita tener instalado angular,
+posicionado en el directorio **AnalyticsWebApp** y ejecutar el siguiente comando para ejecutar el servicio en el buscador
+```
+ng serve
+```
+una vez ejecutado el comando para iniciar el servidor, en el buscador se puede escribir la siguiente
+dirección para acceder a la aplicación web
+```
+http://localhost:4200
+```
