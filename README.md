@@ -61,7 +61,7 @@ npm install -g @angular/cli
 ```
 
 **Tener en cuenta que para la ejecución correcta de la aplicación hay que tener instalado nodejs version 8 o superior**
-
+ 
 ### Ejecucion
 Para ejecutar el programa de analytics se necesita tener instalado angular,
 posicionado en el directorio **AnalyticsWebApp** y ejecutar el siguiente comando para ejecutar el servicio en el buscador
