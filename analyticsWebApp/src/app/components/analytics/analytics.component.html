@@ -51,6 +51,10 @@
                   <input type="radio" [(ngModel)]="radio_option_sel" (ngModelChange)="onChangeOption($event)" name="opciones" value="relationships">
                   Relaciones como objeto y sujeto
                 </label>
+                <label class="radio-inline">
+                  <input type="radio" [(ngModel)]="radio_option_sel" (ngModelChange)="onChangeOption($event)" name="opciones" value="gen_table">
+                  Tabla general
+                </label>
               </div>
               <div class="form-group">
                 <button type="button" class="btn btn-raised btn-warning" (click)="actionProcess()">Enviar</button>
@@ -72,8 +76,11 @@
         [data]="instance_metadata"
         [option]="radio_option_sel">
       </barchart>
+      <generaltable
+        *ngIf="radio_option_sel == 'gen_table'"
+        [data]="instance_metadata">
+      </generaltable>
     </div>
-
 
   </div>
 </div>

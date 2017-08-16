@@ -11,6 +11,9 @@ import { Component, OnInit, ViewEncapsulation, Input } from '@angular/core';
 })
 export class PiechartComponent implements OnInit, Input {
 
+  /*
+  * Inicializacion de variables
+  */
   graph_data: Array<any>;
   graph_options: {};
   specific_data: Array<any> = [];
@@ -19,10 +22,16 @@ export class PiechartComponent implements OnInit, Input {
 
   constructor() { }
 
+  /*
+  * Accion en carga de componente
+  */
   ngOnInit() {
     this.actionProcess();
   }
 
+  /*
+  * Procesamiento de la seleccion de datos para la grafica de torta
+  */
   actionProcess(){
 
     var up = 0;
@@ -34,7 +43,11 @@ export class PiechartComponent implements OnInit, Input {
       if(this.data[i][this.option] == null || this.data[i][this.option] == ""){
         down++;
       }else{
-        this.specific_data.push(this.data[i][this.option]);
+        var temp = {
+          "title": this.data[i]["title"],
+          "option": this.data[i][this.option]
+        }
+        this.specific_data.push(temp);
         up++;
       }
     }
@@ -58,6 +71,9 @@ export class PiechartComponent implements OnInit, Input {
     console.log(this.graph_data);
   }
 
+  /*
+  * Funcion de despliegue de la grafica de torta
+  */
   displayGraph(){
     this.graph_options = {
       chart: {

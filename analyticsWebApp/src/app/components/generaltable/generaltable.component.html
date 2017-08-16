@@ -1,0 +1,26 @@
+<div class="info-data-table general-table">
+  <table class="table table-striped table-hover">
+    <thead>
+      <tr>
+        <th>#</th>
+        <th>title</th>
+        <th>author</th>
+        <th>license</th>
+        <th>modification_date</th>
+        <th>organization</th>
+        <th>No_resources</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let obj of table_data; let i = index">
+        <td>{{i + 1}}</td>
+        <td>{{obj.titulo}}</td>
+        <td>{{obj.autor}}</td>
+        <td>{{obj.licencia}}</td>
+        <td>{{obj.fecha_modificacion}}</td>
+        <td>{{obj.organizacion}}</td>
+        <td>{{obj.numero_recursos}}</td>
+      </tr>
+    </tbody>
+  </table>
+</div>

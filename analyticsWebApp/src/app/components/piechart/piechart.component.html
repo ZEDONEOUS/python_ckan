@@ -5,13 +5,15 @@
     <thead>
     <tr>
       <th>#</th>
+      <th>package_title</th>
       <th>{{option}}</th>
     </tr>
     </thead>
     <tbody>
       <tr *ngFor="let val of specific_data; let i = index">
         <td>{{i + 1}}</td>
-        <td>{{val}}</td>
+        <td>{{val.title}}</td>
+        <td>{{val.option}}</td>
       </tr>
     </tbody>
   </table>

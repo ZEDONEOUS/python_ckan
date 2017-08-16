@@ -13,6 +13,7 @@ import 'd3';
 import 'nvd3';
 import { PiechartComponent } from './components/piechart/piechart.component';
 import { BarchartComponent } from './components/barchart/barchart.component';
+import { GeneraltableComponent } from './components/generaltable/generaltable.component';
 
 @NgModule({
   declarations: [
@@ -20,7 +21,8 @@ import { BarchartComponent } from './components/barchart/barchart.component';
     NvD3Component,
     AnalyticsComponent,
     PiechartComponent,
-    BarchartComponent
+    BarchartComponent,
+    GeneraltableComponent
   ],
   imports: [
     BrowserModule,
